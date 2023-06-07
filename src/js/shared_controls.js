@@ -741,6 +741,10 @@ function correctHiddenPower(pokemon) {
 	for (var i = 0; i < pokemon.moves.length; i++) {
 		var m = pokemon.moves[i].match(HIDDEN_POWER_REGEX);
 		if (!m) continue;
+		if (game !== 0) {
+			pokemon.moves[i] = "Hidden Power " + expected.type;
+			continue;
+		}
 		// The Pokemon has Hidden Power and is not maxed but the types don't match we don't
 		// want to attempt to reconcile the user's IVs so instead just correct the HP type
 		if (!maxed && expected.type !== m[1]) {
@@ -1046,13 +1050,13 @@ var RANDDEX = [
 	typeof GEN9RANDOMBATTLE === 'undefined' ? {} : GEN9RANDOMBATTLE,
 ];
 var gen, genWasChanged, notation, pokedex, setdex, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
-
+var DEFAULTGEN = 9;
 $(".gen").change(function () {
 	/*eslint-disable */
-	gen = ~~$(this).val() || 9;
+	gen = ~~$(this).val() || DEFAULTGEN;
 	GENERATION = calc.Generations.get(gen);
 	var params = new URLSearchParams(window.location.search);
-	if (gen === 9) {
+	if (gen === DEFAULTGEN) {
 		params.delete('gen');
 		params = '' + params;
 		if (window.history && window.history.replaceState) {
@@ -1094,6 +1098,8 @@ $(".gen").change(function () {
 
 	$(".set-selector").val(getFirstValidSetOption().id);
 	$(".set-selector").change();
+
+	updateGameOptions();
 });
 
 function getFirstValidSetOption() {
@@ -1391,11 +1397,15 @@ function loadCustomList(id) {
 	});
 }
 
+var READY;
 $(document).ready(function () {
 	var params = new URLSearchParams(window.location.search);
-	var g = GENERATION[params.get('gen')] || 9;
+	var g = GENERATION[params.get('gen')] || DEFAULTGEN;
+	var gm = params.get("game") || 0;
 	$("#gen" + g).prop("checked", true);
 	$("#gen" + g).change();
+	$("#game" + gm).prop("checked", true);
+	$("#game" + gm).change();
 	$("#percentage").prop("checked", true);
 	$("#percentage").change();
 	$("#singles-format").prop("checked", true);
@@ -1411,6 +1421,8 @@ $(document).ready(function () {
 	$(".set-selector").val(getFirstValidSetOption().id);
 	$(".set-selector").change();
 	$(".terrain-trigger").bind("change keyup", getTerrainEffects);
+
+	READY = true;
 });
 
 /* Click-to-copy function */
@@ -1422,3 +1434,15 @@ $("#mainResult").click(function () {
 		}, 2000);
 	});
 });
+
+function updateGameOptions() {
+	if (!READY) return;
+	var params = new URLSearchParams(window.location.search);
+	$("#game0").prop("checked", true);
+	game = 0;
+	params.delete("game");
+	params = '' + params;
+	if (window.history && window.history.replaceState) {
+		window.history.replaceState({}, document.title, window.location.pathname + (params.length ? '?' + params : ''));
+	}
+}

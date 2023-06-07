@@ -41,7 +41,7 @@
 
     <span class="title-text main-title-text">Pok&eacute;mon Damage Calculator</span>
     <div aria-label="Settings" role="region">
-        <span class="genSelection" aria-labelledby="selectGenInstruction" role="radiogroup" title="Select the generation.">
+        <span class="genSelection" aria-labelledby="selectGenInstruction" role="radiogroup" title="Select the generation."style="padding-top: 5px;">
             <span class="visually-hidden" id="selectGenInstruction">Select the generation.</span>
             <input class="gen visually-hidden" type="radio" name="gen" value="1" id="gen1" /><label class="btn btn-small btn-left" for="gen1">RBY</label>
             <input class="gen visually-hidden" type="radio" name="gen" value="2" id="gen2" /><label class="btn btn-small btn-mid" for="gen2">GSC</label>
@@ -64,6 +64,12 @@
             <input class="mode visually-hidden" type="radio" name="mode" id="one-vs-all" /><label class="btn btn-mid btn-wide gen-specific g3 g4 g5 g6 g7 g8 g9" for="one-vs-all">One vs All</label>
             <input class="mode visually-hidden" type="radio" name="mode" id="all-vs-one" /><label class="btn btn-mid btn-wide gen-specific g3 g4 g5 g6 g7 g8 g9" for="all-vs-one">All vs One</label>
             <input class="mode visually-hidden" type="radio" name="mode" id="randoms" /><label class="btn btn-right btn-xwide" for="randoms">Random Battles</label>
+        </span>
+        <br />
+        <span class="gameSelection" aria-labelledby="selectGameInstruction" role="radiogroup" title="Select the game." style="padding-top: 5px;">
+            <span class="visually-hidden" id="selectGameInstruction">Select the game.</span>
+            <input class="game visually-hidden" type="radio" name="game" value="0" id="game0" /><label class="btn btn-left" for="game0">None</label>
+            <input class="game visually-hidden" type="radio" name="game" value="10" id="game10" /><label class="btn btn-right" for="game10">HG/SS</label>
         </span>
     </div>
     <hr />
@@ -1557,6 +1563,7 @@
     <script type="text/javascript" src="./js/data/sets/gen7.js?"></script>
     <script type="text/javascript" src="./js/data/sets/gen6.js?"></script>
     <script type="text/javascript" src="./js/data/sets/gen5.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen4games.js"></script>
     <script type="text/javascript" src="./js/data/sets/gen4.js?"></script>
     <script type="text/javascript" src="./js/data/sets/gen3.js?"></script>
     <script type="text/javascript" src="./js/data/sets/gen2.js?"></script>
@@ -1585,12 +1592,13 @@
     <script type="text/javascript" src="./js/shared_controls.js?"></script>
     <script type="text/javascript" src="./js/index_randoms_controls.js?"></script>
     <script type="text/javascript" src="./js/moveset_import.js?"></script>
+
+    <script type="text/javascript" src="./js/game_controls.js"></script>
 </div>
 
 <div class="credits">Created by Honko, maintained by Austin and Kris
-    <ul><li><a href="https://github.com/smogon/damage-calc/contributors" class="links-lighten" target="_blank">Contributors</a></li>
-    <li><a href="https://www.smogon.com/forums/threads/pok%C3%A9mon-showdown-damage-calculator.3593546/" class="links-lighten" target="_blank">Bug Reports</a></li>
-    <li><a href="https://github.com/smogon/damage-calc" class="links-lighten" target="_blank">GitHub repository</a></li></ul>
+    <ul><li><a href="https://github.com/anastarawneh/pokemon-damage-calc/contributors" class="links-lighten" target="_blank">Contributors</a></li>
+    <li><a href="https://github.com/anastarawneh/pokemon-damage-calc" class="links-lighten" target="_blank">GitHub repository</a></li></ul>
 
     <button type="button" id="dark-theme-toggle"></button>
     <script type="text/javascript" src="./js/dark-theme-toggle.js?"></script>

@@ -311,7 +311,7 @@ th {
     background: #ffff99;
 }
 
-.genSelection, .notationSelection, .modeSelection {
+.genSelection, .notationSelection, .modeSelection, .gameSelection {
     display: inline-block;
     position: relative;
     top: -8px;

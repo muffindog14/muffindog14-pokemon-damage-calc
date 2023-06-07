@@ -265,6 +265,9 @@ function updateDex(customsets) {
 			SETDEX_GSC[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!SETDEX_RBY[pokemon]) SETDEX_RBY[pokemon] = {};
 			SETDEX_RBY[pokemon][moveset] = customsets[pokemon][moveset];
+
+			if (!CUSTOMSETDEX_HGSS[pokemon]) CUSTOMSETDEX_HGSS[pokemon] = {};
+			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset]
 		}
 	}
 	localStorage.customsets = JSON.stringify(customsets);
