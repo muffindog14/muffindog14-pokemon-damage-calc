@@ -6,3 +6,6 @@ eslint-cache/
 Thumbs.db
 pnpm-debug.log
 npm-debug.log
+
+package-lock.json
+package.json
