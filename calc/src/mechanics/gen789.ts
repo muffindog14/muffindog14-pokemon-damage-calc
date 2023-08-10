@@ -173,7 +173,11 @@ export function calculateSMSSSV(
     desc.terrain = field.terrain;
     desc.moveType = type;
   } else if (move.named('Revelation Dance')) {
-    type = attacker.types[0];
+    if (attacker.teraType) {
+      type = attacker.teraType;
+    } else {
+      type = attacker.types[0];
+    }
   } else if (move.named('Aura Wheel')) {
     if (attacker.named('Morpeko')) {
       type = 'Electric';
@@ -206,6 +210,7 @@ export function calculateSMSSSV(
     'Natural Gift',
     'Weather Ball',
     'Terrain Pulse',
+    'Struggle',
   ) || (move.named('Tera Blast') && attacker.teraType);
 
   if (!move.isZ && !noTypeChange) {
