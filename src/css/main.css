@@ -299,7 +299,6 @@ th {
 }
 
 .game.visually-hidden:disabled + .btn {
-    color: #999999;
     background-color: #d3d3d3;
 }
 

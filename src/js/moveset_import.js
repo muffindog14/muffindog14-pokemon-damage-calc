@@ -266,8 +266,12 @@ function updateDex(customsets) {
 			if (!SETDEX_RBY[pokemon]) SETDEX_RBY[pokemon] = {};
 			SETDEX_RBY[pokemon][moveset] = customsets[pokemon][moveset];
 
+			if (!CUSTOMSETDEX_E[pokemon]) CUSTOMSETDEX_E[pokemon] = {};
+			CUSTOMSETDEX_E[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!CUSTOMSETDEX_HGSS[pokemon]) CUSTOMSETDEX_HGSS[pokemon] = {};
-			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset]
+			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset];
+			if (!CUSTOMSETDEX_XY[pokemon]) CUSTOMSETDEX_XY[pokemon] = {};
+			CUSTOMSETDEX_XY[pokemon][moveset] = customsets[pokemon][moveset];
 		}
 	}
 	localStorage.customsets = JSON.stringify(customsets);
