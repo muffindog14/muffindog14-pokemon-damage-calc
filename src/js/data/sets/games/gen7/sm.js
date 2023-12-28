@@ -22014,4 +22014,4 @@ var CUSTOMSETDEX_SM = {
             "nature": "Serious"
         }
     }
-}
+};

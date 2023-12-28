@@ -36702,4 +36702,4 @@ var CUSTOMSETDEX_E = {
             "nature": "Gentle"
         }
     }
-}
+};

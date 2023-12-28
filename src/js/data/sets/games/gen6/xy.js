@@ -18039,4 +18039,4 @@ var CUSTOMSETDEX_XY = {
             "nature": "Hardy"
         }
     }
-}
+};

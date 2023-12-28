@@ -45,9 +45,12 @@ function cpdir(src, dest) {
 		} else if (file.endsWith('.js')) {
 			let contents = fs.readFileSync(path.join(src, file), 'utf8').replace(/^exports.* = void 0;$/gm, '');
 			// Minify the sets so we save bandwith
-			if (src === 'src/js/data/sets') {
+			if (src === 'src/js/data/sets' || src.includes('src/js/data/sets/games/gen')) {
 				const brkOpenIdx = contents.indexOf('{');
 				contents = `${contents.slice(0, brkOpenIdx)}${JSON.stringify(JSON.parse(contents.slice(brkOpenIdx, -2)))};`
+			} else if (src === 'src\\js\\data\\sets' || src.includes('src\\js\\data\\sets\\games\\gen')) {
+				const brkOpenIdx = contents.indexOf('{');
+				contents = `${contents.slice(0, brkOpenIdx)}${JSON.stringify(JSON.parse(contents.slice(brkOpenIdx, -3)))};`
 			}
 			fs.writeFileSync(path.join(dest, file), contents);
 		} else {
