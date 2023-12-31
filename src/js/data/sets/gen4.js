@@ -2071,7 +2071,7 @@ var SETDEX_DPP = {
     "OU Tank": {"ability":"Levitate","item":"Leftovers","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"df":128,"sd":128},"moves":["Stealth Rock","Toxic","Gyro Ball","Earthquake"]},
     "OU Offensive Stealth Rock": {"ability":"Levitate","item":"Occa Berry","nature":"Brave","ivs":{"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Stealth Rock","Gyro Ball","Earthquake","Explosion"]},
     "Ubers Specially Defensive": {"ability":"Levitate","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":8,"sd":248},"moves":["Stealth Rock","Payback","Earthquake","Explosion"]},
-    "Doubles OU Showdown Usage": {"ability":"Levitate","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"at":4,"sd":252},"moves":["Gyro Ball","Explosion","Trick Room","Protect"]},
+    "Doubles OU Utility": {"ability":"Levitate","item":"Occa Berry","nature":"Brave","ivs":{"sp":0},"evs":{"hp":252,"at":172,"sd":84},"moves":["Trick Room","Gyro Ball","Stealth Rock","Explosion"]},
     "Anything Goes Showdown Usage": {"ability":"Levitate","item":"Lum Berry","nature":"Relaxed","evs":{"hp":252,"df":88,"sd":168},"moves":["Stealth Rock","Toxic","Explosion","Gyro Ball"]}
   },
   "Bonsly": {
@@ -2241,9 +2241,6 @@ var SETDEX_DPP = {
     "UU Trapper": {"ability":"Magnet Pull","item":"Leftovers","nature":"Modest","evs":{"hp":172,"sa":252,"sp":84},"moves":["Magnet Rise","Taunt","Earth Power","Power Gem"]}
   },
   "Froslass": {
-    "OU Spikes Lead": {"ability":"Snow Cloak","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Spikes","Taunt","Destiny Bond","Ice Beam"]},
-    "OU Hail Stall": {"ability":"Snow Cloak","item":"Leftovers","nature":"Timid","evs":{"hp":248,"df":228,"sp":32},"moves":["Substitute","Thunder Wave","Spikes","Blizzard"]},
-    "OU Choice Scarf Lead": {"ability":"Snow Cloak","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Trick","Spikes","Destiny Bond","Ice Beam"]},
     "Ubers Spikes Lead": {"ability":"Snow Cloak","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Spikes","Icy Wind","Shadow Ball","Destiny Bond"]},
     "Anything Goes Showdown Usage": {"ability":"Snow Cloak","item":"Leftovers","nature":"Timid","evs":{"hp":224,"sa":32,"sp":252},"moves":["Blizzard","Protect","Substitute","Double Team"]}
   },

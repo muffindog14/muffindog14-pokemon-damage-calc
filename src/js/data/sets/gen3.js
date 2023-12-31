@@ -302,7 +302,8 @@ var SETDEX_ADV = {
     "OU Swagger + Psych Up": {"ability":"Clear Body","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Swagger","Psych Up","Superpower","Rock Slide"]}
   },
   "Regice": {
-    "OU Offensive": {"ability":"Clear Body","item":"Leftovers","nature":"Quiet","evs":{"hp":252,"at":104,"sa":152},"moves":["Ice Beam","Thunderbolt","Explosion","Thunder Wave"]}
+    "OU Offensive": {"ability":"Clear Body","item":"Leftovers","nature":"Quiet","evs":{"hp":252,"at":104,"sa":152},"moves":["Ice Beam","Thunderbolt","Explosion","Thunder Wave"]},
+    "Doubles OU BoltBeam": {"ability":"Clear Body","item":"Leftovers","nature":"Modest","evs":{"hp":252,"df":4,"sa":252},"moves":["Ice Beam","Thunderbolt","Thunder Wave","Protect"]}
   },
   "Registeel": {
     "OU RestTalk": {"ability":"Clear Body","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":236,"sp":20},"moves":["Rest","Sleep Talk","Toxic","Seismic Toss"]},
@@ -536,7 +537,8 @@ var SETDEX_ADV = {
   },
   "Mankey": {
     "LC Substitute + Reversal": {"level":5,"ability":"Vital Spirit","item":"Salac Berry","nature":"Jolly","ivs":{"df":30,"sd":30},"evs":{"hp":36,"at":196,"df":80,"sp":196},"moves":["Reversal","Hidden Power Ghost","Substitute","Endure"]},
-    "ZU Choice Band": {"ability":"Vital Spirit","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Cross Chop","Earthquake","Rock Slide","Focus Punch"]}
+    "ZU Choice Band": {"ability":"Vital Spirit","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Cross Chop","Earthquake","Rock Slide","Focus Punch"]},
+    "ZU Salac Sweeper": {"ability":"Vital Spirit","item":"Salac Berry","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Substitute","Reversal","Earthquake","Bulk Up"]}
   },
   "Primeape": {
     "UU Choice Band": {"ability":"Vital Spirit","item":"Choice Band","nature":"Jolly","ivs":{"df":30,"sd":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Cross Chop","Focus Punch","Rock Slide","Hidden Power Ghost"]},
@@ -602,7 +604,7 @@ var SETDEX_ADV = {
     "OU Curse": {"ability":"Own Tempo","item":"Leftovers","nature":"Brave","evs":{"hp":252,"at":176,"sd":80},"moves":["Curse","Earthquake","Ice Beam","Rest"]}
   },
   "Magnemite": {
-    "LC Defensive Utility": {"level":5,"ability":"Sturdy","item":"Sitrus Berry","nature":"Calm","ivs":{"at":2,"sa":30},"evs":{"hp":156,"df":116,"sa":80,"sd":156},"moves":["Thunderbolt","Hidden Power Grass","Thunder Wave","Metal Sound"]},
+    "LC Defensive Utility": {"level":5,"ability":"Sturdy","item":"Sitrus Berry","nature":"Modest","ivs":{"at":2,"sa":30},"evs":{"sa":240,"sp":236},"moves":["Thunderbolt","Hidden Power Grass","Thunder Wave","Metal Sound"]},
     "ZU Substitute + Status": {"ability":"Magnet Pull","item":"Leftovers","nature":"Bold","ivs":{"at":30,"sa":30},"evs":{"hp":252,"df":20,"sa":32,"sp":204},"moves":["Thunder Wave","Thunderbolt","Hidden Power Grass","Substitute"]}
   },
   "Magneton": {
@@ -807,7 +809,8 @@ var SETDEX_ADV = {
   },
   "Aerodactyl": {
     "OU Choice Band": {"ability":"Rock Head","item":"Choice Band","nature":"Jolly","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sd":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Rock Slide","Double-Edge","Earthquake","Hidden Power Flying"]},
-    "Ubers Choice Band": {"ability":"Rock Head","item":"Choice Band","nature":"Adamant","ivs":{"df":30,"sd":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Rock Slide","Double-Edge","Earthquake","Hidden Power Ghost"]}
+    "Ubers Choice Band": {"ability":"Rock Head","item":"Choice Band","nature":"Adamant","ivs":{"df":30,"sd":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Rock Slide","Double-Edge","Earthquake","Hidden Power Ghost"]},
+    "Doubles OU Choice Band": {"ability":"Rock Head","item":"Choice Band","nature":"Jolly","ivs":{"df":30,"sd":30,"sp":30},"evs":{"hp":76,"at":252,"sp":180},"moves":["Earthquake","Hidden Power Rock","Double-Edge","Aerial Ace"]}
   },
   "Snorlax": {
     "OU CurseLax": {"ability":"Immunity","item":"Leftovers","nature":"Careful","evs":{"hp":144,"at":96,"df":132,"sd":136},"moves":["Curse","Rest","Return","Shadow Ball"]},
@@ -967,6 +970,7 @@ var SETDEX_ADV = {
     "OU Standard": {"ability":"Guts","item":"Leftovers","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Megahorn","Rock Slide","Focus Punch","Swords Dance"]},
     "OU SubSalac": {"ability":"Swarm","item":"Salac Berry","nature":"Adamant","ivs":{"hp":30},"evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Megahorn","Substitute","Rock Slide"]},
     "OU Choice Band": {"ability":"Swarm","item":"Choice Band","nature":"Adamant","ivs":{"df":30,"sd":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Megahorn","Brick Break","Rock Slide","Hidden Power Ghost"]},
+    "Doubles OU Choice Band": {"ability":"Swarm","item":"Choice Band","nature":"Adamant","ivs":{"df":30,"sd":30},"evs":{"hp":104,"at":176,"sp":228},"moves":["Megahorn","Brick Break","Earthquake","Hidden Power Ghost"]},
     "Ubers Showdown Usage": {"ability":"Swarm","item":"Salac Berry","nature":"Adamant","evs":{"hp":12,"at":244,"sp":252},"moves":["Megahorn","Rock Slide","Swords Dance","Substitute"]}
   },
   "Sneasel": {
@@ -1043,7 +1047,7 @@ var SETDEX_ADV = {
   },
   "Larvitar": {
     "LC Dragon Dance": {"level":5,"ability":"Guts","item":"Sitrus Berry","nature":"Jolly","ivs":{"df":30,"sd":30},"evs":{"hp":36,"at":164,"sd":120,"sp":188},"moves":["Dragon Dance","Rock Slide","Earthquake","Hidden Power Ghost"]},
-    "ZU Dragon Dance": {"ability":"Guts","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Earthquake","Rock Slide","Brick Break"]}
+    "ZU Dragon Dance": {"ability":"Guts","item":"Soft Sand","nature":"Jolly","ivs":{"at":30,"df":30,"sd":30},"evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Dance","Earthquake","Rock Slide","Hidden Power Bug"]}
   },
   "Pupitar": {
     "NU Dragon Dance": {"ability":"Shed Skin","item":"Leftovers","nature":"Jolly","ivs":{"at":30,"df":30,"sd":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Dragon Dance","Earthquake","Rock Slide","Hidden Power Bug"]}
@@ -1199,7 +1203,7 @@ var SETDEX_ADV = {
     "UU Tank": {"ability":"Magma Armor","item":"Leftovers","nature":"Brave","evs":{"hp":28,"at":188,"sa":136,"sd":156},"moves":["Earthquake","Fire Blast","Toxic","Explosion"]}
   },
   "Spoink": {
-    "ZU Substitute + Calm Mind": {"ability":"Thick Fat","item":"Leftovers","nature":"Timid","ivs":{"at":2,"sa":30},"evs":{"hp":252,"sa":4,"sp":252},"moves":["Calm Mind","Psychic","Hidden Power Grass","Substitute"]},
+    "ZU Substitute + Calm Mind": {"ability":"Thick Fat","item":"Leftovers","nature":"Timid","ivs":{"at":30,"sa":30},"evs":{"hp":252,"sa":4,"sp":252},"moves":["Substitute","Calm Mind","Psychic","Hidden Power Grass"]},
     "ZU Lead": {"ability":"Thick Fat","item":"Lum Berry","nature":"Timid","ivs":{"at":30,"sa":30,"sp":30},"evs":{"hp":236,"sa":88,"sp":184},"moves":["Calm Mind","Taunt","Psychic","Hidden Power Fire"]}
   },
   "Grumpig": {
