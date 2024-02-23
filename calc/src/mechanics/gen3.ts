@@ -183,6 +183,24 @@ export function calculateADV(
     desc.attackerAbility = attacker.ability;
   }
 
+  if (field.attackerSide.isStoneBadge && move.hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison', 'Steel')) {
+    at = Math.floor(at * 1.1);
+    desc.isStoneBadge = true;
+  }
+
+  if (field.attackerSide.isMindBadge && move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon', 'Dark')) {
+    at = Math.floor(at * 1.1);
+    desc.isMindBadge = true;
+  }
+
+  if (field.defenderSide.isBalanceBadge && isPhysical) {
+    df = Math.floor(df * 1.1);
+  }
+
+  if (field.defenderSide.isMindBadge && !isPhysical) {
+    df = Math.floor(df * 1.1);
+  }
+
   if (!attacker.hasItem('Sea Incense') && move.hasType(getItemBoostType(attacker.item))) {
     at = Math.floor(at * 1.1);
     desc.attackerItem = attacker.item;

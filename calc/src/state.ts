@@ -70,6 +70,10 @@ export namespace State {
     isForesight?: boolean;
     isTailwind?: boolean;
     isHelpingHand?: boolean;
+    isStoneBadge?: boolean;
+    isDynamoBadge?: boolean;
+    isBalanceBadge?: boolean;
+    isMindBadge?: boolean;
     isFlowerGift?: boolean;
     isFriendGuard?: boolean;
     isAuroraVeil?: boolean;
