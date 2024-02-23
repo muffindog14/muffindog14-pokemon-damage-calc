@@ -532,6 +532,21 @@ export function getEVDescriptionText(
      Stats.displayStat(stat));
 }
 
+export function getIVDescriptionText(
+  gen: Generation,
+  pokemon: Pokemon,
+  stat: 'atk' | 'def' | 'spd' | 'spa',
+  natureName: NatureName
+): string {
+  const nature = gen.natures.get(toID(natureName))!;
+  return (pokemon.ivs[stat] +
+    (nature.plus === nature.minus ? ''
+    : nature.plus === stat ? '+'
+    : nature.minus === stat ? '-'
+    : '') + ' ' +
+     Stats.displayStat(stat));
+}
+
 export function handleFixedDamageMoves(attacker: Pokemon, move: Move) {
   if (move.named('Seismic Toss', 'Night Shade')) {
     return attacker.level;

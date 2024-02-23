@@ -154,6 +154,12 @@ const ADV = GSC.filter(i => !GSC_ONLY.includes(i)).concat([
   'Wiki Berry',
 ]);
 
+const EK = ADV.concat([
+  "Big Nugget",
+  "Energy Powder",
+  "Enigma Berry"
+]);
+
 const DPP = ADV.concat([
   'Adamant Orb',
   'Armor Fossil',
@@ -575,6 +581,8 @@ const BERRIES: {[berry: string]: {t: I.TypeName; p: number}} = {
 };
 
 export const ITEMS = [[], RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
+
+export const HACK_ITEMS = [[], EK];
 
 export class Items implements I.Items {
   private readonly gen: I.GenerationNum;

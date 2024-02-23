@@ -567,6 +567,70 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
 
 const ADV: {[name: string]: MoveData} = extend(true, {}, GSC, ADV_PATCH);
 
+const EK_PATCH: {[name: string]: DeepPartial<MoveData>} = {
+  // Generation 1
+  Crabhammer: {bp: 120},
+  'Dizzy Punch': {bp: 90},
+  'Hi Jump Kick': {bp: 85, type: 'Fighting', hasCrashDamage: true, makesContact: true},
+  'Petal Dance': {bp: 95},
+  'Sonicboom': {bp: 0},
+  'Sky Attack': {bp: 120, recoil: [1, 3]},
+  'Leech Life': {bp: 40},
+  'Egg Bomb': {bp: 120, type: 'Grass', recoil: [1, 3]},
+  // Generation 2
+  Aeroblast: {bp: 120},
+  'Ancientpower': {bp: 80, type: 'Rock'},
+  'Bone Rush': {bp: 100, type: 'Ground', multihit: []},
+  'Faint Attack': {bp: 60, type: 'Dark'},
+  'Giga Drain': {bp: 75},
+  'Rock Smash': {bp: 40},
+  'Extreme Speed': {bp: 100},
+  Snore: {bp: 60},
+  'Sacred Fire': {bp: 120},
+  Octazooka: {bp: 95},
+  'Steel Wing': {bp: 80},
+  // Generation 3
+  'Bullet Seed': {bp: 25, multihit: 2},
+  'Leaf Blade': {bp: 95},
+  'Needle Arm': {bp: 95},
+  'Spit Up': {bp: 100},
+  'Sky Uppercut': {bp: 90},
+  'Hyper Voice': {bp: 120},
+  'Poison Fang': {bp: 90},
+  'Rock Tomb': {bp: 55},
+  'Luster Purge': {bp: 90},
+  'Mist Ball': {bp: 90},
+  'Blaze Kick': {bp: 100},
+  'Crush Claw': {bp: 100},
+  'Poison Tail': {bp: 120},
+  'Shadow Punch': {bp: 70},
+  'Water Spout': {target: 'allAdjacentFoes', recoil: [1, 4]},
+  // Generation 4
+  'Air Slash': {bp:80, type:'Flying'},
+  'Draco Meteor': {bp: 120, type:'Dragon', recoil: [1, 3]},
+  'Earth Power': {bp: 90, type:'Ground'},
+  'Flash Cannon': {bp:90, type:'Steel'},
+  'Force Palm': {bp: 60, type:'Fighting'},
+  'Gunk Shot': {bp: 120, type:'Poison'},
+  'Head Smash': {bp: 150, type:'Rock', recoil: [1, 3]},
+  'Ice Shard': {bp:40, type:'Ice'},
+  'Shadow Sneak': {bp: 40, type:'Ghost'},
+  'X-scissors': {bp:80, type:'Bug'},
+  // Generation 5
+  'Drill Run': {bp: 80, type: 'Ground'},
+  'Wild Charge': {bp: 90, type:'Electric', recoil: [1, 3]},
+};
+
+const EK: {[name: string]: MoveData} = extend(true, {}, ADV, EK_PATCH);
+
+delete EK['High Jump Kick'];
+delete EK['Sonic Boom'];
+delete EK['Ancient Power'];
+delete EK['Feint Attack'];
+EK['Overheat'] = {bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3]};
+EK['Psycho Boost'] = {bp: 140, type: 'Psychic', recoil: [1, 4]};
+EK['Superpower'] = {bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true};
+
 const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Absorb: {category: 'Special'},
   'Arm Thrust': {category: 'Physical'},
@@ -4916,6 +4980,8 @@ const SV: {[name: string]: MoveData} = extend(true, {}, SS, SV_PATCH);
 
 export const MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 
+export const HACK_MOVES = [{}, EK];
+
 export class Moves implements I.Moves {
   private readonly gen: I.GenerationNum;
 
@@ -5023,4 +5089,25 @@ for (const moves of MOVES) {
   }
   MOVES_BY_ID.push(map);
   gen++;
+}
+
+export const HACK_MOVES_BY_ID: Array<{[id: string]: Move}> = [];
+
+const HACKGEN = [
+  0,
+  3
+];
+
+let game = 0;
+for (const moves of HACK_MOVES) {
+  const map: {[id: string]: Move} = {};
+  for (const move in moves) {
+    const data = moves[move];
+    if ([1].includes(game)) {
+      const m = new Move(move, data, HACKGEN[game]);
+      map[m.id] = m;
+    } else break;
+  }
+  HACK_MOVES_BY_ID.push(map);
+  game++;
 }

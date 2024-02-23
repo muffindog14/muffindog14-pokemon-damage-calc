@@ -67,33 +67,14 @@
         </span>
         <span class="gamemodeSelection" aria-labelledby="selectGamemodeInstruction" role="radiogroup" title="Select the game mode.">
             <span class="visually-hidden" id="selectGamemodeInstruction">Select the game mode.</span>
-            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" checked="checked" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
-            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
+            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
+            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" checked="checked" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
         </span>
         <br />
         <span class="gameSelection" aria-labelledby="selectGameInstruction" role="radiogroup" title="Select the game." style="padding-top: 5px;">
             <span class="visually-hidden" id="selectGameInstruction">Select the game.</span>
             <input class="game visually-hidden" type="radio" name="game" value="0" id="game0" /><label class="btn btn-left" for="game0">None</label>
-            <input class="game visually-hidden" type="radio" name="game" value="1" id="game1" disabled /><label class="btn btn-mid">R/B</label>
-            <input class="game visually-hidden" type="radio" name="game" value="2" id="game2" disabled /><label class="btn btn-mid">Yellow</label>
-            <input class="game visually-hidden" type="radio" name="game" value="3" id="game3" disabled /><label class="btn btn-mid">G/S</label>
-            <input class="game visually-hidden" type="radio" name="game" value="4" id="game4" disabled /><label class="btn btn-mid">Crystal</label>
-            <input class="game visually-hidden" type="radio" name="game" value="5" id="game5" disabled /><label class="btn btn-mid">R/S</label>
-            <input class="game visually-hidden" type="radio" name="game" value="6" id="game6" /><label class="btn btn-mid" for="game6">Emerald</label>
-            <input class="game visually-hidden" type="radio" name="game" value="7" id="game7" disabled /><label class="btn btn-mid">FR/LG</label>
-            <input class="game visually-hidden" type="radio" name="game" value="8" id="game8" disabled /><label class="btn btn-mid">D/P</label>
-            <input class="game visually-hidden" type="radio" name="game" value="9" id="game9" /><label class="btn btn-mid" for="game9">Platinum</label>
-            <input class="game visually-hidden" type="radio" name="game" value="10" id="game10" /><label class="btn btn-mid" for="game10">HG/SS</label>
-            <input class="game visually-hidden" type="radio" name="game" value="11" id="game11" disabled /><label class="btn btn-mid">B/W</label>
-            <input class="game visually-hidden" type="radio" name="game" value="12" id="game12" disabled /><label class="btn btn-mid">B2/W2</label>
-            <input class="game visually-hidden" type="radio" name="game" value="13" id="game13" /><label class="btn btn-mid" for="game13">X/Y</label>
-            <input class="game visually-hidden" type="radio" name="game" value="14" id="game14" disabled /><label class="btn btn-mid">OR/AS</label>
-            <input class="game visually-hidden" type="radio" name="game" value="15" id="game15" /><label class="btn btn-mid" for="game15">S/M</label>
-            <input class="game visually-hidden" type="radio" name="game" value="16" id="game16" disabled /><label class="btn btn-mid" for="game16">US/UM</label>
-            <input class="game visually-hidden" type="radio" name="game" value="17" id="game17" disabled /><label class="btn btn-mid" for="game17">Sw/Sh</label>
-            <input class="game visually-hidden" type="radio" name="game" value="18" id="game18" disabled /><label class="btn btn-mid" for="game18">BD/SP</label>
-            <input class="game visually-hidden" type="radio" name="game" value="19" id="game19" disabled /><label class="btn btn-right" for="game19">S/V</label>
-
+            <input class="game visually-hidden" type="radio" name="game" value="1" id="game1" /><label class="btn btn-right btn-xwide" for="game1">Emerald Kaizo</label>
         </span>
     </div>
     <hr />
@@ -1018,28 +999,28 @@
                                 <label class="btn btn-xxwide" for="helpingHandR">Helping Hand</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Has this Pok&eacute;mon's attack been boosted by Roxxane's badge?">
                                 <div hidden id="selectStoneBadgeInstruction">Has this Pok&eacute;mon's attack been boosted by Roxxane's badge?</div>
                                 <input aria-describedby="selectStoneBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="stoneBadge" />
                                 <label class="btn btn-xxwide" for="stoneBadge">Attack Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Has this Pok&eacute;mon's speed been boosted by Wattson's badge?">
                                 <div hidden id="selectDynamoBadgeInstruction">Has this Pok&eacute;mon's speed been boosted by Wattson's badge?</div>
                                 <input aria-describedby="selectDynamoBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="dynamoBadge" />
                                 <label class="btn btn-xxwide" for="dynamoBadge">Speed Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Has this Pok&eacute;mon's defense been boosted by Norman's badge?">
                                 <div hidden id="selectBalanceBadgeInstruction">Has this Pok&eacute;mon's defense been boosted by Norman's badge?</div>
                                 <input aria-describedby="selectBalanceBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="balanceBadge" />
                                 <label class="btn btn-xxwide" for="balanceBadge">Defense Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Have this Pok&eacute;mon's special stats been boosted by Tate & Liza's badge?">
                                 <div hidden id="selectMindBadgeInstruction">Have this Pok&eacute;mon's special stats been boosted by Tate &amp; Liza's badge?</div>
                                 <input aria-describedby="selectMindBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="mindBadge" />
@@ -1695,11 +1676,11 @@
                 </select>
             </div>
         </fieldset>
-        <div class="game-specific gm1 gm2 gm3 gm4 gm5 gm6 gm7 gm8 gm9 gm10 gm11 gm12 gm13 gm14 gm15 gm16 gm17">
+        <div class="game-specific gm1">
             <fieldset class="poke-info">
                 <legend align="center">Enemy Party</legend>
                 <div class="trainer-poke-list-opposing"></div>
-                <div class="game-specific gm0">
+                <div class="game-specific gm1">
                     <hr>
                     <button type="button" id="previous-trainer">Previous Trainer</button>
                     <button type="button" id="next-trainer">Next Trainer</button>
@@ -1733,11 +1714,9 @@
     <script type="text/javascript" src="./js/data/sets/gen3.js?"></script>
     <script type="text/javascript" src="./js/data/sets/gen2.js?"></script>
     <script type="text/javascript" src="./js/data/sets/gen1.js?"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen3/emerald.js?"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen4/platinum.js?"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen4/hgss.js?"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen6/xy.js?"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen7/sm.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/hacks/gen3/ek.js?"></script>
+    <script type="text/javascript" src="./js/data/party_order/hacks/ek.js?"></script>
+    <script type="text/javascript" src="./js/data/trainer_names/hacks/ek.js?"></script>
     <script type="text/javascript" src="./calc/data/types.js?"></script>
     <script type="text/javascript" src="./calc/data/natures.js?"></script>
     <script type="text/javascript" src="./calc/data/abilities.js?"></script>

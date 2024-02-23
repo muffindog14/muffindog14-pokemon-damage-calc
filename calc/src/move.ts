@@ -1,4 +1,5 @@
 import * as I from './data/interface';
+import {HACK_MOVES_BY_ID} from './data/moves';
 import {State} from './state';
 import {toID, extend} from './util';
 
@@ -55,6 +56,14 @@ export class Move implements State.Move {
     name = options.name || name;
     this.originalName = name;
     let data: I.Move = extend(true, {name}, gen.moves.get(toID(name)), options.overrides);
+    
+    var isHack = window.location.pathname.includes("hacks.html");
+    if (isHack) {
+      var game = parseInt(new URLSearchParams(window.location.search).get("game") || "0");
+      if ([1].includes(game)) {
+        data = extend(true, {name}, HACK_MOVES_BY_ID[game][toID(name)], options.overrides);
+      }
+    }
 
     this.hits = 1;
     // If isZMove but there isn't a corresponding z-move, use the original move
