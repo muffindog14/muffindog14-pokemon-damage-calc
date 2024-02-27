@@ -693,10 +693,6 @@ var SETDEX_DPP = {
     "UU Swords Dance": {"ability":"Leaf Guard","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Leaf Blade","Double-Edge","Synthesis"]},
     "UU Physical Wall": {"ability":"Leaf Guard","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Wish","Protect","Leaf Blade","Yawn"]}
   },
-  "Glaceon": {
-    "PU BRRRR (Choice Specs)": {"ability":"Snow Cloak","item":"Choice Specs","nature":"Timid","ivs":{"at":3,"sa":30,"sd":30},"evs":{"hp":40,"sa":252,"sd":4,"sp":212},"moves":["Ice Beam","Shadow Ball","Hidden Power Ground","Baton Pass"]},
-    "Doubles OU Showdown Usage": {"ability":"Snow Cloak","item":"Choice Specs","nature":"Quiet","evs":{"hp":252,"sa":252,"sd":4},"moves":["Blizzard","Shadow Ball","Ice Beam","Protect"]}
-  },
   "Gallade": {
     "OU Attacking Lead": {"ability":"Steadfast","item":"Lum Berry","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Will-O-Wisp","Taunt","Ice Punch"]}
   },
@@ -1072,6 +1068,9 @@ var SETDEX_DPP = {
   "Eevee": {
     "LC Mixed Attacker": {"level":5,"ability":"Adaptability","item":"Life Orb","nature":"Naughty","ivs":{"at":30,"sa":30},"evs":{"at":240,"sp":236},"moves":["Return","Quick Attack","Bite","Hidden Power Grass"]},
     "LC Choice": {"level":5,"ability":"Adaptability","item":"Choice Band","nature":"Adamant","evs":{"at":236,"df":36,"sp":236},"moves":["Return","Quick Attack","Bite","Baton Pass"]}
+  },
+  "Vaporeon": {
+    "OU Offensive Substitute Pass": {"ability":"Water Absorb","item":"Leftovers","nature":"Modest","evs":{"hp":16,"sa":240,"sp":252},"moves":["Hydro Pump","Ice Beam","Substitute","Baton Pass"]}
   },
   "Jolteon": {
     "OU Choice Specs": {"ability":"Volt Absorb","item":"Choice Specs","nature":"Timid","ivs":{"at":30,"sa":30},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Shadow Ball","Signal Beam","Hidden Power Grass"]},
@@ -2344,9 +2343,6 @@ var SETDEX_DPP = {
     "Ubers SubSeed": {"ability":"Serene Grace","item":"Leftovers","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Substitute","Leech Seed","Seed Flare","Air Slash"]},
     "Ubers Life Orb": {"ability":"Serene Grace","item":"Life Orb","nature":"Timid","ivs":{"at":30,"df":30},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Seed Flare","Air Slash","Earth Power","Hidden Power Ice"]},
     "Ubers Choice Specs": {"ability":"Serene Grace","item":"Choice Specs","nature":"Timid","ivs":{"at":30,"df":30},"evs":{"hp":4,"sa":252,"sp":252},"moves":["Seed Flare","Air Slash","Earth Power","Hidden Power Ice"]}
-  },
-  "Vaporeon": {
-    "OU Showdown Usage": {"ability":"Water Absorb","item":"Leftovers","nature":"Modest","ivs":{"sa":30},"evs":{"hp":248,"sa":252,"sd":8},"moves":["Surf","Ice Beam","Wish","Hidden Power Electric"]}
   },
   "Lopunny": {
     "Doubles OU Showdown Usage": {"ability":"Klutz","item":"Choice Scarf","nature":"Jolly","evs":{"hp":248,"df":40,"sp":220},"moves":["Endeavor","Fake Out","Switcheroo","Thunder Wave"]}
