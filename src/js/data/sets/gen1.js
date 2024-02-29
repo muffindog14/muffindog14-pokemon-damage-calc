@@ -177,8 +177,7 @@ var SETDEX_RBY = {
     "Ubers Explosion": {"moves":["Earthquake","Rock Slide","Explosion","Substitute"]},
     "UU Standard": {"moves":["Earthquake","Rock Slide","Substitute","Explosion"]},
     "1v1 Rest 3 Attacks": {"moves":["Earthquake","Rock Slide","Body Slam","Rest"]},
-    "Tradebacks OU Standard": {"moves":["Earthquake","Explosion","Rock Slide","Body Slam"]},
-    "NU Showdown Usage": {"moves":["Earthquake","Explosion","Rock Slide","Body Slam"]}
+    "Tradebacks OU Standard": {"moves":["Earthquake","Explosion","Rock Slide","Body Slam"]}
   },
   "Rapidash": {
     "UU Fire Spin Breaker": {"moves":["Fire Blast","Fire Spin","Hyper Beam","Body Slam"]},
