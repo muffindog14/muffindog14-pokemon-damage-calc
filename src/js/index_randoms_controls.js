@@ -201,6 +201,7 @@ function predictMidTurnSwitch(p1, p2) {
 		for (var i in p1.moves) {
 			var move = p1.moves[i];
 			if (move.category == "Status") continue;
+			if (!(calc.calculate(GENERATION, p1, p2, move, createField())).damage) continue;
 			for (var j in partySpecies) {
 				var enemy = partySpecies[j];
 				if (p2.name == enemy) continue;
