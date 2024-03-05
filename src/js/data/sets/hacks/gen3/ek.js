@@ -2765,7 +2765,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Celebi":
     {
-        "Pokémon Trainer Red #3 ":
+        "Pokémon Trainer Red #3":
         {
             "ability": "Natural Cure",
             "item": "Leftovers",
@@ -3156,7 +3156,7 @@ var CUSTOMHACKSETDEX_EK = {
             ],
             "nature": "Rash"
         },
-        "Interviewers Gabby & Ty":
+        "Interviewers Gabby & Ty #3":
         {
             "ability": "Levitate",
             "item": "Silk Scarf",
@@ -6323,7 +6323,7 @@ var CUSTOMHACKSETDEX_EK = {
             ],
             "nature": "Lonely"
         },
-        "Interviewers Gabby & Ty":
+        "Interviewers Gabby & Ty #3":
         {
             "ability": "Vital Spirit",
             "item": "Silk Scarf",
@@ -6537,7 +6537,7 @@ var CUSTOMHACKSETDEX_EK = {
             ],
             "nature": "Relaxed"
         },
-        "Bird Keeper Josue ":
+        "Bird Keeper Josue":
         {
             "ability": "Early Bird",
             "item": "Scope Lens",
@@ -12008,7 +12008,7 @@ var CUSTOMHACKSETDEX_EK = {
                 "Hidden Power Fire"
             ]
         },
-        "Interviewers Gabby & Ty":
+        "Interviewers Gabby & Ty #3":
         {
             "ability": "Levitate",
             "item": "Leftovers",
@@ -25485,7 +25485,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Xatu":
     {
-        "Bird Keeper Josue ":
+        "Bird Keeper Josue":
         {
             "ability": "Early Bird",
             "item": "Quick Claw",
@@ -25511,7 +25511,7 @@ var CUSTOMHACKSETDEX_EK = {
                 "Light Screen"
             ]
         },
-        "Interviewers Gabby & Ty":
+        "Interviewers Gabby & Ty #3":
         {
             "ability": "Early Bird",
             "item": "Lum Berry",
