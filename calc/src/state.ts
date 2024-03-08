@@ -53,6 +53,7 @@ export namespace State {
     isVesselOfRuin?: boolean;
     attackerSide: Side;
     defenderSide: Side;
+    game: I.Game;
   }
 
   export interface Side {

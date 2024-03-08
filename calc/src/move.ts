@@ -57,12 +57,10 @@ export class Move implements State.Move {
     this.originalName = name;
     let data: I.Move = extend(true, {name}, gen.moves.get(toID(name)), options.overrides);
     
-    var isHack = window.location.pathname.includes("hacks.html");
-    if (isHack) {
-      var game = parseInt(new URLSearchParams(window.location.search).get("game") || "0");
-      if ([1].includes(game)) {
-        data = extend(true, {name}, HACK_MOVES_BY_ID[game][toID(name)], options.overrides);
-      }
+    var game: I.Game = (document.querySelector("input[name='game']:checked + label")?.innerHTML || "None") as I.Game;
+    if (["Emerald Kaizo"].includes(game)) {
+      var hack_ids: {[game_name: string]: number} = { "Emerald Kaizo": 1 };
+      data = extend(true, {name}, HACK_MOVES_BY_ID[hack_ids[game]][toID(name)], options.overrides);
     }
 
     this.hits = 1;

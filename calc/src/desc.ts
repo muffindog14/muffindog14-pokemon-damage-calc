@@ -1,4 +1,4 @@
-import {Generation, Weather, Terrain, TypeName, ID} from './data/interface';
+import {Generation, Weather, Terrain, TypeName, ID, Game} from './data/interface';
 import {Field, Side} from './field';
 import {Move} from './move';
 import {Pokemon} from './pokemon';
@@ -841,10 +841,8 @@ function squashMultihit(gen: Generation, d: number[], hits: number, err = true) 
 
 function buildDescription(description: RawDesc, attacker: Pokemon, defender: Pokemon) {
   const [attackerLevel, defenderLevel] = getDescriptionLevels(attacker, defender);
-  var isHack = window.location.pathname.includes("hacks.html");
-	var params = new URLSearchParams(window.location.search);
-	var game = params.get("game") || "0";
-  var isNoEVHack = isHack && ["1"].includes(game);
+  var game: Game = (document.querySelector("input[name='game']:checked + label")?.innerHTML || "None") as Game;
+  var isNoEVHack = ["Emerald Kaizo"].includes(game);
   let output = '';
   if (description.attackBoost) {
     if (description.attackBoost > 0) {

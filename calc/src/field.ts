@@ -1,5 +1,5 @@
 import {State} from './state';
-import {GameType, Weather, Terrain} from './data/interface';
+import {GameType, Weather, Terrain, Game} from './data/interface';
 
 export class Field implements State.Field {
   gameType: GameType;
@@ -17,6 +17,7 @@ export class Field implements State.Field {
   isVesselOfRuin?: boolean;
   attackerSide: Side;
   defenderSide: Side;
+  game: Game;
 
   constructor(field: Partial<State.Field> = {}) {
     this.gameType = field.gameType || 'Singles';
@@ -35,6 +36,8 @@ export class Field implements State.Field {
 
     this.attackerSide = new Side(field.attackerSide || {});
     this.defenderSide = new Side(field.defenderSide || {});
+
+    this.game = field.game || 'None';
   }
 
   hasWeather(...weathers: Weather[]) {
@@ -67,6 +70,7 @@ export class Field implements State.Field {
       isSwordOfRuin: this.isSwordOfRuin,
       isTabletsOfRuin: this.isTabletsOfRuin,
       isVesselOfRuin: this.isVesselOfRuin,
+      game: this.game,
     });
   }
 }
