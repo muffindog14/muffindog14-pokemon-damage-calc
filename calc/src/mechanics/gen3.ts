@@ -1,4 +1,4 @@
-import {Generation} from '../data/interface';
+import {Game, Generation} from '../data/interface';
 import {getItemBoostType} from '../items';
 import {RawDesc} from '../desc';
 import {Pokemon} from '../pokemon';
@@ -135,7 +135,7 @@ export function calculateADV(
     desc.hits = move.hits;
   }
 
-  let bp = calculateBasePowerADV(attacker, defender, move, desc);
+  let bp = calculateBasePowerADV(attacker, defender, move, desc, field.game);
 
   if (bp === 0) {
     return result;
@@ -173,7 +173,7 @@ export function calculateADV(
       usedItems = checkMultihitBoost(gen, attacker, defender, move,
         field, desc, usedItems[0], usedItems[1]);
       const newAt = calculateAttackADV(gen, attacker, defender, move, desc, field, isCritical);
-      let newBp = calculateBasePowerADV(attacker, defender, move, desc);
+      let newBp = calculateBasePowerADV(attacker, defender, move, desc, field.game);
       newBp = calculateBPModsADV(attacker, move, desc, newBp);
       let newBaseDmg = Math.floor(
         Math.floor((Math.floor((2 * lv) / 5 + 2) * newAt * newBp) / df) / 50
@@ -200,6 +200,7 @@ export function calculateBasePowerADV(
   defender: Pokemon,
   move: Move,
   desc: RawDesc,
+  game: Game = 'None',
   hit = 1,
 ) {
   let bp = move.bp;
@@ -212,8 +213,10 @@ export function calculateBasePowerADV(
     break;
   case 'Eruption':
   case 'Water Spout':
-    bp = Math.max(1, Math.floor((150 * attacker.curHP()) / attacker.maxHP()));
-    desc.moveBP = bp;
+    if (game != 'Emerald Kaizo') {
+      bp = Math.max(1, Math.floor((150 * attacker.curHP()) / attacker.maxHP()));
+      desc.moveBP = bp;
+    }
     break;
   case 'Low Kick':
     const w = defender.weightkg;
