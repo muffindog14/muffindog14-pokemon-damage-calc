@@ -1173,7 +1173,7 @@ var SETDEX_XY = {
     "Battle Spot Singles Standard": {"level":50,"ability":"Natural Cure","item":"Eviolite","nature":"Bold","evs":{"hp":44,"df":252,"sd":212},"moves":["Seismic Toss","Soft-Boiled","Thunder Wave","Toxic"]},
     "Battle Spot Singles Minimize": {"level":50,"ability":"Natural Cure","item":"Eviolite","nature":"Timid","evs":{"df":252,"sd":4,"sp":252},"moves":["Seismic Toss","Soft-Boiled","Minimize","Substitute"]},
     "Monotype Support": {"ability":"Natural Cure","item":"Eviolite","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Stealth Rock","Soft-Boiled","Seismic Toss","Toxic"]},
-    "Pure Hackmons Imposter": {"ability":"Imposter","item":"Eviolite","nature":"Bold","ivs":{"at":0},"evs":{"hp":248,"df":252,"sd":8},"moves":["Whirlwind","Chatter","Spikes","Wish"]},
+    "Pure Hackmons Imposter": {"ability":"Imposter","item":"Eviolite","nature":"Relaxed","ivs":{"at":0,"sa":30,"sp":0},"evs":{"hp":248,"df":252,"sd":8},"moves":["Whirlwind","Chatter","Spikes","Wish"]},
     "CAP Chirpsy": {"ability":"Natural Cure","item":"Eviolite","nature":"Bold","evs":{"hp":4,"df":252,"sd":252},"moves":["Soft-Boiled","Toxic","Heal Bell","Seismic Toss"]},
     "Doubles OU Showdown Usage": {"ability":"Natural Cure","item":"Eviolite","nature":"Bold","evs":{"hp":240,"df":252,"sd":16},"moves":["Soft-Boiled","Toxic","Heal Bell","Charm"]},
     "Anything Goes Showdown Usage": {"ability":"Natural Cure","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":4,"sd":252},"moves":["Toxic","Soft-Boiled","Heal Bell","Seismic Toss"]},
@@ -1308,6 +1308,7 @@ var SETDEX_XY = {
     "Monotype Mega Dragon Dance (Water)": {"ability":"Mold Breaker","item":"Gyaradosite","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Crunch","Waterfall","Substitute"]},
     "Pure Hackmons Gyaradosite Sweeper": {"ability":"Mold Breaker","item":"Gyaradosite","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Shell Smash","Knock Off","Substitute","Taunt"]},
     "Pure Hackmons Pursuit Trapper": {"ability":"Huge Power","item":"Lum Berry","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Pursuit","Trick-or-Treat","Knock Off","Water Shuriken"]},
+    "Pure Hackmons Poison Heal": {"ability":"Poison Heal","item":"Toxic Orb","nature":"Calm","ivs":{"at":0},"evs":{"hp":252,"df":152,"sd":104},"moves":["Will-O-Wisp","Foul Play","King's Shield","Recover"]},
     "Battle Spot Singles Showdown Usage": {"level":50,"ability":"Mold Breaker","item":"Gyaradosite","nature":"Jolly","evs":{"hp":164,"at":92,"sp":252},"moves":["Dragon Dance","Crunch","Waterfall","Earthquake"]},
     "1v1 Showdown Usage": {"ability":"Mold Breaker","item":"Gyaradosite","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Outrage","Waterfall","Earthquake"]}
   },
