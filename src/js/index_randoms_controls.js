@@ -483,7 +483,7 @@ function predictSwitchOrder() {
 							move.bp = 3;
 						}
 						move.bp = $(".last-move-used > .move-bp").val();
-						var calculation = calc.calculateADV(GENERATION, attacker, defender, move, createField());
+						var calculation = calc.calculateADV(GENERATION, attacker, defender, move, createField().clone().swap());
 						var damage = calculation.damage;
 						var score = damage ? damage[damage.length - 1] : damage;
 						if (score > highestDamage.score) {
