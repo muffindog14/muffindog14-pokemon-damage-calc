@@ -660,7 +660,7 @@ export function handleFixedDamageMoves(attacker: Pokemon, move: Move) {
     return attacker.level;
   } else if (move.named('Dragon Rage')) {
     return 40;
-  } else if (move.named('Sonic Boom')) {
+  } else if (move.named('Sonic Boom', 'Sonicboom')) {
     return 20;
   }
   return 0;
