@@ -581,7 +581,6 @@ const EK_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   // Generation 2
   Aeroblast: {bp: 120},
   'Ancientpower': {bp: 80, type: 'Rock'},
-  'Bone Rush': {bp: 100, type: 'Ground', multihit: []},
   'Faint Attack': {bp: 60, type: 'Dark'},
   'Giga Drain': {bp: 75},
   'Rock Smash': {bp: 40},
@@ -631,6 +630,7 @@ delete EK['Feint Attack'];
 EK['Overheat'] = {bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3]};
 EK['Psycho Boost'] = {bp: 140, type: 'Psychic', recoil: [1, 4]};
 EK['Superpower'] = {bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true};
+EK['Bone Rush'] = {bp: 100, type: 'Ground'};
 
 const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Absorb: {category: 'Special'},
