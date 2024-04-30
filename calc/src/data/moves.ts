@@ -572,10 +572,12 @@ const EK_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   // Generation 1
   Crabhammer: {bp: 120},
   'Dizzy Punch': {bp: 90},
+  'Glare': {type: 'Dark'},
   'Hi Jump Kick': {bp: 85, type: 'Fighting', hasCrashDamage: true, makesContact: true},
   'Petal Dance': {bp: 95},
   'Sonicboom': {bp: 0, type: 'Normal'},
   'Sky Attack': {bp: 120, recoil: [1, 3]},
+  'Super Fang': {type: 'Dark'},
   'Leech Life': {bp: 40},
   'Egg Bomb': {bp: 120, type: 'Grass', recoil: [1, 3]},
   // Generation 2
