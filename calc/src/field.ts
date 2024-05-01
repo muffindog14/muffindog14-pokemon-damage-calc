@@ -90,6 +90,10 @@ export class Side implements State.Side {
   isForesight: boolean;
   isTailwind: boolean;
   isHelpingHand: boolean;
+  isBoulderBadge: boolean;
+  isThunderBadge: boolean;
+  isSoulBadge: boolean;
+  isVolcanoBadge: boolean;
   isStoneBadge: boolean;
   isDynamoBadge: boolean;
   isBalanceBadge: boolean;
@@ -116,6 +120,10 @@ export class Side implements State.Side {
     this.isForesight = !!side.isForesight;
     this.isTailwind = !!side.isTailwind;
     this.isHelpingHand = !!side.isHelpingHand;
+    this.isBoulderBadge = !!side.isBoulderBadge;
+    this.isThunderBadge = !!side.isThunderBadge;
+    this.isSoulBadge = !!side.isSoulBadge;
+    this.isVolcanoBadge = !!side.isVolcanoBadge;
     this.isStoneBadge = !!side.isStoneBadge;
     this.isDynamoBadge = !!side.isDynamoBadge;
     this.isBalanceBadge = !!side.isBalanceBadge;

@@ -125,6 +125,24 @@ export function calculateRBYGSC(
   let at = attacker.stats[attackStat]!;
   let df = defender.stats[defenseStat]!;
 
+  if (field.attackerSide.isBoulderBadge && move.hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison')) {
+    at = Math.floor(at * 1.25);
+    desc.isBoulderBadge = true;
+  }
+
+  if (field.attackerSide.isVolcanoBadge && move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon')) {
+    at = Math.floor(at * 1.25);
+    desc.isVolcanoBadge = true;
+  }
+
+  if (field.defenderSide.isThunderBadge && isPhysical) {
+    df = Math.floor(df * 1.25);
+  }
+
+  if (field.defenderSide.isVolcanoBadge && !isPhysical) {
+    df = Math.floor(df * 1.25);
+  }
+
   // Whether we ignore Reflect, Light Screen, stat stages, and burns if attack is a crit differs
   // by gen - in gen 2 we also need to check that the attacker does not have stat stage advantage
   const ignoreMods = move.isCrit &&

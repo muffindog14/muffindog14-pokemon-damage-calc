@@ -95,7 +95,11 @@ export function getFinalSpeed(gen: Generation, pokemon: Pokemon, field: Field, s
   let speed = getModifiedStat(pokemon.rawStats.spe, pokemon.boosts.spe, gen);
   const speedMods = [];
 
-  if (field.attackerSide.isDynamoBadge) {
+  if (field.attackerSide.isSoulBadge && gen.num == 1) {
+    speed = Math.floor(speed * 1.25);
+  }
+
+  if (field.attackerSide.isDynamoBadge && gen.num == 3) {
     speed = Math.floor(speed * 1.1);
   }
 

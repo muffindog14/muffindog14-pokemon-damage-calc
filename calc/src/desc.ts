@@ -35,6 +35,10 @@ export interface RawDesc {
   isFlowerGiftDefender?: boolean;
   isFriendGuard?: boolean;
   isHelpingHand?: boolean;
+  isBoulderBadge?: boolean;
+  isThunderBadge?: boolean;
+  isSoulBadge?: boolean;
+  isVolcanoBadge?: boolean;
   isStoneBadge?: boolean;
   isMindBadge?: boolean;
   isCritical?: boolean;
@@ -854,6 +858,12 @@ function buildDescription(description: RawDesc, attacker: Pokemon, defender: Pok
   output += description.attackerName + ' ';
   if (description.isHelpingHand) {
     output += 'Helping Hand ';
+  }
+  if (description.isBoulderBadge) {
+    output += 'Atk Badge boosted '
+  }
+  if (description.isVolcanoBadge) {
+    output += 'Spc Badge boosted '
   }
   if (description.isStoneBadge) {
     output += 'Atk Badge boosted '
