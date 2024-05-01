@@ -15,7 +15,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Aerodactyl": {
-        "Lance": {
+        "Elite Four Lance": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -33,7 +33,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Alakazam": {
-        "Rival #6 [Flareon]": {
+        "Champion Rival [Flareon]": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -49,7 +49,7 @@ var CUSTOMSETDEX_Y = {
                 "Kinesis"
             ]
         },
-        "Rival #6 [Jolteon]": {
+        "Champion Rival [Jolteon]": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -65,7 +65,7 @@ var CUSTOMSETDEX_Y = {
                 "Kinesis"
             ]
         },
-        "Rival #6 [Vaporeon]": {
+        "Champion Rival [Vaporeon]": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -99,7 +99,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Arbok": {
-        "Agatha": {
+        "Elite Four Agatha": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -1066,6 +1066,38 @@ var CUSTOMSETDEX_Y = {
                 "Aurora Beam"
             ]
         },
+        "Champion Rival [Flareon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 63,
+            "moves": [
+                "Ice Beam",
+                "Clamp",
+                "Aurora Beam",
+                "Spike Cannon"
+            ]
+        },
+        "Champion Rival [Jolteon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Ice Beam",
+                "Clamp",
+                "Aurora Beam",
+                "Spike Cannon"
+            ]
+        },
         "CooltrainerM #1 @ Victory Road 3F": {
             "ivs": {
                 "at": 9,
@@ -1098,7 +1130,7 @@ var CUSTOMSETDEX_Y = {
                 "Aurora Beam"
             ]
         },
-        "Lorelei": {
+        "Elite Four Lorelei": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -1154,12 +1186,12 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 63,
+            "level": 45,
             "moves": [
-                "Ice Beam",
+                "Withdraw",
+                "Supersonic",
                 "Clamp",
-                "Aurora Beam",
-                "Spike Cannon"
+                "Aurora Beam"
             ]
         },
         "Rival #6 [Jolteon]": {
@@ -1170,12 +1202,12 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 61,
+            "level": 47,
             "moves": [
-                "Ice Beam",
+                "Withdraw",
+                "Supersonic",
                 "Clamp",
-                "Aurora Beam",
-                "Spike Cannon"
+                "Aurora Beam"
             ]
         },
         "Swimmer #1 @ Route 20": {
@@ -1341,7 +1373,7 @@ var CUSTOMSETDEX_Y = {
                 "Aurora Beam"
             ]
         },
-        "Lorelei": {
+        "Elite Four Lorelei": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -1533,7 +1565,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Dragonite": {
-        "Lance": {
+        "Elite Four Lance": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -2271,6 +2303,54 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Exeggutor": {
+        "Champion Rival [Flareon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Barrage",
+                "Hypnosis",
+                "Stomp",
+                "Leech Seed"
+            ]
+        },
+        "Champion Rival [Jolteon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Barrage",
+                "Hypnosis",
+                "Stomp",
+                "Leech Seed"
+            ]
+        },
+        "Champion Rival [Vaporeon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Barrage",
+                "Hypnosis",
+                "Stomp",
+                "Leech Seed"
+            ]
+        },
         "CooltrainerM #1 @ Victory Road 3F": {
             "ivs": {
                 "at": 9,
@@ -2284,54 +2364,6 @@ var CUSTOMSETDEX_Y = {
                 "Barrage",
                 "Hypnosis",
                 "Stomp"
-            ]
-        },
-        "Rival #6 [Flareon]": {
-            "ivs": {
-                "at": 9,
-                "df": 8,
-                "sa": 8,
-                "sd": 8,
-                "sp": 8
-            },
-            "level": 61,
-            "moves": [
-                "Barrage",
-                "Hypnosis",
-                "Stomp",
-                "Leech Seed"
-            ]
-        },
-        "Rival #6 [Jolteon]": {
-            "ivs": {
-                "at": 9,
-                "df": 8,
-                "sa": 8,
-                "sd": 8,
-                "sp": 8
-            },
-            "level": 61,
-            "moves": [
-                "Barrage",
-                "Hypnosis",
-                "Stomp",
-                "Leech Seed"
-            ]
-        },
-        "Rival #6 [Vaporeon]": {
-            "ivs": {
-                "at": 9,
-                "df": 8,
-                "sa": 8,
-                "sd": 8,
-                "sp": 8
-            },
-            "level": 61,
-            "moves": [
-                "Barrage",
-                "Hypnosis",
-                "Stomp",
-                "Leech Seed"
             ]
         }
     },
@@ -2564,6 +2596,22 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Flareon": {
+        "Champion Rival [Flareon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 65,
+            "moves": [
+                "Fire Spin",
+                "Reflect",
+                "Quick Attack",
+                "Flamethrower"
+            ]
+        },
         "Rival #5 [Flareon]": {
             "ivs": {
                 "at": 9,
@@ -2588,11 +2636,11 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 65,
+            "level": 53,
             "moves": [
                 "Fire Spin",
-                "Reflect",
-                "Quick Attack",
+                "Smog",
+                "Leer",
                 "Flamethrower"
             ]
         }
@@ -3241,7 +3289,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Golbat": {
-        "Agatha": {
+        "Elite Four Agatha": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -4143,7 +4191,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Gyarados": {
-        "Lance": {
+        "Elite Four Lance": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -4161,7 +4209,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Haunter": {
-        "Agatha": {
+        "Elite Four Agatha": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -4272,7 +4320,7 @@ var CUSTOMSETDEX_Y = {
                 "Fire Punch"
             ]
         },
-        "Bruno": {
+        "Elite Four Bruno": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -4305,7 +4353,7 @@ var CUSTOMSETDEX_Y = {
                 "Rolling Kick"
             ]
         },
-        "Bruno": {
+        "Elite Four Bruno": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -4815,6 +4863,22 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Jolteon": {
+        "Champion Rival [Jolteon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 65,
+            "moves": [
+                "Pin Missile",
+                "Thunder Wave",
+                "Quick Attack",
+                "Thunder"
+            ]
+        },
         "Rival #5 [Jolteon]": {
             "ivs": {
                 "at": 9,
@@ -4839,17 +4903,17 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 65,
+            "level": 53,
             "moves": [
                 "Pin Missile",
                 "Thunder Wave",
-                "Quick Attack",
+                "Agility",
                 "Thunder"
             ]
         }
     },
     "Jynx": {
-        "Lorelei": {
+        "Elite Four Lorelei": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -5661,7 +5725,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Lapras": {
-        "Lorelei": {
+        "Elite Four Lorelei": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -5729,7 +5793,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Machamp": {
-        "Bruno": {
+        "Elite Four Bruno": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -6701,6 +6765,38 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Magneton": {
+        "Champion Rival [Flareon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Swift",
+                "Screech"
+            ]
+        },
+        "Champion Rival [Vaporeon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 63,
+            "moves": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Swift",
+                "Screech"
+            ]
+        },
         "Engineer #2 @ Route 11": {
             "ivs": {
                 "at": 9,
@@ -6756,12 +6852,12 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 61,
+            "level": 47,
             "moves": [
-                "Thunderbolt",
+                "Thunder Shock",
+                "Supersonic",
                 "Thunder Wave",
-                "Swift",
-                "Screech"
+                "Swift"
             ]
         },
         "Rival #6 [Vaporeon]": {
@@ -6772,12 +6868,12 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 63,
+            "level": 45,
             "moves": [
-                "Thunderbolt",
-                "Thunder Wave",
-                "Swift",
-                "Screech"
+                "Sonic Boom",
+                "Thunder Shock",
+                "Supersonic",
+                "Thunder Wave"
             ]
         },
         "Scientist #1 @ Mansion 3F": {
@@ -7925,6 +8021,38 @@ var CUSTOMSETDEX_Y = {
                 "Roar"
             ]
         },
+        "Champion Rival [Jolteon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 63,
+            "moves": [
+                "Confuse Ray",
+                "Tail Whip",
+                "Quick Attack",
+                "Fire Spin"
+            ]
+        },
+        "Champion Rival [Vaporeon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Confuse Ray",
+                "Tail Whip",
+                "Quick Attack",
+                "Fire Spin"
+            ]
+        },
         "CooltrainerF #1 @ Victory Road 1F": {
             "ivs": {
                 "at": 9,
@@ -7981,12 +8109,12 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 63,
+            "level": 45,
             "moves": [
-                "Confuse Ray",
+                "Ember",
                 "Tail Whip",
                 "Quick Attack",
-                "Fire Spin"
+                "Roar"
             ]
         },
         "Rival #6 [Vaporeon]": {
@@ -7997,12 +8125,12 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 61,
+            "level": 47,
             "moves": [
-                "Confuse Ray",
+                "Ember",
                 "Tail Whip",
                 "Quick Attack",
-                "Fire Spin"
+                "Roar"
             ]
         },
         "Super Nerd #1 @ Cinnabar Gym": {
@@ -10560,6 +10688,54 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Sandslash": {
+        "Champion Rival [Flareon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Slash",
+                "Poison Sting",
+                "Earthquake",
+                "Fury Swipes"
+            ]
+        },
+        "Champion Rival [Jolteon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Slash",
+                "Poison Sting",
+                "Earthquake",
+                "Fury Swipes"
+            ]
+        },
+        "Champion Rival [Vaporeon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 61,
+            "moves": [
+                "Slash",
+                "Poison Sting",
+                "Earthquake",
+                "Fury Swipes"
+            ]
+        },
         "CooltrainerM #1 @ Viridian Gym": {
             "ivs": {
                 "at": 9,
@@ -10632,11 +10808,11 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 61,
+            "level": 47,
             "moves": [
                 "Slash",
                 "Poison Sting",
-                "Earthquake",
+                "Swift",
                 "Fury Swipes"
             ]
         },
@@ -10648,11 +10824,11 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 61,
+            "level": 47,
             "moves": [
                 "Slash",
                 "Poison Sting",
-                "Earthquake",
+                "Swift",
                 "Fury Swipes"
             ]
         },
@@ -10664,11 +10840,11 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 61,
+            "level": 47,
             "moves": [
                 "Slash",
                 "Poison Sting",
-                "Earthquake",
+                "Swift",
                 "Fury Swipes"
             ]
         },
@@ -11197,7 +11373,7 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Slowbro": {
-        "Lorelei": {
+        "Elite Four Lorelei": {
             "ivs": {
                 "at": 9,
                 "df": 8,
@@ -12213,6 +12389,22 @@ var CUSTOMSETDEX_Y = {
         }
     },
     "Vaporeon": {
+        "Champion Rival [Vaporeon]": {
+            "ivs": {
+                "at": 9,
+                "df": 8,
+                "sa": 8,
+                "sd": 8,
+                "sp": 8
+            },
+            "level": 65,
+            "moves": [
+                "Aurora Beam",
+                "Mist",
+                "Quick Attack",
+                "Hydro Pump"
+            ]
+        },
         "Rival #5 [Vaporeon]": {
             "ivs": {
                 "at": 9,
@@ -12237,11 +12429,11 @@ var CUSTOMSETDEX_Y = {
                 "sd": 8,
                 "sp": 8
             },
-            "level": 65,
+            "level": 53,
             "moves": [
-                "Aurora Beam",
+                "Haze",
                 "Mist",
-                "Quick Attack",
+                "Acid Armor",
                 "Hydro Pump"
             ]
         }
