@@ -1,11 +1,11 @@
 var CUSTOMSETDEX_Y = {
     "Abra": {
         "Leader Sabrina": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -16,11 +16,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Aerodactyl": {
         "Elite Four Lance": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 60,
@@ -34,11 +34,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Alakazam": {
         "Champion Rival [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 59,
@@ -50,11 +50,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 59,
@@ -66,11 +66,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 59,
@@ -82,11 +82,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Sabrina": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -100,11 +100,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Arbok": {
         "Elite Four Agatha": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 58,
@@ -116,11 +116,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -132,11 +132,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #4": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -148,11 +148,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -164,11 +164,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -180,11 +180,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #1 @ Fuchsia Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -196,11 +196,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #1 @ Fuchsia Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -212,11 +212,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #2 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -228,11 +228,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #2 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 39,
@@ -246,11 +246,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Arcanine": {
         "Leader Blaine": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 54,
@@ -262,11 +262,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerM #1 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -280,11 +280,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Beedrill": {
         "Bug Catcher #1 @ Route 9 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -294,11 +294,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 9 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -310,11 +310,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Bellsprout": {
         "Beauty #1 @ Celadon Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -326,11 +326,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #1 @ Celadon Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -342,11 +342,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #2 @ Celadon Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -358,11 +358,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #2 @ Celadon Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -374,11 +374,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerF #2 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -390,11 +390,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #2 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -406,11 +406,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -422,11 +422,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 9 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -438,11 +438,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 9 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -454,11 +454,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -470,11 +470,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #4 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -486,11 +486,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -502,11 +502,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -518,11 +518,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Blastoise": {
         "CooltrainerM #2 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -536,11 +536,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Bulbasaur": {
         "Beauty #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -552,11 +552,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -568,11 +568,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -586,11 +586,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Butterfree": {
         "Bug Catcher #2 @ Route 6": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -604,11 +604,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Caterpie": {
         "Bug Catcher @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -618,11 +618,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 3 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -632,11 +632,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 3 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -646,11 +646,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 6": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -660,11 +660,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Viridian Forest (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 7,
@@ -674,11 +674,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Viridian Forest (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 7,
@@ -688,11 +688,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Mt. Moon 1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -702,11 +702,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Mt. Moon 1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -716,11 +716,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -730,11 +730,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -744,11 +744,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Viridian Forest": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 6,
@@ -758,11 +758,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #3 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -772,11 +772,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #3 @ Viridian Forest": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 8,
@@ -786,11 +786,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #4 @ Viridian Forest": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -802,11 +802,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Chansey": {
         "CooltrainerF #1 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -820,11 +820,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Charizard": {
         "CooltrainerM @ Victory Road 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 42,
@@ -838,11 +838,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Charmander": {
         "Burglar #1 @ Mansion 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -854,11 +854,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #2 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -870,11 +870,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -888,11 +888,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Charmeleon": {
         "Burglar #1 @ Mansion 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -904,11 +904,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerM @ Victory Road 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 42,
@@ -920,11 +920,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -938,11 +938,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Clefairy": {
         "Beauty #2 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -954,11 +954,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -970,11 +970,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -986,11 +986,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -1002,11 +1002,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -1017,11 +1017,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #4 @ Route 8 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -1033,11 +1033,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #4 @ Route 8 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -1051,11 +1051,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Cloyster": {
         "Beauty #3 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -1067,11 +1067,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 63,
@@ -1083,11 +1083,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -1099,11 +1099,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerM #1 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -1115,11 +1115,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #2 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -1131,11 +1131,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Elite Four Lorelei": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -1147,11 +1147,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -1163,11 +1163,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -1179,11 +1179,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 45,
@@ -1195,11 +1195,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 47,
@@ -1211,11 +1211,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #1 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -1229,11 +1229,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Cubone": {
         "Jr. TrainerF #1 @ Route 6": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -1245,11 +1245,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -1261,11 +1261,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -1277,11 +1277,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #2 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -1293,11 +1293,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -1309,11 +1309,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1325,11 +1325,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 7F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -1341,11 +1341,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 7F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -1359,11 +1359,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Dewgong": {
         "CooltrainerF #1 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -1374,11 +1374,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Elite Four Lorelei": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 54,
@@ -1392,11 +1392,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Diglett": {
         "Jr. TrainerM #1 @ Pewter Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -1405,11 +1405,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -1422,11 +1422,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Dodrio": {
         "Bird Keeper #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1437,11 +1437,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 18": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -1455,11 +1455,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Doduo": {
         "Bird Keeper #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -1470,11 +1470,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1485,11 +1485,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 15 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1500,11 +1500,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 15 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1515,11 +1515,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #4 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1532,11 +1532,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Dragonair": {
         "Lance (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -1548,11 +1548,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lance (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -1566,11 +1566,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Dragonite": {
         "Elite Four Lance": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 62,
@@ -1584,11 +1584,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Drowzee": {
         "Juggler #1 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -1600,11 +1600,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #1 @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -1616,11 +1616,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #3 @ Fuchsia Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -1632,11 +1632,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #3 @ Fuchsia Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -1648,11 +1648,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #3 @ Fuchsia Gym (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -1664,11 +1664,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #4 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -1680,11 +1680,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Cerulean City": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -1696,11 +1696,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -1712,11 +1712,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -1728,11 +1728,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -1744,11 +1744,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1760,11 +1760,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -1778,11 +1778,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Dugtrio": {
         "CooltrainerM #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 39,
@@ -1794,11 +1794,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Giovanni": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -1812,11 +1812,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Eevee": {
         "Rival #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 5,
@@ -1826,11 +1826,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #1.5": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 8,
@@ -1841,11 +1841,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -1857,11 +1857,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -1873,11 +1873,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -1889,11 +1889,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -1905,11 +1905,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -1923,11 +1923,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Ekans": {
         "Jessie & James #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -1938,11 +1938,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -1954,11 +1954,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -1969,11 +1969,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -1985,11 +1985,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #2 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -2000,11 +2000,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -2015,11 +2015,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 11F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -2031,11 +2031,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -2047,11 +2047,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 12,
@@ -2062,11 +2062,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -2078,11 +2078,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -2093,11 +2093,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -2108,11 +2108,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #3 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -2125,11 +2125,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Electrode": {
         "Rocker @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2141,11 +2141,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2157,11 +2157,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -2173,11 +2173,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2189,11 +2189,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -2205,11 +2205,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2221,11 +2221,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2239,11 +2239,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Exeggcute": {
         "Beauty #3 @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -2254,11 +2254,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 45,
@@ -2270,11 +2270,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 45,
@@ -2286,11 +2286,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 45,
@@ -2304,11 +2304,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Exeggutor": {
         "Champion Rival [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -2320,11 +2320,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -2336,11 +2336,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -2352,11 +2352,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerM #1 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -2369,11 +2369,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Farfetchd": {
         "Bird Keeper #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -2385,11 +2385,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #5 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -2403,11 +2403,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Fearow": {
         "Bird Keeper #1 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -2419,11 +2419,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 18": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2435,11 +2435,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 20 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -2451,11 +2451,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 20 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -2467,11 +2467,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -2483,11 +2483,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2499,11 +2499,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 18": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -2515,11 +2515,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #4 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -2531,11 +2531,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #6 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -2547,11 +2547,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -2563,11 +2563,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -2579,11 +2579,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -2597,11 +2597,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Flareon": {
         "Champion Rival [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 65,
@@ -2613,11 +2613,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -2629,11 +2629,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -2647,11 +2647,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Gastly": {
         "Channeler #1 @ Pokémon Tower 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -2662,11 +2662,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Pokémon Tower 4F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -2677,11 +2677,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Pokémon Tower 4F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -2692,11 +2692,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Pokémon Tower 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -2707,11 +2707,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Pokémon Tower 6F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -2722,11 +2722,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Pokémon Tower 6F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -2737,11 +2737,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Pokémon Tower 6F (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -2752,11 +2752,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -2768,11 +2768,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #2 @ Pokémon Tower 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -2783,11 +2783,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #2 @ Pokémon Tower 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -2798,11 +2798,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #2 @ Pokémon Tower 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -2813,11 +2813,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Pokémon Tower 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -2828,11 +2828,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Pokémon Tower 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -2843,11 +2843,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Pokémon Tower 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -2858,11 +2858,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Pokémon Tower 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -2873,11 +2873,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Saffron Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -2889,11 +2889,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Saffron Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -2907,11 +2907,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Gengar": {
         "Agatha (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -2923,11 +2923,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Agatha (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 60,
@@ -2941,11 +2941,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Geodude": {
         "Leader Brock": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -2954,11 +2954,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Mt. Moon 1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -2967,11 +2967,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Mt. Moon 1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -2980,11 +2980,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Rock Tunnel 1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -2995,11 +2995,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Rock Tunnel 1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -3010,11 +3010,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Rock Tunnel 1F (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -3025,11 +3025,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Rock Tunnel B1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3041,11 +3041,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Rock Tunnel B1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3057,11 +3057,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3073,11 +3073,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -3087,11 +3087,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -3102,11 +3102,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 25 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -3116,11 +3116,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 25 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -3130,11 +3130,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 25 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -3144,11 +3144,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3160,11 +3160,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3176,11 +3176,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -3192,11 +3192,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Route 9 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -3207,11 +3207,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Route 9 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -3224,11 +3224,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Gloom": {
         "CooltrainerF @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -3240,11 +3240,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Erika": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -3256,11 +3256,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3272,11 +3272,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -3290,11 +3290,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Golbat": {
         "Elite Four Agatha": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -3306,11 +3306,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3322,11 +3322,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3338,11 +3338,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -3354,11 +3354,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3370,11 +3370,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3386,11 +3386,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3404,11 +3404,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Goldeen": {
         "Beauty #1 @ Route 19 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -3420,11 +3420,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #1 @ Route 19 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -3436,11 +3436,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #2 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -3452,11 +3452,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 12 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -3467,11 +3467,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 12 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -3482,11 +3482,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3498,11 +3498,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ SS Anne 2F Rooms (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -3512,11 +3512,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ SS Anne 2F Rooms (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -3526,11 +3526,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #2 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -3542,11 +3542,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -3558,11 +3558,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #4 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3573,11 +3573,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #4 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -3589,11 +3589,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF @ Cerulean Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -3604,11 +3604,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -3620,11 +3620,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #4 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3636,11 +3636,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -3652,11 +3652,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -3668,11 +3668,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #5 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -3686,11 +3686,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Golduck": {
         "Tamer @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 44,
@@ -3704,11 +3704,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Graveler": {
         "Hiker #1 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3720,11 +3720,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -3735,11 +3735,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -3753,11 +3753,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Grimer": {
         "Biker #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -3767,11 +3767,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -3781,11 +3781,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -3795,11 +3795,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3809,11 +3809,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 14 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3823,11 +3823,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 14 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3837,11 +3837,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 16 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3851,11 +3851,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 16 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3865,11 +3865,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 16 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3879,11 +3879,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 16 (4)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3893,11 +3893,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #4 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3907,11 +3907,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Rocket Hideout B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -3921,11 +3921,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -3935,11 +3935,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Rocket Hideout B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -3949,11 +3949,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #5 @ Rocket Hideout B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -3963,11 +3963,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -3977,11 +3977,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -3991,11 +3991,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 12,
@@ -4005,11 +4005,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Route 8 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -4019,11 +4019,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Route 8 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -4035,11 +4035,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Growlithe": {
         "Burglar #1 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -4051,11 +4051,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #1 @ Mansion B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -4067,11 +4067,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #3 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -4083,11 +4083,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #1 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -4099,11 +4099,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #4 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -4114,11 +4114,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #1 @ SS Anne 1F Rooms (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -4129,11 +4129,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #1 @ SS Anne 1F Rooms (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -4144,11 +4144,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #2 @ SS Anne 2F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -4158,11 +4158,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -4174,11 +4174,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #4 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -4192,11 +4192,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Gyarados": {
         "Elite Four Lance": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 58,
@@ -4210,11 +4210,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Haunter": {
         "Elite Four Agatha": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 55,
@@ -4226,11 +4226,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #1 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -4242,11 +4242,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #2 @ Pokémon Tower 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -4257,11 +4257,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #2 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -4273,11 +4273,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #3 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -4289,11 +4289,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Channeler #4 @ Pokémon Tower 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -4306,11 +4306,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Hitmonchan": {
         "Black Belt #5 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -4321,11 +4321,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Elite Four Bruno": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 55,
@@ -4339,11 +4339,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Hitmonlee": {
         "Black Belt #5 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -4354,11 +4354,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Elite Four Bruno": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 55,
@@ -4372,11 +4372,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Horsea": {
         "Beauty #1 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -4388,11 +4388,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #4 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -4402,11 +4402,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #1 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -4415,11 +4415,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -4431,11 +4431,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #4 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -4446,11 +4446,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #2 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -4459,11 +4459,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #4 @ SS Anne B1F Rooms (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -4472,11 +4472,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #4 @ SS Anne B1F Rooms (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -4485,11 +4485,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #4 @ SS Anne B1F Rooms (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -4498,11 +4498,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer @ Cerulean Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -4511,11 +4511,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -4526,11 +4526,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 20 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -4541,11 +4541,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 20 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -4556,11 +4556,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 20 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -4571,11 +4571,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -4586,11 +4586,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #6 @ Route 19 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -4602,11 +4602,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #6 @ Route 19 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -4618,11 +4618,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #7 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -4635,11 +4635,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Hypno": {
         "Juggler #1 @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -4651,11 +4651,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #2 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -4667,11 +4667,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #4 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -4683,11 +4683,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -4699,11 +4699,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -4715,11 +4715,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -4733,11 +4733,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Ivysaur": {
         "Beauty #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -4749,11 +4749,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerF @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -4765,11 +4765,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerM @ Victory Road 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 42,
@@ -4781,11 +4781,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -4799,11 +4799,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Jigglypuff": {
         "Jr. TrainerF #1 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -4815,11 +4815,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -4831,11 +4831,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ SS Anne 2F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -4847,11 +4847,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #3 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -4864,11 +4864,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Jolteon": {
         "Champion Rival [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 65,
@@ -4880,11 +4880,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -4896,11 +4896,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -4914,11 +4914,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Jynx": {
         "Elite Four Lorelei": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -4932,11 +4932,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Kadabra": {
         "Juggler #1 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -4948,11 +4948,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -4964,11 +4964,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #1 @ Victory Road 2F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -4980,11 +4980,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #1 @ Victory Road 2F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -4996,11 +4996,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #3 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -5012,11 +5012,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #1 @ Saffron Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -5028,11 +5028,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #1 @ Saffron Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -5044,11 +5044,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #2 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -5060,11 +5060,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -5076,11 +5076,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -5092,11 +5092,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -5108,11 +5108,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -5124,11 +5124,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -5140,11 +5140,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -5156,11 +5156,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Sabrina": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -5174,11 +5174,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Kakuna": {
         "Bug Catcher #1 @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -5187,11 +5187,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -5202,11 +5202,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Kingler": {
         "CooltrainerM #2 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -5220,11 +5220,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Koffing": {
         "Biker #1 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5234,11 +5234,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5248,11 +5248,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 13 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5262,11 +5262,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -5276,11 +5276,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 15 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5290,11 +5290,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 15 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5304,11 +5304,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 15 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5318,11 +5318,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -5332,11 +5332,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5346,11 +5346,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -5360,11 +5360,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5374,11 +5374,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5388,11 +5388,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #4 @ Route 14 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5402,11 +5402,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #4 @ Route 14 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5416,11 +5416,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #4 @ Route 14 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5430,11 +5430,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #5 @ Route 17 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5444,11 +5444,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #5 @ Route 17 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5458,11 +5458,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #5 @ Route 17 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5472,11 +5472,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -5486,11 +5486,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5500,11 +5500,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Rocket Hideout B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -5514,11 +5514,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Rocket Hideout B4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -5528,11 +5528,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5542,11 +5542,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5556,11 +5556,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Rocket Hideout B1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -5570,11 +5570,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Rocket Hideout B1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -5584,11 +5584,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #5 @ Rocket Hideout B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -5598,11 +5598,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 10F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -5612,11 +5612,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5626,11 +5626,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5640,11 +5640,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 6F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5654,11 +5654,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 6F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -5668,11 +5668,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -5682,11 +5682,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 12,
@@ -5696,11 +5696,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -5710,11 +5710,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #3 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5726,11 +5726,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Lapras": {
         "Elite Four Lorelei": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -5742,11 +5742,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -5760,11 +5760,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Lickitung": {
         "Pokémaniac #1 @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -5776,11 +5776,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #2 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -5794,11 +5794,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Machamp": {
         "Elite Four Bruno": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 58,
@@ -5812,11 +5812,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Machoke": {
         "Black Belt #1 @ Victory Road 2F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -5828,11 +5828,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #1 @ Victory Road 2F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -5844,11 +5844,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -5860,11 +5860,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #2 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -5875,11 +5875,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #2 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -5891,11 +5891,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #3 @ Viridian Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -5907,11 +5907,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #3 @ Viridian Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -5923,11 +5923,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #2 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -5938,11 +5938,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #3 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -5953,11 +5953,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #4 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -5968,11 +5968,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #5 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -5983,11 +5983,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 10F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -5998,11 +5998,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -6015,11 +6015,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Machop": {
         "Black Belt #1 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -6030,11 +6030,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -6046,11 +6046,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -6062,11 +6062,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #2 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -6078,11 +6078,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #3 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -6094,11 +6094,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #1 @ Route 16 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -6109,11 +6109,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #1 @ Route 16 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -6124,11 +6124,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #2 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -6139,11 +6139,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #2 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -6154,11 +6154,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #3 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -6170,11 +6170,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #4 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -6185,11 +6185,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -6198,11 +6198,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -6211,11 +6211,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -6225,11 +6225,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -6239,11 +6239,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -6252,11 +6252,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -6266,11 +6266,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Cerulean City": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -6279,11 +6279,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -6293,11 +6293,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -6308,11 +6308,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -6323,11 +6323,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -6338,11 +6338,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Rocket Hideout B3F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -6352,11 +6352,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Rocket Hideout B3F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -6366,11 +6366,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #1 @ SS Anne Deck": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -6379,11 +6379,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #2 @ SS Anne Deck": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -6392,11 +6392,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #5 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -6408,11 +6408,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Magikarp": {
         "Fisherman #1 @ Route 12 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -6422,11 +6422,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 12 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -6436,11 +6436,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 21 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -6450,11 +6450,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 21 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -6464,11 +6464,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 21 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -6478,11 +6478,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 21 (4)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -6492,11 +6492,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 21 (5)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -6506,11 +6506,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #3 @ Route 21 (6)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -6522,11 +6522,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Magnemite": {
         "Engineer #1 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -6536,11 +6536,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Engineer #2 @ Route 11 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -6549,11 +6549,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Engineer #2 @ Route 11 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -6562,11 +6562,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #3 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -6575,11 +6575,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #1 @ SS Anne 2F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -6589,11 +6589,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #1 @ Vermilion Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -6603,11 +6603,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -6617,11 +6617,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -6631,11 +6631,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #1 @ Vermilion Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -6645,11 +6645,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -6661,11 +6661,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -6677,11 +6677,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 10F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -6693,11 +6693,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -6708,11 +6708,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -6723,11 +6723,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #2 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -6738,11 +6738,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -6751,11 +6751,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -6766,11 +6766,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Magneton": {
         "Champion Rival [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -6782,11 +6782,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 63,
@@ -6798,11 +6798,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Engineer #2 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -6813,11 +6813,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -6829,11 +6829,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -6845,11 +6845,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 47,
@@ -6861,11 +6861,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 45,
@@ -6877,11 +6877,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -6893,11 +6893,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -6908,11 +6908,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -6923,11 +6923,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -6938,11 +6938,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #2 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -6955,11 +6955,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Mankey": {
         "Black Belt #1 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -6971,11 +6971,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #4 @ Fighting Dojo (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -6987,11 +6987,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #4 @ Fighting Dojo (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -7003,11 +7003,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #1 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -7019,11 +7019,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #1 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7035,11 +7035,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #2 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7051,11 +7051,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #4 @ Route 17 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -7067,11 +7067,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #4 @ Route 17 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -7083,11 +7083,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #1 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -7101,11 +7101,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Meowth": {
         "Beauty #2 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7117,11 +7117,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -7132,11 +7132,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -7148,11 +7148,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -7164,11 +7164,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #4": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -7180,11 +7180,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -7196,11 +7196,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -7212,11 +7212,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -7228,11 +7228,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -7244,11 +7244,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -7260,11 +7260,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -7276,11 +7276,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 8 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -7292,11 +7292,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 8 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -7308,11 +7308,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 8 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -7324,11 +7324,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #3 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -7342,11 +7342,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Metapod": {
         "Bug Catcher #2 @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -7355,11 +7355,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -7368,11 +7368,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Viridian Forest (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 6,
@@ -7381,11 +7381,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Viridian Forest (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 6,
@@ -7394,11 +7394,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #3 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -7407,11 +7407,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #3 @ Viridian Forest": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 8,
@@ -7424,11 +7424,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Mr. Mime": {
         "Juggler @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7439,11 +7439,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Juggler #1 @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 48,
@@ -7455,11 +7455,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #1 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -7471,11 +7471,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #2 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -7489,11 +7489,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Muk": {
         "Biker #1 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7504,11 +7504,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -7520,11 +7520,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #4 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7535,11 +7535,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7550,11 +7550,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -7567,11 +7567,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Nidoking": {
         "CooltrainerM #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 39,
@@ -7583,11 +7583,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Giovanni": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 55,
@@ -7601,11 +7601,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Nidoqueen": {
         "Giovanni #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -7617,11 +7617,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Giovanni": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -7635,11 +7635,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Nidoran-F": {
         "Gentleman #2 @ SS Anne 1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -7651,11 +7651,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -7667,11 +7667,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -7683,11 +7683,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -7699,11 +7699,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ SS Anne 1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -7715,11 +7715,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass @ Viridian Forest": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 6,
@@ -7729,11 +7729,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -7745,11 +7745,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #3 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -7763,11 +7763,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Nidoran-M": {
         "Gentleman #2 @ SS Anne 1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -7779,11 +7779,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7795,11 +7795,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -7811,11 +7811,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass @ Viridian Forest": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 6,
@@ -7825,11 +7825,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -7840,11 +7840,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #3 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -7856,11 +7856,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ SS Anne 1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -7872,11 +7872,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #4 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -7890,11 +7890,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Nidorina": {
         "Lass #1 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -7908,11 +7908,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Nidorino": {
         "CooltrainerM #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 39,
@@ -7924,11 +7924,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Giovanni #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -7940,11 +7940,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -7956,11 +7956,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #4 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -7974,11 +7974,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Ninetales": {
         "Leader Blaine": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 48,
@@ -7990,11 +7990,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #1 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -8006,11 +8006,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #1 @ Mansion 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -8022,11 +8022,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 63,
@@ -8038,11 +8038,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -8054,11 +8054,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerF #1 @ Victory Road 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 44,
@@ -8070,11 +8070,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -8086,11 +8086,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -8102,11 +8102,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 45,
@@ -8118,11 +8118,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 47,
@@ -8134,11 +8134,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -8152,11 +8152,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Oddish": {
         "Beauty #1 @ Celadon Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -8168,11 +8168,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #1 @ Celadon Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -8184,11 +8184,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #2 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -8199,11 +8199,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 15 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -8215,11 +8215,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 15 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -8231,11 +8231,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 9 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -8246,11 +8246,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 9 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -8261,11 +8261,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -8277,11 +8277,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -8293,11 +8293,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #4 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8309,11 +8309,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -8322,11 +8322,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -8338,11 +8338,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 25 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -8351,11 +8351,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 25 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -8366,11 +8366,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Onix": {
         "Leader Brock": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 12,
@@ -8382,11 +8382,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bruno (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -8398,11 +8398,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bruno (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 56,
@@ -8414,11 +8414,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Giovanni #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -8430,11 +8430,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -8444,11 +8444,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -8460,11 +8460,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #1 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -8476,11 +8476,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Rock Tunnel 1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -8492,11 +8492,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Rock Tunnel 1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -8508,11 +8508,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -8524,11 +8524,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -8540,11 +8540,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #2 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -8556,11 +8556,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Hiker #3 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -8573,11 +8573,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Paras": {
         "Lass #1 @ Route 4 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -8589,11 +8589,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 4 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -8607,11 +8607,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Parasect": {
         "CooltrainerF #1 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -8623,11 +8623,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass @ Route 4": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -8641,11 +8641,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Persian": {
         "CooltrainerF #1 @ Victory Road 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 44,
@@ -8657,11 +8657,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Giovanni #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8673,11 +8673,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Giovanni #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -8689,11 +8689,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Giovanni": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -8705,11 +8705,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer @ Victory Road 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 44,
@@ -8723,11 +8723,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Pidgeotto": {
         "Beauty #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8739,11 +8739,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8755,11 +8755,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -8771,11 +8771,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -8787,11 +8787,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -8803,11 +8803,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -8819,11 +8819,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8835,11 +8835,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -8851,11 +8851,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8867,11 +8867,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -8885,11 +8885,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Pidgey": {
         "Bird Keeper #1 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -8901,11 +8901,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 14 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -8917,11 +8917,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 14 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -8933,11 +8933,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -8949,11 +8949,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -8965,11 +8965,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -8981,11 +8981,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -8997,11 +8997,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -9013,11 +9013,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -9029,11 +9029,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -9045,11 +9045,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -9061,11 +9061,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -9077,11 +9077,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -9093,11 +9093,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -9109,11 +9109,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 6 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -9124,11 +9124,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 6 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -9139,11 +9139,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 6 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -9154,11 +9154,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -9170,11 +9170,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -9186,11 +9186,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -9202,11 +9202,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -9217,11 +9217,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 3 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -9231,11 +9231,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Route 3 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -9245,11 +9245,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ SS Anne 1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -9260,11 +9260,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -9275,11 +9275,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -9290,11 +9290,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #3 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -9308,11 +9308,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Poliwag": {
         "Beauty #1 @ Route 19 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -9324,11 +9324,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #1 @ Route 19 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -9340,11 +9340,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #4 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -9356,11 +9356,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -9371,11 +9371,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #4 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -9386,11 +9386,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #1 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -9400,11 +9400,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #2 @ Route 8 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -9415,11 +9415,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #2 @ Route 8 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -9430,11 +9430,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -9446,11 +9446,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -9462,11 +9462,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #4 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -9478,11 +9478,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #3 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -9496,11 +9496,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Poliwhirl": {
         "Gambler #2 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -9511,11 +9511,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #3 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -9527,11 +9527,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -9545,11 +9545,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Ponyta": {
         "Burglar #1 @ Mansion B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -9560,11 +9560,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #2 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -9576,11 +9576,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #2 @ SS Anne 2F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -9589,11 +9589,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -9606,11 +9606,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Primeape": {
         "Black Belt #1 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -9622,11 +9622,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #3 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -9638,11 +9638,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Black Belt #4 @ Fighting Dojo": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -9654,11 +9654,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #1 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -9670,11 +9670,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #5 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -9688,11 +9688,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Raichu": {
         "Lt. Surge": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -9706,11 +9706,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Rapidash": {
         "Leader Blaine": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -9722,11 +9722,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #3 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 41,
@@ -9740,11 +9740,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Raticate": {
         "Jr. TrainerM #2 @ Route 6": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -9756,11 +9756,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Game Corner": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -9772,11 +9772,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Rocket Hideout B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -9788,11 +9788,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -9804,11 +9804,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 3F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -9820,11 +9820,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 3F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -9836,11 +9836,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -9852,11 +9852,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -9868,11 +9868,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Rocket Hideout B1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -9884,11 +9884,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Rocket Hideout B1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -9900,11 +9900,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -9916,11 +9916,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #4 @ Rocket Hideout B1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -9932,11 +9932,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #4 @ Rocket Hideout B1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -9948,11 +9948,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #3 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -9966,11 +9966,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Rattata": {
         "Beauty #1 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -9982,11 +9982,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #1 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -9998,11 +9998,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -10014,11 +10014,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Rock Tunnel 1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10030,11 +10030,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #3 @ Rock Tunnel 1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10046,11 +10046,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -10062,11 +10062,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10078,11 +10078,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #2 @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -10094,11 +10094,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -10109,11 +10109,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #3 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10125,11 +10125,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -10141,11 +10141,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -10157,11 +10157,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -10172,11 +10172,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -10188,11 +10188,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 11F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -10204,11 +10204,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 11F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -10220,11 +10220,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 11F (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -10236,11 +10236,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -10252,11 +10252,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -10267,11 +10267,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #4 @ Rocket Hideout B1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10283,11 +10283,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #4 @ Rocket Hideout B1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10299,11 +10299,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Mt. Moon 1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -10314,11 +10314,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Mt. Moon 1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -10329,11 +10329,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -10345,11 +10345,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -10361,11 +10361,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -10376,11 +10376,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #3 @ Route 11 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -10392,11 +10392,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #3 @ Route 11 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -10410,11 +10410,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Rhydon": {
         "Leader Giovanni": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 55,
@@ -10428,11 +10428,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Rhyhorn": {
         "CooltrainerM #2 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -10444,11 +10444,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Giovanni #1": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -10460,11 +10460,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Giovanni #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -10476,11 +10476,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #2 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -10492,11 +10492,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -10510,11 +10510,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Sandshrew": {
         "Jr. TrainerM #1 @ Pewter Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -10523,11 +10523,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10538,11 +10538,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -10552,11 +10552,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -10567,11 +10567,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -10582,11 +10582,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -10597,11 +10597,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -10612,11 +10612,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -10626,11 +10626,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -10642,11 +10642,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -10658,11 +10658,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #2 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -10673,11 +10673,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #3 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -10689,11 +10689,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Sandslash": {
         "Champion Rival [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -10705,11 +10705,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -10721,11 +10721,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Champion Rival [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 61,
@@ -10737,11 +10737,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerM #1 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 39,
@@ -10753,11 +10753,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -10769,11 +10769,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -10785,11 +10785,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -10801,11 +10801,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 47,
@@ -10817,11 +10817,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 47,
@@ -10833,11 +10833,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 47,
@@ -10849,11 +10849,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Silph Co. 7F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -10865,11 +10865,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #1 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -10881,11 +10881,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Tamer #2 @ Fuchsia Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -10899,11 +10899,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Seadra": {
         "Beauty #1 @ Route 20 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -10915,11 +10915,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #1 @ Route 20 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -10931,11 +10931,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #1 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -10947,11 +10947,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -10962,11 +10962,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -10980,11 +10980,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Seaking": {
         "Beauty #1 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -10996,11 +10996,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #2 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -11012,11 +11012,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #2 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -11028,11 +11028,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #4 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -11044,11 +11044,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 21 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -11060,11 +11060,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 21 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -11076,11 +11076,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ Route 21 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -11092,11 +11092,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #4 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -11108,11 +11108,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #2 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -11124,11 +11124,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #5 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11142,11 +11142,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Seel": {
         "Jr. TrainerF #1 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -11158,11 +11158,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Shellder": {
         "Beauty #3 @ Route 20 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -11174,11 +11174,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #3 @ Route 20 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -11190,11 +11190,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -11204,11 +11204,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #2 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -11220,11 +11220,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #4 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -11235,11 +11235,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Flareon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -11250,11 +11250,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -11266,11 +11266,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #1 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -11281,11 +11281,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #1 @ SS Anne Deck": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -11296,11 +11296,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #2 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -11310,11 +11310,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer @ Cerulean Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -11324,11 +11324,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #1 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -11340,11 +11340,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #1 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -11356,11 +11356,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #5 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11374,11 +11374,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Slowbro": {
         "Elite Four Lorelei": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 54,
@@ -11390,11 +11390,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #3 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -11406,11 +11406,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #4 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 38,
@@ -11424,11 +11424,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Slowpoke": {
         "Pokémaniac #1 @ Rock Tunnel 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -11439,11 +11439,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Rock Tunnel B1F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -11453,11 +11453,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Rock Tunnel B1F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -11467,11 +11467,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Rock Tunnel B1F (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -11481,11 +11481,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #1 @ Route 10": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -11495,11 +11495,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Pokémaniac #3 @ Rock Tunnel B1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -11510,11 +11510,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #1 @ Saffron Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -11526,11 +11526,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #3 @ Saffron Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -11542,11 +11542,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Psychic #3 @ Saffron Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -11558,11 +11558,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #2 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -11573,11 +11573,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Spearow": {
         "Bird Keeper #1 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -11589,11 +11589,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #1 @ Route 18": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11605,11 +11605,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 13 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -11621,11 +11621,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 13 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -11637,11 +11637,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #2 @ Route 13 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -11653,11 +11653,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -11669,11 +11669,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 18 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -11685,11 +11685,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 18 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -11701,11 +11701,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #3 @ Route 18 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -11717,11 +11717,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #4 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -11733,11 +11733,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bird Keeper #6 @ Route 14": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11749,11 +11749,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #2 @ Route 6": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -11765,11 +11765,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #1.5": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -11780,11 +11780,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #2": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -11796,11 +11796,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
@@ -11812,11 +11812,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #1 @ Route 25": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -11828,11 +11828,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -11845,11 +11845,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Starmie": {
         "Leader Misty": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -11861,11 +11861,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -11878,11 +11878,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Staryu": {
         "Beauty #3 @ Route 19 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11894,11 +11894,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #3 @ Route 19 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11910,11 +11910,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Beauty #3 @ Route 19 (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11926,11 +11926,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -11940,11 +11940,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Misty": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -11954,11 +11954,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #3 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -11968,11 +11968,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #2 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -11984,11 +11984,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #3 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 35,
@@ -12000,11 +12000,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #3 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -12016,11 +12016,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #7 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12034,11 +12034,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Tangela": {
         "Leader Erika": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -12050,11 +12050,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #4 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -12068,11 +12068,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Tauros": {
         "Tamer #2 @ Viridian Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 39,
@@ -12086,11 +12086,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Tentacool": {
         "Cue Ball #1 @ Route 21 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -12102,11 +12102,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball #1 @ Route 21 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -12118,11 +12118,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ SS Anne 2F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -12133,11 +12133,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #1 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -12148,11 +12148,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Fisherman #2 @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -12164,11 +12164,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerF #1 @ Route 20": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -12180,11 +12180,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #2 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -12195,11 +12195,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #2 @ SS Anne Deck": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -12210,11 +12210,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Sailor #3 @ SS Anne B1F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -12226,11 +12226,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #1 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 30,
@@ -12242,11 +12242,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 19 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12258,11 +12258,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 19 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12274,11 +12274,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #4 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -12290,11 +12290,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #7 @ Route 19 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12306,11 +12306,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #7 @ Route 19 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12324,11 +12324,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Tentacruel": {
         "CooltrainerM #2 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -12340,11 +12340,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Cue Ball @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -12356,11 +12356,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #1 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -12372,11 +12372,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #7 @ Route 19": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12390,11 +12390,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Vaporeon": {
         "Champion Rival [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 65,
@@ -12406,11 +12406,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #5 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 40,
@@ -12422,11 +12422,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #6 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 53,
@@ -12440,11 +12440,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Venomoth": {
         "Leader Koga": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 50,
@@ -12458,11 +12458,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Venonat": {
         "Bug Catcher #2 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -12474,11 +12474,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Koga (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 44,
@@ -12490,11 +12490,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Koga (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 46,
@@ -12506,11 +12506,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Koga (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 48,
@@ -12524,11 +12524,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Victreebel": {
         "CooltrainerF #2 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -12542,11 +12542,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Voltorb": {
         "Biker #3 @ Route 17 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -12558,11 +12558,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #3 @ Route 17 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -12574,11 +12574,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #3 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -12589,11 +12589,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #1 @ SS Anne 2F ": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -12605,11 +12605,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gentleman #1 @ Vermilion Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -12621,11 +12621,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocker @ Route 12": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -12637,11 +12637,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocker #1 @ Vermilion Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -12652,11 +12652,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocker #1 @ Vermilion Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -12667,11 +12667,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocker #1 @ Vermilion Gym (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -12682,11 +12682,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -12698,11 +12698,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 6F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -12714,11 +12714,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 9F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -12730,11 +12730,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #2 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -12746,11 +12746,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -12760,11 +12760,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 12,
@@ -12774,11 +12774,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Route 8 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -12789,11 +12789,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Route 8 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -12806,11 +12806,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Vulpix": {
         "Beauty #1 @ Route 13": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -12822,11 +12822,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #1 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -12838,11 +12838,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Burglar #3 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -12854,11 +12854,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #1 @ Route 8": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -12870,11 +12870,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Gambler #4 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 18,
@@ -12885,11 +12885,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Jolteon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 22,
@@ -12901,11 +12901,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rival #4 [Vaporeon]": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -12917,11 +12917,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Cinnabar Gym (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -12933,11 +12933,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #1 @ Cinnabar Gym (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 36,
@@ -12949,11 +12949,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #2 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 34,
@@ -12965,11 +12965,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Super Nerd #4 @ Cinnabar Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 37,
@@ -12983,11 +12983,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Wartortle": {
         "CooltrainerM @ Victory Road 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 42,
@@ -12999,11 +12999,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Swimmer #3 @ Route 21": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -13017,11 +13017,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Weedle": {
         "Bug Catcher #1 @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -13031,11 +13031,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -13045,11 +13045,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -13059,11 +13059,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 6 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -13073,11 +13073,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #1 @ Route 6 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -13087,11 +13087,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Route 3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 9,
@@ -13101,11 +13101,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Bug Catcher #2 @ Route 9": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -13117,11 +13117,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Weepinbell": {
         "CooltrainerF @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 24,
@@ -13133,11 +13133,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "CooltrainerF #2 @ Victory Road 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 43,
@@ -13149,11 +13149,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Leader Erika": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 32,
@@ -13165,11 +13165,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jr. TrainerM #1 @ Route 6": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 16,
@@ -13181,11 +13181,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Lass #1 @ Celadon Gym": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 23,
@@ -13199,11 +13199,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Weezing": {
         "Biker #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13214,11 +13214,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 17 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13229,11 +13229,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #1 @ Route 17 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13244,11 +13244,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13259,11 +13259,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #2 @ Route 16": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 33,
@@ -13274,11 +13274,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #4 @ Route 17": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -13289,11 +13289,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #5 @ Route 17 (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13304,11 +13304,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Biker #5 @ Route 17 (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13319,11 +13319,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #3": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 27,
@@ -13334,11 +13334,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Jessie & James #4": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 31,
@@ -13349,11 +13349,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13364,11 +13364,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Mansion 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -13379,11 +13379,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 2F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -13394,11 +13394,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 2F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -13409,11 +13409,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist #1 @ Silph Co. 3F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -13424,11 +13424,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Scientist @ Silph Co. 5F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -13441,11 +13441,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Wigglytuff": {
         "Beauty #1 @ Route 15": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -13459,11 +13459,11 @@ var CUSTOMSETDEX_Y = {
     },
     "Zubat": {
         "Rocket #1 @ Game Corner": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 20,
@@ -13474,11 +13474,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 13,
@@ -13488,11 +13488,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B2F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -13503,11 +13503,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Rocket Hideout B2F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 17,
@@ -13518,11 +13518,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Rocket Hideout B4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 21,
@@ -13534,11 +13534,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 15,
@@ -13549,11 +13549,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 11F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13565,11 +13565,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 29,
@@ -13581,11 +13581,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #1 @ Silph Co. 8F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 26,
@@ -13597,11 +13597,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 11,
@@ -13611,11 +13611,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 2F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13627,11 +13627,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 2F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13643,11 +13643,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 2F (3)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 25,
@@ -13659,11 +13659,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 4F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13675,11 +13675,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 6F (1)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13691,11 +13691,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #2 @ Silph Co. 6F (2)": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 28,
@@ -13707,11 +13707,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Rocket #3 @ Mt. Moon B2F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 12,
@@ -13721,11 +13721,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster @ Mt. Moon 1F": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 10,
@@ -13735,11 +13735,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster @ Route 24": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 14,
@@ -13749,11 +13749,11 @@ var CUSTOMSETDEX_Y = {
             ]
         },
         "Youngster #2 @ Route 11": {
-            "ivs": {
+            "dvs": {
+                "hp": 8,
                 "at": 9,
                 "df": 8,
-                "sa": 8,
-                "sd": 8,
+                "sl": 8,
                 "sp": 8
             },
             "level": 19,
