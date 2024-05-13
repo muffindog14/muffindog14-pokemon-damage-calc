@@ -738,11 +738,9 @@ $(".set-selector").change(function () {
 				moveObj.attr('data-prev', moveObj.val());
 				if (moves[i] === "Hidden Power") {
 					var ivs = {};
-					var maxed = true;
 					for (var i = 0; i <= LEGACY_STATS[9].length; i++) {
 						var s = LEGACY_STATS[9][i];
-						var iv = ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
-						if (iv !== 31) maxed = false;
+						ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
 					}
 
 					var expectedType = calc.Stats.getHiddenPower(GENERATION, ivs).type;
