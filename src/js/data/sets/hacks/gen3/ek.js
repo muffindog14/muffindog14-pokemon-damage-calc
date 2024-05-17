@@ -301,7 +301,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Cooltrainer Jennifer": {"ability": "Forecast", "item": "Salac Berry", "level": 49, "moves": ["Ice Beam", "Thunder", "Hydro Pump", "Attract"], "nature": "Careful"},
         "Leader #1 Wallace": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Thunder", "Ice Beam", "Weather Ball Water", "Hidden Power Grass"], "nature": "Sassy"},
         "Leader #2 Juan": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Weather Ball Water", "Ice Beam", "Thunder", "Hidden Power Grass"], "nature": "Modest"},
-        "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Forecast", "item": "Scope Lens", "level": 67, "moves": ["Thunder", "Weather Ball Water", "Ice Beam", "Attract"], "nature": "Naughty"}
+        "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Forecast", "item": "Scope Lens", "level": 66, "moves": ["Thunder", "Weather Ball Water", "Ice Beam", "Attract"], "nature": "Naughty"}
     },
     "Castform-Sunny":
     {
