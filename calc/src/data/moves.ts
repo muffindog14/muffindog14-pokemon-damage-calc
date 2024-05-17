@@ -596,6 +596,8 @@ const EK_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Leaf Blade': {bp: 95},
   'Needle Arm': {bp: 95},
   'Spit Up': {bp: 100},
+  'Weather Ball Water': {bp: 100, type: 'Water'},
+  'Weather Ball Fire': {bp: 100, type: 'Fire'},
   'Sky Uppercut': {bp: 90},
   'Hyper Voice': {bp: 120},
   'Poison Fang': {bp: 90},
