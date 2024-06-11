@@ -850,9 +850,25 @@ $(".set-selector").change(function () {
 				for (var j in resultLocations[1])
 				$(resultLocations[1][j].move + " + label").removeClass("risky-ai-move");
 			}
+
+			if ($(".risky-ai-move").length) trySendRiskyAlert();
 		}
 	}
 });
+
+function trySendRiskyAlert() {
+	if (!localStorage.sentRiskyAlert) {
+		localStorage.sentRiskyAlert = "true";
+		alert("This trainer has Risky AI and at least one risky move (marked by italics), and it has a chance to use it instead of the move it would normally use. This alert will only be shown once.");
+	}
+}
+
+function trySendSwitchAlert() {
+	if (!localStorage.sentSwitchAlert) {
+		localStorage.sentSwitchAlert = "true";
+		alert("This Pokémon is faster than yours, and another Pokémon in the party resists at least one move (both the move and the target Pokémon are marked in red). If you use it, there's a chance the enemy trainer switches to that Pokémon. This alert will only be shown once.");
+	}
+}
 
 function formatMovePool(moves) {
 	var formatted = [];

@@ -531,6 +531,8 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 			}
 		}
 	}
+
+	if ($(".switch-risk").length) trySendSwitchAlert();
 }
 
 function predictMidTurnSwitch(p1, p2) {
