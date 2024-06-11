@@ -2131,6 +2131,17 @@ function colorCodeSetsChange(ev){
 	}
 }
 
+$(".stat-changer").click((e) => {
+	var select = $(e.target).parent().siblings("td").has("select").children();
+	var increment = e.target.innerText === "+" ? 1 : -1;
+	var curValue = Number(select.val());
+	var futureValue = curValue + increment;
+	if (Math.abs(futureValue) !== 7) {
+		select.val(futureValue);
+		select.change();
+	}
+});
+
 var READY;
 $(document).ready(function () {
 	var params = new URLSearchParams(window.location.search);

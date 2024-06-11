@@ -588,6 +588,11 @@ table.field {
     font-style: italic;
 }
 
+.stat-changer {
+    width: 22px;
+    margin-right: 2px;
+}
+
 
 /*
     F = Faster 
