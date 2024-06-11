@@ -472,7 +472,12 @@ function predictSwitchOrderEmerald() {
 			nextMon = highestDamage.pokemon.species;
 		}
 
-		if (nextMon) $(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html(`${nextMon} (Phase ${phase})`);
+		var xp = Math.floor(Math.floor(pokedex[dead.species].expYield * dead.level / 7) * 1.5);
+
+		if (nextMon) {
+			$(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html(`${nextMon} (Phase ${phase})`);
+			$(`.trainer-poke-switch-xp[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html(`+${xp}`);
+		}
 	}
 }
 

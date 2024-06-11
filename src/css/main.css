@@ -568,7 +568,12 @@ table.field {
 }
 
 .trainer-poke-switch-explain {
-    vertical-align: middle;
+    vertical-align: middle !important;
+}
+
+.trainer-poke-switch-xp {
+    vertical-align: middle !important;
+    text-align: right;
 }
 
 .dead {
