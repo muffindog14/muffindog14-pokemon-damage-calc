@@ -27,7 +27,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Aggron":
     {
-        "Leader Byron #2": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Metal Burst", "Stone Edge", "Earthquake", "Avalanche"], "nature": "Impish"}
+        "Leader Byron #2": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Metal Burst", "Stone Edge", "Earthquake", "Avalanche"], "nature": "Impish"}
     },
     "Aipom":
     {
@@ -44,7 +44,7 @@ var CUSTOMSETDEX_Pl = {
         "Clown Lee #6": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 56, "moves": ["Trick", "Future Sight", "Psychic", "Calm Mind"], "nature": "Timid"},
         "Elite Four Lucian": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 56, "moves": ["Psychic", "Energy Ball", "Focus Blast", "Recover"], "nature": "Hardy"},
         "Elite Four Lucian #2": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 72, "moves": ["Psychic", "Energy Ball", "Focus Blast", "Recover"], "nature": "Calm"},
-        "Pokémon Trainer Mira #2": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Psychic", "Focus Blast", "Calm Mind", "Hyper Beam"], "nature": "Bold"},
+        "Pokémon Trainer Mira #2": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Psychic", "Focus Blast", "Calm Mind", "Hyper Beam"], "nature": "Bold"},
         "Psychic Brittney": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 57, "moves": ["Trick", "Future Sight", "Psychic", "Calm Mind"], "nature": "Docile"},
         "Psychic Brittney #2": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 61, "moves": ["Recover", "Psychic", "Calm Mind", "Shadow Ball"], "nature": "Relaxed"},
         "Psychic Landon": {"ability": "Synchronize", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 55, "moves": ["Psychic", "Future Sight", "Recover", "Focus Blast"], "nature": "Naive"},
@@ -83,7 +83,7 @@ var CUSTOMSETDEX_Pl = {
     "Arcanine":
     {
         "Pokémon Trainer Marley": {"ability": "Intimidate", "gender": "M", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 59, "moves": ["Extreme Speed", "Fire Fang", "Helping Hand", "Agility"], "nature": "Sassy"},
-        "Pokémon Trainer Marley #2": {"ability": "Intimidate", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Extreme Speed", "Flare Blitz", "Crunch", "Thunder Fang"], "nature": "Modest"}
+        "Pokémon Trainer Marley #2": {"ability": "Intimidate", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Extreme Speed", "Flare Blitz", "Crunch", "Thunder Fang"], "nature": "Modest"}
     },
     "Azumarill":
     {
@@ -121,7 +121,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Bastiodon":
     {
-        "Leader Byron": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 41, "moves": ["Metal Burst", "Stone Edge", "Iron Defense", "Taunt"], "nature": "Lax"},
+        "Leader Byron": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 41, "moves": ["Metal Burst", "Stone Edge", "Iron Defense", "Taunt"], "nature": "Lax"},
         "Leader Byron #2": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 63, "moves": ["Metal Burst", "Ancient Power", "Iron Defense", "Rest"], "nature": "Brave"},
         "Ruin Maniac Harry #3": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 50, "moves": ["Metal Burst", "Endure", "Block", "Ancient Power"], "nature": "Naive"}
     },
@@ -165,15 +165,15 @@ var CUSTOMSETDEX_Pl = {
     "Blissey":
     {
         "Ace Trainer Mariah": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 45, "moves": ["Double-Edge", "Sing", "Soft-Boiled", "Light Screen"], "nature": "Naughty"},
-        "Lady Celeste": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 35, "moves": ["Fling", "Soft-Boiled", "Egg Bomb", "Psychic"], "nature": "Jolly"},
-        "Pokémon Trainer Cheryl #2": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Soft-Boiled", "Counter", "Psychic", "Toxic"], "nature": "Mild"},
-        "Rich Boy Liam": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 35, "moves": ["Light Screen", "Defense Curl", "Fling", "Sing"], "nature": "Rash"}
+        "Lady Celeste": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Rare Candy", "level": 35, "moves": ["Fling", "Soft-Boiled", "Egg Bomb", "Psychic"], "nature": "Jolly"},
+        "Pokémon Trainer Cheryl #2": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Soft-Boiled", "Counter", "Psychic", "Toxic"], "nature": "Mild"},
+        "Rich Boy Liam": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Rare Candy", "level": 35, "moves": ["Light Screen", "Defense Curl", "Fling", "Sing"], "nature": "Rash"}
     },
     "Bonsly":
     {
         "Artist William": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 20, "moves": ["Mimic", "Rock Throw", "Low Kick", "Flail"], "nature": "Naughty"},
         "Lass Carrie": {"ability": "Sturdy", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 23, "moves": ["Block", "Rock Throw"], "nature": "Bashful"},
-        "Pokéfan Rebekah": {"ability": "Sturdy", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 23, "moves": ["Block", "Mimic", "Rock Throw", "Low Kick"], "nature": "Docile"},
+        "Pokéfan Rebekah": {"ability": "Sturdy", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "item": "Sitrus Berry", "level": 23, "moves": ["Block", "Mimic", "Rock Throw", "Low Kick"], "nature": "Docile"},
         "Pokémon Breeder Albert": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 20, "moves": ["Mimic", "Rock Throw", "Low Kick", "Flail"], "nature": "Jolly"},
         "Pokémon Breeder Albert #2": {"ability": "Sturdy", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 32, "moves": ["Rock Tomb", "Feint Attack", "Block", "Mimic"], "nature": "Hardy"},
         "Twins Emma & Lil": {"ability": "Sturdy", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 22, "moves": ["Block", "Mimic", "Rock Throw", "Low Kick"], "nature": "Naughty"}
@@ -337,7 +337,7 @@ var CUSTOMSETDEX_Pl = {
         "Ace Trainer Moira": {"ability": "Levitate", "gender": "N", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 57, "moves": ["Earthquake", "Psychic", "Ancient Power", "Cosmic Power"], "nature": "Hardy"},
         "Ace Trainer Moira #2": {"ability": "Levitate", "gender": "N", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 60, "moves": ["Earthquake", "Psychic", "Ancient Power", "Cosmic Power"], "nature": "Modest"},
         "Pokémon Trainer Buck": {"ability": "Levitate", "gender": "N", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 63, "moves": ["Psychic", "Ancient Power", "Light Screen", "Reflect"], "nature": "Relaxed"},
-        "Pokémon Trainer Buck #2": {"ability": "Levitate", "gender": "N", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Earth Power", "Psychic", "Ancient Power", "Calm Mind"], "nature": "Bold"}
+        "Pokémon Trainer Buck #2": {"ability": "Levitate", "gender": "N", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Earth Power", "Psychic", "Ancient Power", "Calm Mind"], "nature": "Bold"}
     },
     "Clefable":
     {
@@ -481,8 +481,8 @@ var CUSTOMSETDEX_Pl = {
     "Drapion":
     {
         "Ace Trainer Jasmin": {"ability": "Battle Armor", "gender": "F", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 61, "moves": ["Cross Poison", "Crunch", "X-Scissor", "Aerial Ace"], "nature": "Bashful"},
-        "Elite Four Aaron": {"ability": "Battle Armor", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 53, "moves": ["X-Scissor", "Cross Poison", "Ice Fang", "Aerial Ace"], "nature": "Jolly"},
-        "Elite Four Aaron #2": {"ability": "Battle Armor", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 69, "moves": ["X-Scissor", "Cross Poison", "Ice Fang", "Aerial Ace"], "nature": "Lonely"}
+        "Elite Four Aaron": {"ability": "Battle Armor", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 53, "moves": ["X-Scissor", "Cross Poison", "Ice Fang", "Aerial Ace"], "nature": "Jolly"},
+        "Elite Four Aaron #2": {"ability": "Battle Armor", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 69, "moves": ["X-Scissor", "Cross Poison", "Ice Fang", "Aerial Ace"], "nature": "Lonely"}
     },
     "Dratini":
     {
@@ -564,9 +564,9 @@ var CUSTOMSETDEX_Pl = {
     "Electivire":
     {
         "Ace Trainer Dalton #2": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 54, "moves": ["Thunderbolt", "Swift", "Quick Attack", "Thunder Wave"], "nature": "Jolly"},
-        "Leader Volkner": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "300", "df": "300", "hp": "300", "sa": "300", "sd": "300", "sp": "300"}, "level": 50, "moves": ["Thunder Punch", "Fire Punch", "Quick Attack", "Giga Impact"], "nature": "Impish"},
-        "Leader Volkner #2": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Thunder Punch", "Fire Punch", "Brick Break", "Giga Impact"], "nature": "Naive"},
-        "Leader Volkner #3": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 58, "moves": ["Thunder Punch", "Fire Punch", "Brick Break", "Giga Impact"], "nature": "Naughty"}
+        "Leader Volkner": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "300", "df": "300", "hp": "300", "sa": "300", "sd": "300", "sp": "300"}, "item": "Sitrus Berry", "level": 50, "moves": ["Thunder Punch", "Fire Punch", "Quick Attack", "Giga Impact"], "nature": "Impish"},
+        "Leader Volkner #2": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Thunder Punch", "Fire Punch", "Brick Break", "Giga Impact"], "nature": "Naive"},
+        "Leader Volkner #3": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 58, "moves": ["Thunder Punch", "Fire Punch", "Brick Break", "Giga Impact"], "nature": "Naughty"}
     },
     "Electrode":
     {
@@ -583,11 +583,11 @@ var CUSTOMSETDEX_Pl = {
         "Pokémon Ranger Kyler": {"ability": "Torrent", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 58, "moves": ["Drill Peck", "Mist", "Whirlpool", "Aqua Jet"], "nature": "Bold"},
         "Pokémon Trainer Barry #5 [Empoleon]": {"ability": "Torrent", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 38, "moves": ["Bubble Beam", "Aerial Ace", "Metal Claw", "Fury Attack"], "nature": "Bashful"},
         "Pokémon Trainer Barry @ Fight Area [Empoleon]": {"ability": "Torrent", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 56, "moves": ["Brine", "Aerial Ace", "Metal Claw", "Shadow Claw"], "nature": "Bashful"},
-        "Pokémon Trainer Barry #6 [Empoleon]": {"ability": "Torrent", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 51, "moves": ["Brine", "Aerial Ace", "Metal Claw", "Shadow Claw"], "nature": "Quiet"},
+        "Pokémon Trainer Barry #6 [Empoleon]": {"ability": "Torrent", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 51, "moves": ["Brine", "Aerial Ace", "Metal Claw", "Shadow Claw"], "nature": "Quiet"},
         "Pokémon Trainer Barry @ Spear Pillar [Empoleon]": {"ability": "Torrent", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 44, "moves": ["Aqua Jet", "Aerial Ace", "Metal Claw", "Swagger"], "nature": "Calm"},
         "Pokémon Trainer Barry @ Survival Area [Empoleon]": {"ability": "Torrent", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 65, "moves": ["Hydro Pump", "Metal Claw", "Drill Peck", "Shadow Claw"], "nature": "Naive"},
-        "Pokémon Trainer Barry @ Survival Area [Empoleon] #2": {"ability": "Torrent", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 75, "moves": ["Hydro Pump", "Metal Claw", "Drill Peck", "Ice Beam"], "nature": "Quirky"},
-        "Pokémon Trainer Barry @ Survival Area [Empoleon] #3": {"ability": "Torrent", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 85, "moves": ["Hydro Pump", "Metal Claw", "Drill Peck", "Ice Beam"], "nature": "Sassy"},
+        "Pokémon Trainer Barry @ Survival Area [Empoleon] #2": {"ability": "Torrent", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 75, "moves": ["Hydro Pump", "Metal Claw", "Drill Peck", "Ice Beam"], "nature": "Quirky"},
+        "Pokémon Trainer Barry @ Survival Area [Empoleon] #3": {"ability": "Torrent", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 85, "moves": ["Hydro Pump", "Metal Claw", "Drill Peck", "Ice Beam"], "nature": "Sassy"},
         "Veteran Edgar": {"ability": "Torrent", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 46, "moves": ["Brine", "Drill Peck", "Metal Claw", "Growl"], "nature": "Modest"}
     },
     "Espeon":
@@ -649,7 +649,7 @@ var CUSTOMSETDEX_Pl = {
         "Ace Trainer Dennis #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 44, "moves": ["Aqua Jet", "Swift", "Pursuit", "Quick Attack"], "nature": "Impish"},
         "Ace Trainer Dennis #3": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 61, "moves": ["Aqua Jet", "Swift", "Crunch", "Quick Attack"], "nature": "Quirky"},
         "Camper Lawrence": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 36, "moves": ["Agility", "Crunch", "Aqua Jet", "Swift"], "nature": "Jolly"},
-        "Leader Wake": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "18", "df": "18", "hp": "18", "sa": "18", "sd": "18", "sp": "18"}, "level": 37, "moves": ["Brine", "Ice Fang", "Crunch", "Aqua Jet"], "nature": "Naughty"},
+        "Leader Wake": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "18", "df": "18", "hp": "18", "sa": "18", "sd": "18", "sp": "18"}, "item": "Sitrus Berry", "level": 37, "moves": ["Brine", "Ice Fang", "Crunch", "Aqua Jet"], "nature": "Naughty"},
         "Leader Wake #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 63, "moves": ["Brine", "Ice Fang", "Crunch", "Aqua Jet"], "nature": "Modest"},
         "Pokémon Trainer Barry #5 [Infernape]": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 35, "moves": ["Aqua Jet", "Pursuit", "Quick Attack", "Swift"], "nature": "Calm"},
         "Pokémon Trainer Barry #5 [Torterra]": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 35, "moves": ["Aqua Jet", "Pursuit", "Quick Attack", "Swift"], "nature": "Calm"},
@@ -682,7 +682,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Froslass":
     {
-        "Leader Candice": {"ability": "Snow Cloak", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 44, "moves": ["Blizzard", "Double Team", "Shadow Ball", "Psychic"], "nature": "Lonely"},
+        "Leader Candice": {"ability": "Snow Cloak", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 44, "moves": ["Blizzard", "Double Team", "Shadow Ball", "Psychic"], "nature": "Lonely"},
         "Leader Candice #2": {"ability": "Snow Cloak", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 63, "moves": ["Blizzard", "Confuse Ray", "Ominous Wind", "Hail"], "nature": "Bashful"},
         "Skier Madison #3": {"ability": "Snow Cloak", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 54, "moves": ["Blizzard", "Hail", "Ice Shard", "Captivate"], "nature": "Lonely"}
     },
@@ -698,16 +698,16 @@ var CUSTOMSETDEX_Pl = {
     },
     "Gallade":
     {
-        "Elite Four Lucian": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 59, "moves": ["Drain Punch", "Psycho Cut", "Leaf Blade", "Stone Edge"], "nature": "Careful"},
-        "Elite Four Lucian #2": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 75, "moves": ["Drain Punch", "Psycho Cut", "Leaf Blade", "Stone Edge"], "nature": "Quirky"},
+        "Elite Four Lucian": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 59, "moves": ["Drain Punch", "Psycho Cut", "Leaf Blade", "Stone Edge"], "nature": "Careful"},
+        "Elite Four Lucian #2": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 75, "moves": ["Drain Punch", "Psycho Cut", "Leaf Blade", "Stone Edge"], "nature": "Quirky"},
         "Psychic Corbin": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 56, "moves": ["Close Combat", "Protect", "False Swipe", "Feint"], "nature": "Modest"},
         "Psychic Corbin #2": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 60, "moves": ["Close Combat", "Protect", "False Swipe", "Feint"], "nature": "Docile"},
         "Psychic Sterling": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 59, "moves": ["Close Combat", "Protect", "False Swipe", "Feint"], "nature": "Mild"}
     },
     "Garchomp":
     {
-        "Champion Cynthia": {"ability": "Sand Veil", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 62, "moves": ["Dragon Rush", "Earthquake", "Flamethrower", "Giga Impact"], "nature": "Quirky"},
-        "Champion Cynthia #2": {"ability": "Sand Veil", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 78, "moves": ["Dragon Rush", "Earthquake", "Brick Break", "Giga Impact"], "nature": "Bold"},
+        "Champion Cynthia": {"ability": "Sand Veil", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 62, "moves": ["Dragon Rush", "Earthquake", "Flamethrower", "Giga Impact"], "nature": "Quirky"},
+        "Champion Cynthia #2": {"ability": "Sand Veil", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 78, "moves": ["Dragon Rush", "Earthquake", "Brick Break", "Giga Impact"], "nature": "Bold"},
         "Dragon Tamer Geoffrey #2": {"ability": "Sand Veil", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 61, "moves": ["Dragon Rush", "Crunch", "Dig", "Dragon Claw"], "nature": "Modest"}
     },
     "Gardevoir":
@@ -749,7 +749,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Gengar":
     {
-        "Leader Fantina #2": {"ability": "Cursed Body", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Shadow Ball", "Psychic", "Focus Blast", "Thunder"], "nature": "Careful"},
+        "Leader Fantina #2": {"ability": "Cursed Body", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Shadow Ball", "Psychic", "Focus Blast", "Thunder"], "nature": "Careful"},
         "Pokémon Trainer Mira #2": {"ability": "Cursed Body", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 61, "moves": ["Shadow Ball", "Psychic", "Sludge Bomb", "Energy Ball"], "nature": "Quirky"},
         "Psychic Bryce": {"ability": "Cursed Body", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 46, "moves": ["Dark Pulse", "Dream Eater", "Shadow Ball", "Payback"], "nature": "Impish"},
         "Psychic Kendra": {"ability": "Cursed Body", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 55, "moves": ["Shadow Ball", "Dark Pulse", "Frustration", "Sludge Bomb"], "nature": "Bashful"},
@@ -793,7 +793,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Glaceon":
     {
-        "Leader Candice #2": {"ability": "Snow Cloak", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Blizzard", "Mirror Coat", "Shadow Ball", "Water Pulse"], "nature": "Gentle"},
+        "Leader Candice #2": {"ability": "Snow Cloak", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Blizzard", "Mirror Coat", "Shadow Ball", "Water Pulse"], "nature": "Gentle"},
         "Skier Lexie": {"ability": "Snow Cloak", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 37, "moves": ["Ice Shard", "Bite", "Quick Attack", "Icy Wind"], "nature": "Lonely"}
     },
     "Glalie":
@@ -1038,7 +1038,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Honchkrow":
     {
-        "Galactic Boss Cyrns #1": {"ability": "Insomnia", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 46, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Relaxed"},
+        "Galactic Boss Cyrns #1": {"ability": "Insomnia", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 46, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Relaxed"},
         "Galactic Boss Cyrus #2": {"ability": "Insomnia", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 47, "moves": ["Drill Peck", "Night Slash", "Heat Wave", "Psychic"], "nature": "Adamant"}
     },
     "Hoothoot":
@@ -1088,11 +1088,11 @@ var CUSTOMSETDEX_Pl = {
         "Elite Four Flint #2": {"ability": "Blaze", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 71, "moves": ["Flare Blitz", "Thunder Punch", "Mach Punch", "Earthquake"], "nature": "Adamant"},
         "Pokémon Trainer Barry #5 [Infernape]": {"ability": "Blaze", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 38, "moves": ["Brick Break", "Flame Wheel", "Mach Punch", "Aerial Ace"], "nature": "Calm"},
         "Pokémon Trainer Barry @ Fight Area [Infernape]": {"ability": "Blaze", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 56, "moves": ["Flamethrower", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Calm"},
-        "Pokémon Trainer Barry #6 [Infernape]": {"ability": "Blaze", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 51, "moves": ["Flamethrower", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Rash"},
+        "Pokémon Trainer Barry #6 [Infernape]": {"ability": "Blaze", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 51, "moves": ["Flamethrower", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Rash"},
         "Pokémon Trainer Barry @ Spear Pillar [Infernape]": {"ability": "Blaze", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 44, "moves": ["Close Combat", "Punishment", "Flame Wheel", "Will-O-Wisp"], "nature": "Mild"},
         "Pokémon Trainer Barry @ Survival Area [Infernape]": {"ability": "Blaze", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 65, "moves": ["Flamethrower", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Timid"},
-        "Pokémon Trainer Barry @ Survival Area [Infernape] #2": {"ability": "Blaze", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 75, "moves": ["Flare Blitz", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Lonely"},
-        "Pokémon Trainer Barry @ Survival Area [Infernape] #3": {"ability": "Blaze", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 85, "moves": ["Flare Blitz", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Quirky"}
+        "Pokémon Trainer Barry @ Survival Area [Infernape] #2": {"ability": "Blaze", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 75, "moves": ["Flare Blitz", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Lonely"},
+        "Pokémon Trainer Barry @ Survival Area [Infernape] #3": {"ability": "Blaze", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 85, "moves": ["Flare Blitz", "Focus Blast", "Shadow Claw", "Aerial Ace"], "nature": "Quirky"}
     },
     "Jolteon":
     {
@@ -1244,12 +1244,12 @@ var CUSTOMSETDEX_Pl = {
         "Leader Maylene": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 32, "moves": ["Drain Punch", "Force Palm", "Metal Claw", "Bone Rush"], "nature": "Hasty"},
         "Leader Maylene #2": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 66, "moves": ["Drain Punch", "Close Combat", "Extreme Speed", "Bone Rush"], "nature": "Docile"},
         "Pokémon Trainer Riley": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 41, "moves": ["Metal Claw", "Force Palm", "Quick Attack", "Bone Rush"], "nature": "Hardy"},
-        "Pokémon Trainer Riley #2": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Extreme Speed", "Close Combat", "Bone Rush", "Blaze Kick"], "nature": "Rash"}
+        "Pokémon Trainer Riley #2": {"ability": "Steadfast", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Extreme Speed", "Close Combat", "Bone Rush", "Blaze Kick"], "nature": "Rash"}
     },
     "Ludicolo":
     {
         "Ace Trainer Micah": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 56, "moves": ["Water Pulse", "Zen Headbutt", "Energy Ball", "Fake Out"], "nature": "Sassy"},
-        "Leader Wake #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Surf", "Ice Beam", "Energy Ball", "Focus Blast"], "nature": "Jolly"}
+        "Leader Wake #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Surf", "Ice Beam", "Energy Ball", "Focus Blast"], "nature": "Jolly"}
     },
     "Lumineon":
     {
@@ -1399,9 +1399,9 @@ var CUSTOMSETDEX_Pl = {
     "Magmortar":
     {
         "Ace Trainer Dalton #2": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 54, "moves": ["Flamethrower", "Feint Attack", "Smog", "Will-O-Wisp"], "nature": "Naive"},
-        "Elite Four Flint": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 57, "moves": ["Flamethrower", "Thunderbolt", "Solar Beam", "Hyper Beam"], "nature": "Gentle"},
-        "Elite Four Flint #2": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 73, "moves": ["Flamethrower", "Thunderbolt", "Solar Beam", "Hyper Beam"], "nature": "Timid"},
-        "Elite Four Flint #3": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 58, "moves": ["Flamethrower", "Thunderbolt", "Solar Beam", "Hyper Beam"], "nature": "Careful"}
+        "Elite Four Flint": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 57, "moves": ["Flamethrower", "Thunderbolt", "Solar Beam", "Hyper Beam"], "nature": "Gentle"},
+        "Elite Four Flint #2": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 73, "moves": ["Flamethrower", "Thunderbolt", "Solar Beam", "Hyper Beam"], "nature": "Timid"},
+        "Elite Four Flint #3": {"ability": "Flame Body", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 58, "moves": ["Flamethrower", "Thunderbolt", "Solar Beam", "Hyper Beam"], "nature": "Careful"}
     },
     "Magnemite":
     {
@@ -1575,7 +1575,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Mismagius":
     {
-        "Leader Fantina": {"ability": "Levitate", "gender": "F", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 26, "moves": ["Shadow Ball", "Psybeam", "Magical Leaf", "Confuse Ray"], "nature": "Impish"},
+        "Leader Fantina": {"ability": "Levitate", "gender": "F", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "item": "Sitrus Berry", "level": 26, "moves": ["Shadow Ball", "Psybeam", "Magical Leaf", "Confuse Ray"], "nature": "Impish"},
         "Leader Fantina #2": {"ability": "Levitate", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 63, "moves": ["Shadow Ball", "Psychic", "Magical Leaf", "Thunderbolt"], "nature": "Bashful"},
         "Psychic Desiree": {"ability": "Levitate", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 54, "moves": ["Shadow Ball", "Magical Leaf", "Aerial Ace", "Shock Wave"], "nature": "Lax"}
     },
@@ -1630,7 +1630,7 @@ var CUSTOMSETDEX_Pl = {
     "Murkrow":
     {
         "Bird Keeper Autumn": {"ability": "Insomnia", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 54, "moves": ["Sucker Punch", "Mean Look", "Feint Attack", "Taunt"], "nature": "Quirky"},
-        "Galactic Boss Cyrus #3": {"ability": "Insomnia", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 36, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Impish"},
+        "Galactic Boss Cyrus #3": {"ability": "Insomnia", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 36, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Impish"},
         "Team Galactic Grunt #2 @ Lake Valor": {"ability": "Insomnia", "gender": "F", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 35, "moves": ["Feint Attack", "Taunt", "Assurance", "Night Shade"], "nature": "Jolly"},
         "Team Galactic Grunt #1 @ Lake Verity": {"ability": "Insomnia", "gender": "F", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 36, "moves": ["Feint Attack", "Night Shade", "Wing Attack"], "nature": "Rash"},
         "Team Galactic Grunt #2 @ Mt. Coronet": {"ability": "Insomnia", "gender": "M", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 43, "moves": ["Mean Look", "Feint Attack", "Taunt", "Assurance"], "nature": "Rash"},
@@ -1705,7 +1705,7 @@ var CUSTOMSETDEX_Pl = {
         "Lass Carrie #2": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 24, "moves": ["Swift", "Endure", "Spark", "Charm"], "nature": "Careful"},
         "Picnicker Lauren": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 22, "moves": ["Spark", "Quick Attack", "Charm"], "nature": "Bold"},
         "Picnicker Siena": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 12, "moves": ["Charm", "Quick Attack", "Growl", "Bide"], "nature": "Naughty"},
-        "Pokéfan Meredith": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 26, "moves": ["Sweet Kiss", "Swift", "Endure", "Spark"], "nature": "Quirky"},
+        "Pokéfan Meredith": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "item": "Sitrus Berry", "level": 26, "moves": ["Sweet Kiss", "Swift", "Endure", "Spark"], "nature": "Quirky"},
         "School Kid Tiera": {"ability": "Run Away", "gender": "F", "ivs": {"at": "1", "df": "1", "hp": "1", "sa": "1", "sd": "1", "sp": "1"}, "level": 47, "moves": ["Last Resort", "Super Fang", "Discharge", "Sweet Kiss"], "nature": "Adamant"},
         "Twins Liv & Liz (1)": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 11, "moves": ["Charm", "Quick Attack", "Growl", "Bide"], "nature": "Brave"},
         "Twins Liv & Liz (2)": {"ability": "Run Away", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 11, "moves": ["Charm", "Quick Attack", "Growl", "Bide"], "nature": "Brave"},
@@ -1744,9 +1744,9 @@ var CUSTOMSETDEX_Pl = {
         "Poké Kid Ariel #5": {"ability": "Static", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 49, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Adamant"},
         "Poké Kid Ariel #6": {"ability": "Static", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 55, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Lax"},
         "Poké Kid Danielle": {"ability": "Static", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 22, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Adamant"},
-        "Pokéfan Leonard (1)": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 19, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Calm"},
-        "Pokéfan Leonard (2)": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 19, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Calm"},
-        "Pokéfan Meredith": {"ability": "Static", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 26, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Docile"},
+        "Pokéfan Leonard (1)": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "item": "Sitrus Berry", "level": 19, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Calm"},
+        "Pokéfan Leonard (2)": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "item": "Sitrus Berry", "level": 19, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Calm"},
+        "Pokéfan Meredith": {"ability": "Static", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "item": "Sitrus Berry", "level": 26, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Docile"},
         "Pokémon Breeder Albert": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 20, "moves": ["Nasty Plot", "Sweet Kiss", "Thunder Wave", "Tail Whip"], "nature": "Docile"}
     },
     "Pidgeot":
@@ -1776,7 +1776,7 @@ var CUSTOMSETDEX_Pl = {
         "Poké Kid Meghan (2)": {"ability": "Static", "gender": "F", "ivs": {"at": "1", "df": "1", "hp": "1", "sa": "1", "sd": "1", "sp": "1"}, "level": 42, "moves": ["Light Screen", "Discharge", "Agility", "Feint"], "nature": "Jolly"},
         "Poké Kid Meghan (3)": {"ability": "Static", "gender": "F", "ivs": {"at": "1", "df": "1", "hp": "1", "sa": "1", "sd": "1", "sp": "1"}, "level": 42, "moves": ["Light Screen", "Discharge", "Agility", "Feint"], "nature": "Jolly"},
         "Poké Kid Meghan (4)": {"ability": "Static", "gender": "F", "ivs": {"at": "1", "df": "1", "hp": "1", "sa": "1", "sd": "1", "sp": "1"}, "level": 42, "moves": ["Light Screen", "Discharge", "Agility", "Feint"], "nature": "Jolly"},
-        "Pokéfan Leonard": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 22, "moves": ["Slam", "Double Team", "Quick Attack", "Thunder Wave"], "nature": "Serious"},
+        "Pokéfan Leonard": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "item": "Sitrus Berry", "level": 22, "moves": ["Slam", "Double Team", "Quick Attack", "Thunder Wave"], "nature": "Serious"},
         "Pokémon Breeder Albert #2": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 32, "moves": ["Feint", "Thunderbolt", "Slam", "Double Team"], "nature": "Gentle"},
         "Pokémon Breeder Albert #3": {"ability": "Static", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 42, "moves": ["Light Screen", "Discharge", "Agility", "Feint"], "nature": "Jolly"},
         "Twins Teri & Tia": {"ability": "Static", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 23, "moves": ["Slam", "Double Team", "Quick Attack", "Thunder Wave"], "nature": "Adamant"},
@@ -1885,10 +1885,10 @@ var CUSTOMSETDEX_Pl = {
     },
     "Purugly":
     {
-        "Galactic Commander Mars #1": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 17, "moves": ["Feint Attack", "Scratch", "Fake Out"], "nature": "Bashful"},
-        "Galactic Commander Mars #2": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 40, "moves": ["Slash", "Feint Attack", "Hypnosis", "Fake Out"], "nature": "Bashful"},
-        "Galactic Commander Mars #3": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 46, "moves": ["Slash", "Shadow Claw", "Aerial Ace", "Hypnosis"], "nature": "Jolly"},
-        "Galactic Commander Mars #4": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 60, "moves": ["Slash", "Shadow Claw", "Aerial Ace", "Hypnosis"], "nature": "Lax"},
+        "Galactic Commander Mars #1": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "item": "Oran Berry", "level": 17, "moves": ["Feint Attack", "Scratch", "Fake Out"], "nature": "Bashful"},
+        "Galactic Commander Mars #2": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 40, "moves": ["Slash", "Feint Attack", "Hypnosis", "Fake Out"], "nature": "Bashful"},
+        "Galactic Commander Mars #3": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 46, "moves": ["Slash", "Shadow Claw", "Aerial Ace", "Hypnosis"], "nature": "Jolly"},
+        "Galactic Commander Mars #4": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 60, "moves": ["Slash", "Shadow Claw", "Aerial Ace", "Hypnosis"], "nature": "Lax"},
         "Socialite Rebecca": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 27, "moves": ["Charm", "Fury Swipes", "Feint Attack", "Hypnosis"], "nature": "Bold"}
     },
     "Quagsire":
@@ -2018,8 +2018,8 @@ var CUSTOMSETDEX_Pl = {
     },
     "Rhyperior":
     {
-        "Elite Four Bertha": {"ability": "Lightning Rod", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 55, "moves": ["Earthquake", "Rock Wrecker", "Megahorn", "Avalanche"], "nature": "Naughty"},
-        "Elite Four Bertha #2": {"ability": "Lightning Rod", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 71, "moves": ["Earthquake", "Rock Wrecker", "Megahorn", "Avalanche"], "nature": "Lonely"}
+        "Elite Four Bertha": {"ability": "Lightning Rod", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 55, "moves": ["Earthquake", "Rock Wrecker", "Megahorn", "Avalanche"], "nature": "Naughty"},
+        "Elite Four Bertha #2": {"ability": "Lightning Rod", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 71, "moves": ["Earthquake", "Rock Wrecker", "Megahorn", "Avalanche"], "nature": "Lonely"}
     },
     "Riolu":
     {
@@ -2058,8 +2058,8 @@ var CUSTOMSETDEX_Pl = {
         "Aroma Lady Elizabeth #4": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 54, "moves": ["Poison Sting", "Mega Drain", "Sweet Scent", "Weather Ball"], "nature": "Calm"},
         "Champion Cynthia": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 58, "moves": ["Energy Ball", "Sludge Bomb", "Toxic", "Extrasensory"], "nature": "Mild"},
         "Champion Cynthia #2": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 74, "moves": ["Energy Ball", "Sludge Bomb", "Shadow Ball", "Extrasensory"], "nature": "Sassy"},
-        "Leader Gardenia": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "level": 22, "moves": ["Grass Knot", "Magical Leaf", "Poison Sting", "Stun Spore"], "nature": "Naive"},
-        "Leader Gardenia #2": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Shadow Ball", "Leaf Storm", "Sludge Bomb", "Hyper Beam"], "nature": "Adamant"},
+        "Leader Gardenia": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "6", "df": "6", "hp": "6", "sa": "6", "sd": "6", "sp": "6"}, "item": "Sitrus Berry", "level": 22, "moves": ["Grass Knot", "Magical Leaf", "Poison Sting", "Stun Spore"], "nature": "Naive"},
+        "Leader Gardenia #2": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Shadow Ball", "Leaf Storm", "Sludge Bomb", "Hyper Beam"], "nature": "Adamant"},
         "Pokémon Breeder Albert #4": {"ability": "Natural Cure", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 51, "moves": ["Poison Sting", "Mega Drain", "Sweet Scent", "Weather Ball"], "nature": "Quirky"},
         "Pokémon Breeder Jennifer #4": {"ability": "Natural Cure", "gender": "F", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 50, "moves": ["Poison Sting", "Mega Drain", "Sweet Scent", "Weather Ball"], "nature": "Lax"},
         "Pokémon Trainer Barry #5 [Empoleon]": {"ability": "Natural Cure", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 35, "moves": ["Giga Drain", "Toxic Spikes", "Leech Seed", "Grass Whistle"], "nature": "Naive"},
@@ -2213,9 +2213,9 @@ var CUSTOMSETDEX_Pl = {
     },
     "Skuntank":
     {
-        "Galactic Commander Jupiter #1": {"ability": "Stench", "gender": "F", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 23, "moves": ["Night Slash", "Poison Gas", "Screech", "Smokescreen"], "nature": "Modest"},
-        "Galactic Commander Jupiter #2": {"ability": "Stench", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 46, "moves": ["Night Slash", "Poison Jab", "Flamethrower", "Smokescreen"], "nature": "Relaxed"},
-        "Galactic Commander Jupiter #3": {"ability": "Stench", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 60, "moves": ["Night Slash", "Poison Jab", "Flamethrower", "Smokescreen"], "nature": "Mild"}
+        "Galactic Commander Jupiter #1": {"ability": "Stench", "gender": "F", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "item": "Sitrus Berry", "level": 23, "moves": ["Night Slash", "Poison Gas", "Screech", "Smokescreen"], "nature": "Modest"},
+        "Galactic Commander Jupiter #2": {"ability": "Stench", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 46, "moves": ["Night Slash", "Poison Jab", "Flamethrower", "Smokescreen"], "nature": "Relaxed"},
+        "Galactic Commander Jupiter #3": {"ability": "Stench", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 60, "moves": ["Night Slash", "Poison Jab", "Flamethrower", "Smokescreen"], "nature": "Mild"}
     },
     "Slaking":
     {
@@ -2514,18 +2514,18 @@ var CUSTOMSETDEX_Pl = {
         "Leader Gardenia #2": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 63, "moves": ["Wood Hammer", "Crunch", "Earthquake", "Stone Edge"], "nature": "Hardy"},
         "Pokémon Trainer Barry #5 [Torterra]": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "12", "df": "12", "hp": "12", "sa": "12", "sd": "12", "sp": "12"}, "level": 38, "moves": ["Razor Leaf", "Bite", "Mega Drain", "Leech Seed"], "nature": "Mild"},
         "Pokémon Trainer Barry @ Fight Area [Torterra]": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 56, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Synthesis"], "nature": "Mild"},
-        "Pokémon Trainer Barry #6 [Torterra]": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 51, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Synthesis"], "nature": "Modest"},
+        "Pokémon Trainer Barry #6 [Torterra]": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 51, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Synthesis"], "nature": "Modest"},
         "Pokémon Trainer Barry @ Spear Pillar [Torterra]": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 44, "moves": ["Giga Drain", "Bite", "Leech Seed", "Synthesis"], "nature": "Serious"},
         "Pokémon Trainer Barry @ Survival Area [Torterra]": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 65, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Leech Seed"], "nature": "Serious"},
-        "Pokémon Trainer Barry @ Survival Area [Torterra] #2": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 75, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Stone Edge"], "nature": "Sassy"},
-        "Pokémon Trainer Barry @ Survival Area [Torterra] #3": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 85, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Stone Edge"], "nature": "Lonely"}
+        "Pokémon Trainer Barry @ Survival Area [Torterra] #2": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 75, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Stone Edge"], "nature": "Sassy"},
+        "Pokémon Trainer Barry @ Survival Area [Torterra] #3": {"ability": "Overgrow", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 85, "moves": ["Leaf Storm", "Earthquake", "Crunch", "Stone Edge"], "nature": "Lonely"}
     },
     "Toxicroak":
     {
         "Black Belt Kendal": {"ability": "Anticipation", "gender": "M", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 38, "moves": ["Nasty Plot", "Sucker Punch", "Mud Bomb", "Swagger"], "nature": "Mild"},
         "Black Belt Ray": {"ability": "Anticipation", "gender": "M", "ivs": {"at": "3", "df": "3", "hp": "3", "sa": "3", "sd": "3", "sp": "3"}, "level": 58, "moves": ["Sludge Bomb", "Nasty Plot", "Focus Blast", "Dark Pulse"], "nature": "Rash"},
-        "Galactic Commander Saturn #1": {"ability": "Anticipation", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 40, "moves": ["Poison Jab", "Revenge", "Mud Bomb", "Feint Attack"], "nature": "Adamant"},
-        "Galactic Commander Saturn #2": {"ability": "Anticipation", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 44, "moves": ["Poison Jab", "Brick Break", "X-Scissor", "Feint Attack"], "nature": "Naughty"}
+        "Galactic Commander Saturn #1": {"ability": "Anticipation", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 40, "moves": ["Poison Jab", "Revenge", "Mud Bomb", "Feint Attack"], "nature": "Adamant"},
+        "Galactic Commander Saturn #2": {"ability": "Anticipation", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 44, "moves": ["Poison Jab", "Brick Break", "X-Scissor", "Feint Attack"], "nature": "Naughty"}
     },
     "Trapinch":
     {
@@ -2548,7 +2548,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Tyranitar":
     {
-        "Leader Roark #2": {"ability": "Sand Stream", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 65, "moves": ["Stone Edge", "Crunch", "Aerial Ace", "Fire Fang"], "nature": "Sassy"}
+        "Leader Roark #2": {"ability": "Sand Stream", "gender": "M", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "item": "Sitrus Berry", "level": 65, "moves": ["Stone Edge", "Crunch", "Aerial Ace", "Fire Fang"], "nature": "Sassy"}
     },
     "Tyrogue":
     {
@@ -2594,7 +2594,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Weavile":
     {
-        "Galactic Boss Cyrus #2": {"ability": "Pressure", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "level": 48, "moves": ["Night Slash", "Ice Punch", "Fake Out", "X-Scissor"], "nature": "Modest"},
+        "Galactic Boss Cyrus #2": {"ability": "Pressure", "gender": "M", "ivs": {"at": "30", "df": "30", "hp": "30", "sa": "30", "sd": "30", "sp": "30"}, "item": "Sitrus Berry", "level": 48, "moves": ["Night Slash", "Ice Punch", "Fake Out", "X-Scissor"], "nature": "Modest"},
         "Leader Candice #2": {"ability": "Pressure", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 62, "moves": ["Avalanche", "Slash", "Feint Attack", "Taunt"], "nature": "Jolly"},
         "Pokémon Trainer Marley #2": {"ability": "Pressure", "gender": "F", "ivs": {"at": "24", "df": "24", "hp": "24", "sa": "24", "sd": "24", "sp": "24"}, "level": 63, "moves": ["Ice Shard", "Night Slash", "Ice Punch", "Aerial Ace"], "nature": "Hasty"},
         "Skier Bjorn #3": {"ability": "Pressure", "gender": "M", "ivs": {"at": "0", "df": "0", "hp": "0", "sa": "0", "sd": "0", "sp": "0"}, "level": 58, "moves": ["Dark Pulse", "Metal Claw", "Fling", "Night Slash"], "nature": "Quiet"},
