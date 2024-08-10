@@ -2257,6 +2257,20 @@ $(document).ready(function () {
 		}
 	});
 
+	$('#openBetaCalc').on("click", () => {
+		var message =
+`This is a work in progress project for a more centralized resource (something similar to emi's CK+ calc).
+Completed features include:
+- Full Pokédex.
+Planned features include:
+- Calculator.
+- Encounter tracking.
+- Mobile support.
+- Any suggestions.
+Proceed with caution.`;
+		if (confirm(message)) window.open("https://ekcalc.anastarawneh.com/", '_blank').focus();
+	});
+
 	$('.last-move-used > select.move-selector').val("(No Move)");
 	$('.last-move-used > select.move-selector').change();
 	$('#advanced-bait').prop("checked", false);
