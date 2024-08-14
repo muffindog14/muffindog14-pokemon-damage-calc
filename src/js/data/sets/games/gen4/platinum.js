@@ -441,8 +441,8 @@ var CUSTOMSETDEX_Pl = {
     "Crobat":
     {
         "Ace Trainer Abel": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 60, "moves": ["Air Slash", "Poison Fang", "Confuse Ray", "Shadow Ball"], "nature": "Impish"},
-        "Galactic Boss Cyrus #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Poison Fang", "Air Cutter", "Bite", "Supersonic"], "nature": "Hasty"},
-        "Galactic Boss Cyrus #2": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 46, "moves": ["Cross Poison", "Air Slash", "Toxic", "Confuse Ray"], "nature": "Naive"},
+        "Galactic Boss Cyrus #2": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Poison Fang", "Air Cutter", "Bite", "Supersonic"], "nature": "Hasty"},
+        "Galactic Boss Cyrus #3": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 46, "moves": ["Cross Poison", "Air Slash", "Toxic", "Confuse Ray"], "nature": "Naive"},
         "Ninja Boy Zach #4 (1)": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Air Slash", "Haze", "Poison Fang", "Mean Look"], "nature": "Bold"},
         "Ninja Boy Zach #4 (2)": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Air Slash", "Haze", "Poison Fang", "Mean Look"], "nature": "Bold"},
         "Pokémon Trainer Marley #2": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 62, "moves": ["Air Slash", "Poison Fang", "Confuse Ray", "Double Team"], "nature": "Rash"}
@@ -849,7 +849,7 @@ var CUSTOMSETDEX_Pl = {
         "Galactic Commander Mars #4": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 58, "moves": ["Air Cutter", "Bite", "Poison Fang", "Confuse Ray"], "nature": "Mild"},
         "Galactic Commander Saturn #1": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 38, "moves": ["Air Cutter", "Bite", "Toxic", "Supersonic"], "nature": "Naughty"},
         "Galactic Commander Saturn #2": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 42, "moves": ["Air Cutter", "Bite", "Poison Fang", "Confuse Ray"], "nature": "Bold"},
-        "Galactic Boss Cyrus #3": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 34, "moves": ["Poison Fang", "Air Cutter", "Bite", "Supersonic"], "nature": "Quiet"},
+        "Galactic Boss Cyrus #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 34, "moves": ["Poison Fang", "Air Cutter", "Bite", "Supersonic"], "nature": "Quiet"},
         "Team Galactic Grunt @ Celestic Town": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 30, "moves": ["Air Cutter", "Confuse Ray", "Wing Attack", "Bite"], "nature": "Relaxed"},
         "Galactic Grunt @ Iron Island": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 34, "moves": ["Mean Look", "Air Cutter", "Confuse Ray", "Wing Attack"], "nature": "Careful"},
         "Team Galactic Grunt #2 @ Lake Valor": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 37, "moves": ["Mean Look", "Air Cutter", "Confuse Ray", "Wing Attack"], "nature": "Careful"},
@@ -955,7 +955,7 @@ var CUSTOMSETDEX_Pl = {
         "Fisherman Miguel #2 (1)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Hyper Beam", "Dragon Dance", "Hydro Pump", "Rain Dance"], "nature": "Modest"},
         "Fisherman Miguel #2 (2)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Hyper Beam", "Dragon Dance", "Hydro Pump", "Rain Dance"], "nature": "Modest"},
         "Fisherman Travis": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 26, "moves": ["Leer", "Dragon Rage", "Bite", "Thrash"], "nature": "Docile"},
-        "Galactic Boss Cyrus #2": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 46, "moves": ["Giga Impact", "Waterfall", "Ice Fang", "Earthquake"], "nature": "Careful"},
+        "Galactic Boss Cyrus #3": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 46, "moves": ["Giga Impact", "Waterfall", "Ice Fang", "Earthquake"], "nature": "Careful"},
         "Leader Wake": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 33, "moves": ["Waterfall", "Brine", "Bite", "Twister"], "nature": "Lax"},
         "Leader Wake #2": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 62, "moves": ["Aqua Tail", "Avalanche", "Bite", "Giga Impact"], "nature": "Impish"},
         "Swimmer♂ Sheltin (1)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
@@ -1038,8 +1038,8 @@ var CUSTOMSETDEX_Pl = {
     },
     "Honchkrow":
     {
-        "Galactic Boss Cyrus #1": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 46, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Relaxed"},
-        "Galactic Boss Cyrus #2": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 47, "moves": ["Drill Peck", "Night Slash", "Heat Wave", "Psychic"], "nature": "Adamant"}
+        "Galactic Boss Cyrus #2": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 46, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Relaxed"},
+        "Galactic Boss Cyrus #3": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 47, "moves": ["Drill Peck", "Night Slash", "Heat Wave", "Psychic"], "nature": "Adamant"}
     },
     "Hoothoot":
     {
@@ -1062,7 +1062,7 @@ var CUSTOMSETDEX_Pl = {
         "Elite Four Flint": {"ability": "Early Bird", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 52, "moves": ["Flamethrower", "Sludge Bomb", "Dark Pulse", "Sunny Day"], "nature": "Relaxed"},
         "Elite Four Flint #2": {"ability": "Early Bird", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 68, "moves": ["Flamethrower", "Sludge Bomb", "Dark Pulse", "Sunny Day"], "nature": "Bold"},
         "Elite Four Flint #3": {"ability": "Early Bird", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 56, "moves": ["Flamethrower", "Sludge Bomb", "Dark Pulse", "Sunny Day"], "nature": "Bold"},
-        "Galactic Boss Cyrus #2": {"ability": "Early Bird", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 45, "moves": ["Flamethrower", "Dark Pulse", "Will-O-Wisp", "Thunder Fang"], "nature": "Bashful"}
+        "Galactic Boss Cyrus #3": {"ability": "Early Bird", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 45, "moves": ["Flamethrower", "Dark Pulse", "Will-O-Wisp", "Thunder Fang"], "nature": "Bashful"}
     },
     "Houndour":
     {
@@ -1630,7 +1630,7 @@ var CUSTOMSETDEX_Pl = {
     "Murkrow":
     {
         "Bird Keeper Autumn": {"ability": "Insomnia", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Sucker Punch", "Mean Look", "Feint Attack", "Taunt"], "nature": "Quirky"},
-        "Galactic Boss Cyrus #3": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 36, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Impish"},
+        "Galactic Boss Cyrus #1": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 36, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Impish"},
         "Team Galactic Grunt #2 @ Lake Valor": {"ability": "Insomnia", "gender": "F", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 35, "moves": ["Feint Attack", "Taunt", "Assurance", "Night Shade"], "nature": "Jolly"},
         "Team Galactic Grunt #1 @ Lake Verity": {"ability": "Insomnia", "gender": "F", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 36, "moves": ["Feint Attack", "Night Shade", "Wing Attack"], "nature": "Rash"},
         "Team Galactic Grunt #2 @ Mt. Coronet": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 43, "moves": ["Mean Look", "Feint Attack", "Taunt", "Assurance"], "nature": "Rash"},
@@ -2244,8 +2244,8 @@ var CUSTOMSETDEX_Pl = {
         "Ace Trainer Alicia (2)": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 7, "df": 7, "hp": 7, "sa": 7, "sd": 7, "sp": 7}, "level": 43, "moves": ["Icy Wind", "Slash", "Screech", "Feint Attack"], "nature": "Lonely"},
         "Ace Trainer Brenna": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 40, "moves": ["Ice Shard", "Slash", "Feint Attack", "Quick Attack"], "nature": "Bold"},
         "Ace Trainer Sergio": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 7, "df": 7, "hp": 7, "sa": 7, "sd": 7, "sp": 7}, "level": 42, "moves": ["Icy Wind", "Slash", "Feint Attack", "Quick Attack"], "nature": "Lonely"},
-        "Galactic Boss Cyrus #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Serious"},
-        "Galactic Boss Cyrus #3": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 34, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Relaxed"},
+        "Galactic Boss Cyrus #2": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Serious"},
+        "Galactic Boss Cyrus #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 34, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Relaxed"},
         "Leader Candice": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 40, "moves": ["Slash", "Aerial Ace", "Feint Attack", "Ice Shard"], "nature": "Docile"},
         "Skier Bjorn": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 38, "moves": ["Beat Up", "Slash", "Icy Wind", "Agility"], "nature": "Gentle"},
         "Skier Bjorn #2": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Metal Claw", "Beat Up", "Slash", "Icy Wind"], "nature": "Quirky"},
@@ -2594,7 +2594,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Weavile":
     {
-        "Galactic Boss Cyrus #2": {"ability": "Pressure", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 48, "moves": ["Night Slash", "Ice Punch", "Fake Out", "X-Scissor"], "nature": "Modest"},
+        "Galactic Boss Cyrus #3": {"ability": "Pressure", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 48, "moves": ["Night Slash", "Ice Punch", "Fake Out", "X-Scissor"], "nature": "Modest"},
         "Leader Candice #2": {"ability": "Pressure", "gender": "F", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 62, "moves": ["Avalanche", "Slash", "Feint Attack", "Taunt"], "nature": "Jolly"},
         "Pokémon Trainer Marley #2": {"ability": "Pressure", "gender": "F", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 63, "moves": ["Ice Shard", "Night Slash", "Ice Punch", "Aerial Ace"], "nature": "Hasty"},
         "Skier Bjorn #3": {"ability": "Pressure", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Dark Pulse", "Metal Claw", "Fling", "Night Slash"], "nature": "Quiet"},
