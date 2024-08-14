@@ -441,7 +441,7 @@ var CUSTOMSETDEX_Pl = {
     "Crobat":
     {
         "Ace Trainer Abel": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 60, "moves": ["Air Slash", "Poison Fang", "Confuse Ray", "Shadow Ball"], "nature": "Impish"},
-        "Galactic Boss Cyrns #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Poison Fang", "Air Cutter", "Bite", "Supersonic"], "nature": "Hasty"},
+        "Galactic Boss Cyrus #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Poison Fang", "Air Cutter", "Bite", "Supersonic"], "nature": "Hasty"},
         "Galactic Boss Cyrus #2": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 46, "moves": ["Cross Poison", "Air Slash", "Toxic", "Confuse Ray"], "nature": "Naive"},
         "Ninja Boy Zach #4 (1)": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Air Slash", "Haze", "Poison Fang", "Mean Look"], "nature": "Bold"},
         "Ninja Boy Zach #4 (2)": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Air Slash", "Haze", "Poison Fang", "Mean Look"], "nature": "Bold"},
@@ -1038,7 +1038,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Honchkrow":
     {
-        "Galactic Boss Cyrns #1": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 46, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Relaxed"},
+        "Galactic Boss Cyrus #1": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "item": "Sitrus Berry", "level": 46, "moves": ["Drill Peck", "Night Shade", "Astonish", "Feint Attack"], "nature": "Relaxed"},
         "Galactic Boss Cyrus #2": {"ability": "Insomnia", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 47, "moves": ["Drill Peck", "Night Slash", "Heat Wave", "Psychic"], "nature": "Adamant"}
     },
     "Hoothoot":
@@ -2244,7 +2244,7 @@ var CUSTOMSETDEX_Pl = {
         "Ace Trainer Alicia (2)": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 7, "df": 7, "hp": 7, "sa": 7, "sd": 7, "sp": 7}, "level": 43, "moves": ["Icy Wind", "Slash", "Screech", "Feint Attack"], "nature": "Lonely"},
         "Ace Trainer Brenna": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 40, "moves": ["Ice Shard", "Slash", "Feint Attack", "Quick Attack"], "nature": "Bold"},
         "Ace Trainer Sergio": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 7, "df": 7, "hp": 7, "sa": 7, "sd": 7, "sp": 7}, "level": 42, "moves": ["Icy Wind", "Slash", "Feint Attack", "Quick Attack"], "nature": "Lonely"},
-        "Galactic Boss Cyrns #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Serious"},
+        "Galactic Boss Cyrus #1": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 44, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Serious"},
         "Galactic Boss Cyrus #3": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 34, "moves": ["Slash", "Ice Punch", "Quick Attack", "Screech"], "nature": "Relaxed"},
         "Leader Candice": {"ability": "Inner Focus", "gender": "F", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 40, "moves": ["Slash", "Aerial Ace", "Feint Attack", "Ice Shard"], "nature": "Docile"},
         "Skier Bjorn": {"ability": "Inner Focus", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 38, "moves": ["Beat Up", "Slash", "Icy Wind", "Agility"], "nature": "Gentle"},
