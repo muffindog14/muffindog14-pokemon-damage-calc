@@ -564,7 +564,7 @@ var CUSTOMSETDEX_Pl = {
     "Electivire":
     {
         "Ace Trainer Dalton #2": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 54, "moves": ["Thunderbolt", "Swift", "Quick Attack", "Thunder Wave"], "nature": "Jolly"},
-        "Leader Volkner": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": 300, "df": 300, "hp": 300, "sa": 300, "sd": 300, "sp": 300}, "item": "Sitrus Berry", "level": 50, "moves": ["Thunder Punch", "Fire Punch", "Quick Attack", "Giga Impact"], "nature": "Impish"},
+        "Leader Volkner": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": 3, "df": 29, "hp": 4, "sa": 18, "sd": 15, "sp": 19}, "item": "Sitrus Berry", "level": 50, "moves": ["Thunder Punch", "Fire Punch", "Quick Attack", "Giga Impact"], "nature": "Impish"},
         "Leader Volkner #2": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "item": "Sitrus Berry", "level": 65, "moves": ["Thunder Punch", "Fire Punch", "Brick Break", "Giga Impact"], "nature": "Naive"},
         "Leader Volkner #3": {"ability": "Motor Drive", "gender": "M", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "item": "Sitrus Berry", "level": 58, "moves": ["Thunder Punch", "Fire Punch", "Brick Break", "Giga Impact"], "nature": "Naughty"}
     },
