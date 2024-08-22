@@ -92,8 +92,8 @@ var CUSTOMSETDEX_Pl = {
         "Pokémon Ranger Allison #2": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 35, "moves": ["Double-Edge", "Aqua Ring", "Bubble Beam", "Rollout"], "nature": "Modest"},
         "Pokémon Ranger Allison #3": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 45, "moves": ["Rain Dance", "Double-Edge", "Aqua Ring", "Bubble Beam"], "nature": "Naughty"},
         "Pokémon Ranger Allison #4": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 61, "moves": ["Hydro Pump", "Aqua Tail", "Rain Dance", "Double-Edge"], "nature": "Relaxed"},
-        "Swimmer♀ Aubree": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Rain Dance", "Double-Edge", "Aqua Ring", "Bubble Beam"], "nature": "Lax"},
-        "Swimmer♀ Haley": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Double-Edge", "Aqua Ring", "Bubble Beam", "Rollout"], "nature": "Lax"},
+        "Swimmer Aubree": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Rain Dance", "Double-Edge", "Aqua Ring", "Bubble Beam"], "nature": "Lax"},
+        "Swimmer Haley": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Double-Edge", "Aqua Ring", "Bubble Beam", "Rollout"], "nature": "Lax"},
         "Tuber Caitlyn": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 1, "df": 1, "hp": 1, "sa": 1, "sd": 1, "sp": 1}, "level": 31, "moves": ["Bubble Beam", "Double-Edge", "Rollout", "Aqua Ring"], "nature": "Careful"},
         "Tuber Chelsea #2": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Rain Dance", "Double-Edge", "Aqua Ring", "Bubble Beam"], "nature": "Brave"},
         "Tuber Chelsea #3": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Aqua Tail", "Rain Dance", "Double-Edge", "Aqua Ring"], "nature": "Careful"}
@@ -147,7 +147,7 @@ var CUSTOMSETDEX_Pl = {
         "Parasol Lady Alexa #2": {"ability": "Simple", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Amnesia", "Yawn", "Hyper Fang", "Headbutt"], "nature": "Serious"},
         "Parasol Lady Alexa #3": {"ability": "Simple", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Take Down", "Amnesia", "Yawn", "Hyper Fang"], "nature": "Quiet"},
         "Parasol Lady Alexa #4": {"ability": "Simple", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 50, "moves": ["Superpower", "Super Fang", "Take Down", "Amnesia"], "nature": "Brave"},
-        "Swimmer♀ Aubree": {"ability": "Simple", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Super Fang", "Take Down", "Amnesia", "Yawn"], "nature": "Gentle"},
+        "Swimmer Aubree": {"ability": "Simple", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Super Fang", "Take Down", "Amnesia", "Yawn"], "nature": "Gentle"},
         "Tuber Jacky": {"ability": "Simple", "gender": "M", "ivs": {"at": 1, "df": 1, "hp": 1, "sa": 1, "sd": 1, "sp": 1}, "level": 32, "moves": ["Water Gun", "Rollout", "Hyper Fang", "Yawn"], "nature": "Hasty"},
         "Youngster Dallas #2": {"ability": "Simple", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 22, "moves": ["Headbutt", "Water Gun", "Rollout", "Defense Curl"], "nature": "Calm"},
         "Youngster Dallas #3": {"ability": "Simple", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 32, "moves": ["Yawn", "Hyper Fang", "Headbutt", "Water Gun"], "nature": "Lax"},
@@ -232,7 +232,7 @@ var CUSTOMSETDEX_Pl = {
         "Pokémon Trainer Barry #4 [Monferno]": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 9, "df": 9, "hp": 9, "sa": 9, "sd": 9, "sp": 9}, "level": 32, "moves": ["Aqua Jet", "Quick Attack", "Pursuit", "Growl"], "nature": "Mild"},
         "Pokémon Trainer Barry #3 [Grotle]": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 23, "moves": ["Water Gun", "Quick Attack", "Pursuit", "Growl"], "nature": "Impish"},
         "Pokémon Trainer Barry #3 [Monferno]": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 23, "moves": ["Water Gun", "Quick Attack", "Pursuit", "Growl"], "nature": "Bashful"},
-        "Swimmer♀ Katelyn": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Aqua Jet", "Sonic Boom", "Quick Attack", "Attract"], "nature": "Hardy"},
+        "Swimmer Katelyn": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Aqua Jet", "Sonic Boom", "Quick Attack", "Attract"], "nature": "Hardy"},
         "Veteran Brian": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 32, "moves": ["Aqua Jet", "Whirlpool", "Pursuit", "Quick Attack"], "nature": "Brave"},
         "Young Couple Ty & Sue": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 23, "moves": ["Aqua Jet", "Swift", "Pursuit", "Sonic Boom"], "nature": "Mild"},
         "Youngster Austin": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 18, "moves": ["Swift", "Pursuit", "Water Gun", "Quick Attack"], "nature": "Bold"},
@@ -272,8 +272,8 @@ var CUSTOMSETDEX_Pl = {
     },
     "Carvanha":
     {
-        "Swimmer♂ Wade (1)": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Take Down", "Agility", "Aqua Jet", "Crunch"], "nature": "Timid"},
-        "Swimmer♂ Wade (2)": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Take Down", "Agility", "Aqua Jet", "Crunch"], "nature": "Timid"}
+        "Swimmer Wade (1)": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Take Down", "Agility", "Aqua Jet", "Crunch"], "nature": "Timid"},
+        "Swimmer Wade (2)": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Take Down", "Agility", "Aqua Jet", "Crunch"], "nature": "Timid"}
     },
     "Cascoon":
     {
@@ -399,11 +399,11 @@ var CUSTOMSETDEX_Pl = {
     },
     "Corphish":
     {
-        "Swimmer♂ Kurt": {"ability": "Hyper Cutter", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Crunch", "Swords Dance", "Crabhammer", "Night Slash"], "nature": "Impish"}
+        "Swimmer Kurt": {"ability": "Hyper Cutter", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Crunch", "Swords Dance", "Crabhammer", "Night Slash"], "nature": "Impish"}
     },
     "Corsola":
     {
-        "Swimmer♀ Joanna #2": {"ability": "Hustle", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Earth Power", "Mirror Coat", "Power Gem", "Spike Cannon"], "nature": "Serious"}
+        "Swimmer Joanna #2": {"ability": "Hustle", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Earth Power", "Mirror Coat", "Power Gem", "Spike Cannon"], "nature": "Serious"}
     },
     "Cranidos":
     {
@@ -454,7 +454,7 @@ var CUSTOMSETDEX_Pl = {
     "Delibird":
     {
         "Skier Bjorn #3": {"ability": "Vital Spirit", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 56, "moves": ["Present"], "nature": "Gentle"},
-        "Swimmer♀ Sophia": {"ability": "Vital Spirit", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Present"], "nature": "Impish"}
+        "Swimmer Sophia": {"ability": "Vital Spirit", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Present"], "nature": "Impish"}
     },
     "Dewgong":
     {
@@ -630,8 +630,8 @@ var CUSTOMSETDEX_Pl = {
         "Fisherman Cory (2)": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Safeguard", "Captivate", "Water Pulse", "Gust"], "nature": "Hasty"},
         "Fisherman Cory (3)": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 34, "moves": ["Aqua Ring", "Safeguard", "Captivate", "Water Pulse"], "nature": "Quiet"},
         "Fisherman George": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Whirlpool", "Aqua Ring", "Safeguard", "Captivate"], "nature": "Bold"},
-        "Swimmer♀ Erica": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Aqua Ring", "Safeguard", "Captivate", "Water Pulse"], "nature": "Mild"},
-        "Swimmer♀ Mary": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Aqua Ring", "Safeguard", "Captivate", "Water Pulse"], "nature": "Jolly"}
+        "Swimmer Erica": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Aqua Ring", "Safeguard", "Captivate", "Water Pulse"], "nature": "Mild"},
+        "Swimmer Mary": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Aqua Ring", "Safeguard", "Captivate", "Water Pulse"], "nature": "Jolly"}
     },
     "Flaaffy":
     {
@@ -665,10 +665,10 @@ var CUSTOMSETDEX_Pl = {
         "Pokémon Trainer Barry @ Survival Area [Torterra]": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 59, "moves": ["Aqua Jet", "Crunch", "Ice Fang", "Brick Break"], "nature": "Serious"},
         "Pokémon Trainer Barry @ Survival Area [Torterra] #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 69, "moves": ["Aqua Jet", "Crunch", "Ice Fang", "Brick Break"], "nature": "Adamant"},
         "Pokémon Trainer Barry @ Survival Area [Torterra] #3": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 79, "moves": ["Aqua Jet", "Crunch", "Ice Fang", "Brick Break"], "nature": "Lonely"},
-        "Swimmer♀ Claire": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Agility", "Crunch", "Aqua Jet", "Swift"], "nature": "Quirky"},
-        "Swimmer♂ Dillon": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Agility", "Crunch", "Aqua Jet", "Swift"], "nature": "Naughty"},
-        "Swimmer♂ Wesley": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Whirlpool", "Agility", "Crunch", "Aqua Jet"], "nature": "Lax"},
-        "Swimmer♂ Wesley #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Razor Wind", "Whirlpool", "Agility", "Crunch"], "nature": "Sassy"},
+        "Swimmer Claire": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Agility", "Crunch", "Aqua Jet", "Swift"], "nature": "Quirky"},
+        "Swimmer Dillon": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Agility", "Crunch", "Aqua Jet", "Swift"], "nature": "Naughty"},
+        "Swimmer Wesley": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Whirlpool", "Agility", "Crunch", "Aqua Jet"], "nature": "Lax"},
+        "Swimmer Wesley #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Razor Wind", "Whirlpool", "Agility", "Crunch"], "nature": "Sassy"},
         "Veteran Brian #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 44, "moves": ["Aqua Jet", "Whirlpool", "Pursuit", "Quick Attack"], "nature": "Brave"},
         "Veteran Brian #3": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 60, "moves": ["Waterfall", "Ice Fang", "Quick Attack", "Crunch"], "nature": "Hasty"}
     },
@@ -741,8 +741,8 @@ var CUSTOMSETDEX_Pl = {
         "Sailor Luther": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Bashful"},
         "Sailor Zachariah": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Impish"},
         "Sailor Zachariah #2": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Recover", "Muddy Water", "Body Slam", "Rain Dance"], "nature": "Serious"},
-        "Swimmer♂ Sam": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Bold"},
-        "Swimmer♂ Vincent": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Body Slam", "Rain Dance", "Hidden Power", "Mud Bomb"], "nature": "Adamant"},
+        "Swimmer Sam": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Bold"},
+        "Swimmer Vincent": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Body Slam", "Rain Dance", "Hidden Power", "Mud Bomb"], "nature": "Adamant"},
         "Tuber Jared #3 (1)": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Hardy"},
         "Tuber Jared #3 (2)": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Hardy"},
         "Tuber Jared #3 (3)": {"ability": "Sticky Hold", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Muddy Water", "Body Slam", "Rain Dance", "Hidden Power"], "nature": "Hardy"}
@@ -884,9 +884,9 @@ var CUSTOMSETDEX_Pl = {
         "PI Carlos": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 30, "moves": ["Horn Drill", "Flail"], "nature": "Lax"},
         "Parasol Lady Alexa": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 27, "moves": ["Aqua Ring", "Flail", "Water Pulse", "Horn Attack"], "nature": "Rash"},
         "Parasol Lady Alexa #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Fury Attack", "Aqua Ring", "Flail", "Water Pulse"], "nature": "Impish"},
-        "Swimmer♀ Jessica (1)": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Aqua Ring", "Flail", "Water Pulse", "Horn Attack"], "nature": "Lax"},
-        "Swimmer♀ Jessica (2)": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Aqua Ring", "Flail", "Water Pulse", "Horn Attack"], "nature": "Lax"},
-        "Swimmer♀ Jessica (3)": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Fury Attack", "Aqua Ring", "Flail", "Water Pulse"], "nature": "Jolly"}
+        "Swimmer Jessica (1)": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Aqua Ring", "Flail", "Water Pulse", "Horn Attack"], "nature": "Lax"},
+        "Swimmer Jessica (2)": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Aqua Ring", "Flail", "Water Pulse", "Horn Attack"], "nature": "Lax"},
+        "Swimmer Jessica (3)": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Fury Attack", "Aqua Ring", "Flail", "Water Pulse"], "nature": "Jolly"}
     },
     "Golduck":
     {
@@ -896,13 +896,13 @@ var CUSTOMSETDEX_Pl = {
         "Lass Madeline #4": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Psych Up", "Screech", "Fury Swipes", "Water Pulse"], "nature": "Careful"},
         "Pokémon Ranger Dwayne": {"ability": "Damp", "gender": "M", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 54, "moves": ["Amnesia", "Zen Headbutt", "Psych Up", "Screech"], "nature": "Serious"},
         "Sailor Samson": {"ability": "Damp", "gender": "M", "ivs": {"at": 1, "df": 1, "hp": 1, "sa": 1, "sd": 1, "sp": 1}, "level": 31, "moves": ["Fury Swipes", "Confusion", "Water Pulse"], "nature": "Lax"},
-        "Swimmer♀ Gabrielle": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Zen Headbutt", "Psych Up", "Screech", "Fury Swipes"], "nature": "Timid"},
-        "Swimmer♀ Paige": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Psych Up", "Screech", "Fury Swipes", "Water Pulse"], "nature": "Careful"},
-        "Swimmer♀ Vanessa": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Mild"},
-        "Swimmer♂ Evan (1)": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Lonely"},
-        "Swimmer♂ Evan (2)": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 34, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Bashful"},
-        "Swimmer♂ Francisco": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Zen Headbutt", "Psych Up", "Screech", "Fury Swipes"], "nature": "Lax"},
-        "Swimmer♂ Francisco #2": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Amnesia", "Zen Headbutt", "Psych Up", "Screech"], "nature": "Bashful"}
+        "Swimmer Gabrielle": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Zen Headbutt", "Psych Up", "Screech", "Fury Swipes"], "nature": "Timid"},
+        "Swimmer Paige": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Psych Up", "Screech", "Fury Swipes", "Water Pulse"], "nature": "Careful"},
+        "Swimmer Vanessa": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Mild"},
+        "Swimmer Evan (1)": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Lonely"},
+        "Swimmer Evan (2)": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 34, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Bashful"},
+        "Swimmer Francisco": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Zen Headbutt", "Psych Up", "Screech", "Fury Swipes"], "nature": "Lax"},
+        "Swimmer Francisco #2": {"ability": "Damp", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Amnesia", "Zen Headbutt", "Psych Up", "Screech"], "nature": "Bashful"}
     },
     "Golem":
     {
@@ -958,10 +958,10 @@ var CUSTOMSETDEX_Pl = {
         "Galactic Boss Cyrus #3": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 46, "moves": ["Giga Impact", "Waterfall", "Ice Fang", "Earthquake"], "nature": "Careful"},
         "Leader Wake": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 33, "moves": ["Waterfall", "Brine", "Bite", "Twister"], "nature": "Lax"},
         "Leader Wake #2": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 62, "moves": ["Aqua Tail", "Avalanche", "Bite", "Giga Impact"], "nature": "Impish"},
-        "Swimmer♂ Sheltin (1)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
-        "Swimmer♂ Sheltin (2)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
-        "Swimmer♂ Sheltin (3)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
-        "Swimmer♂ Troy": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Dragon Dance", "Hydro Pump", "Rain Dance", "Aqua Tail"], "nature": "Gentle"},
+        "Swimmer Sheltin (1)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
+        "Swimmer Sheltin (2)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
+        "Swimmer Sheltin (3)": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Ice Fang", "Twister", "Leer", "Dragon Rage"], "nature": "Naughty"},
+        "Swimmer Troy": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Dragon Dance", "Hydro Pump", "Rain Dance", "Aqua Tail"], "nature": "Gentle"},
         "Veteran Brenden": {"ability": "Intimidate", "gender": "M", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 54, "moves": ["Earthquake", "Aqua Tail", "Ice Fang", "Dragon Pulse"], "nature": "Impish"}
     },
     "Happiny":
@@ -1141,7 +1141,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Kingler":
     {
-        "Swimmer♂ Kurt": {"ability": "Hyper Cutter", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Brine", "Slam", "Guillotine", "Protect"], "nature": "Serious"}
+        "Swimmer Kurt": {"ability": "Hyper Cutter", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Brine", "Slam", "Guillotine", "Protect"], "nature": "Serious"}
     },
     "Kirlia":
     {
@@ -1156,7 +1156,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Krabby":
     {
-        "Swimmer♂ Kurt": {"ability": "Hyper Cutter", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Flail", "Crabhammer", "Brine", "Slam"], "nature": "Serious"}
+        "Swimmer Kurt": {"ability": "Hyper Cutter", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Flail", "Crabhammer", "Brine", "Slam"], "nature": "Serious"}
     },
     "Kricketot":
     {
@@ -1192,8 +1192,8 @@ var CUSTOMSETDEX_Pl = {
     },
     "Lapras":
     {
-        "Swimmer♀ Joanna": {"ability": "Water Absorb", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Safeguard", "Brine", "Ice Beam"], "nature": "Rash"},
-        "Swimmer♀ Joanna #2": {"ability": "Water Absorb", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Sheer Cold", "Hydro Pump", "Safeguard", "Brine"], "nature": "Modest"}
+        "Swimmer Joanna": {"ability": "Water Absorb", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Safeguard", "Brine", "Ice Beam"], "nature": "Rash"},
+        "Swimmer Joanna #2": {"ability": "Water Absorb", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Sheer Cold", "Hydro Pump", "Safeguard", "Brine"], "nature": "Modest"}
     },
     "Leafeon":
     {
@@ -1221,7 +1221,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Lombre":
     {
-        "Swimmer♀ Mallory": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Uproar", "Zen Headbutt", "Bubble Beam"], "nature": "Impish"}
+        "Swimmer Mallory": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Uproar", "Zen Headbutt", "Bubble Beam"], "nature": "Impish"}
     },
     "Lopunny":
     {
@@ -1254,9 +1254,9 @@ var CUSTOMSETDEX_Pl = {
     "Lumineon":
     {
         "Double Team Jo & Pat": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 50, "moves": ["Water Pulse", "Aqua Ring", "Captivate", "Silver Wind"], "nature": "Lax"},
-        "Swimmer♀ Cassandra": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Whirlpool", "Aqua Ring", "Safeguard", "Captivate"], "nature": "Careful"},
-        "Swimmer♀ Miranda": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Whirlpool", "Aqua Ring", "Safeguard", "Captivate"], "nature": "Lonely"},
-        "Swimmer♀ Miranda #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Silver Wind", "Bounce", "U-turn", "Whirlpool"], "nature": "Sassy"}
+        "Swimmer Cassandra": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Whirlpool", "Aqua Ring", "Safeguard", "Captivate"], "nature": "Careful"},
+        "Swimmer Miranda": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Whirlpool", "Aqua Ring", "Safeguard", "Captivate"], "nature": "Lonely"},
+        "Swimmer Miranda #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Silver Wind", "Bounce", "U-turn", "Whirlpool"], "nature": "Sassy"}
     },
     "Lunatone":
     {
@@ -1264,8 +1264,8 @@ var CUSTOMSETDEX_Pl = {
     },
     "Luvdisc":
     {
-        "Swimmer♀ Joanna": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Safeguard", "Flail", "Captivate", "Aqua Ring"], "nature": "Quiet"},
-        "Swimmer♀ Joanna #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Safeguard", "Flail", "Captivate", "Aqua Ring"], "nature": "Rash"}
+        "Swimmer Joanna": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Safeguard", "Flail", "Captivate", "Aqua Ring"], "nature": "Quiet"},
+        "Swimmer Joanna #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Safeguard", "Flail", "Captivate", "Aqua Ring"], "nature": "Rash"}
     },
     "Luxio":
     {
@@ -1475,22 +1475,22 @@ var CUSTOMSETDEX_Pl = {
         "Parasol Lady Alexa #4": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 50, "moves": ["Hydro Pump", "Aqua Ring", "Bounce", "Confuse Ray"], "nature": "Rash"},
         "Sailor Marc #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Hydro Pump", "Aqua Ring", "Bounce", "Confuse Ray"], "nature": "Hardy"},
         "Sailor Marc #3": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Hydro Pump", "Aqua Ring", "Bounce", "Confuse Ray"], "nature": "Lonely"},
-        "Swimmer♀ Sophia": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Hydro Pump", "Aqua Ring", "Bounce", "Confuse Ray"], "nature": "Serious"},
-        "Swimmer♂ Oscar": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Bounce", "Confuse Ray", "Take Down", "Water Pulse"], "nature": "Hasty"}
+        "Swimmer Sophia": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Hydro Pump", "Aqua Ring", "Bounce", "Confuse Ray"], "nature": "Serious"},
+        "Swimmer Oscar": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Bounce", "Confuse Ray", "Take Down", "Water Pulse"], "nature": "Hasty"}
     },
     "Mantyke":
     {
         "Sailor Marc": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Bounce", "Confuse Ray", "Take Down", "Water Pulse"], "nature": "Quiet"},
         "Sailor Skyler": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Take Down", "Water Pulse", "Wing Attack", "Agility"], "nature": "Quiet"},
-        "Swimmer♂ Oscar": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Bounce", "Confuse Ray", "Take Down", "Water Pulse"], "nature": "Gentle"},
+        "Swimmer Oscar": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Bounce", "Confuse Ray", "Take Down", "Water Pulse"], "nature": "Gentle"},
         "Youngster Roland #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 23, "moves": ["Wing Attack", "Agility", "Headbutt", "Bubble Beam"], "nature": "Docile"}
     },
     "Marill":
     {
         "Pokémon Breeder Kaylee": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 26, "moves": ["Aqua Ring", "Bubble Beam", "Rollout", "Water Gun"], "nature": "Impish"},
         "Pokémon Ranger Allison": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 6, "df": 6, "hp": 6, "sa": 6, "sd": 6, "sp": 6}, "level": 29, "moves": ["Double-Edge", "Aqua Ring", "Bubble Beam", "Rollout"], "nature": "Naughty"},
-        "Swimmer♀ Lydia": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Aqua Tail", "Rain Dance", "Double-Edge"], "nature": "Bold"},
-        "Swimmer♀ Paige": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Aqua Tail", "Rain Dance", "Double-Edge", "Aqua Ring"], "nature": "Timid"},
+        "Swimmer Lydia": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Aqua Tail", "Rain Dance", "Double-Edge"], "nature": "Bold"},
+        "Swimmer Paige": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Aqua Tail", "Rain Dance", "Double-Edge", "Aqua Ring"], "nature": "Timid"},
         "Tuber Caitlyn": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 1, "df": 1, "hp": 1, "sa": 1, "sd": 1, "sp": 1}, "level": 29, "moves": ["Bubble Beam", "Rollout", "Defense Curl", "Aqua Ring"], "nature": "Naughty"},
         "Tuber Chelsea": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 28, "moves": ["Double-Edge", "Aqua Ring", "Bubble Beam", "Rollout"], "nature": "Adamant"},
         "Tuber Mariel (1)": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Double-Edge", "Aqua Ring", "Bubble Beam", "Rollout"], "nature": "Timid"},
@@ -1510,7 +1510,7 @@ var CUSTOMSETDEX_Pl = {
         "Battle Girl Tyler": {"ability": "Pure Power", "gender": "F", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 38, "moves": ["Psych Up", "High Jump Kick", "Force Palm", "Calm Mind"], "nature": "Sassy"},
         "Black Belt Griffin": {"ability": "Pure Power", "gender": "M", "ivs": {"at": 3, "df": 3, "hp": 3, "sa": 3, "sd": 3, "sp": 3}, "level": 58, "moves": ["Detect", "Psychic", "High Jump Kick", "Ice Punch"], "nature": "Quiet"},
         "Leader Maylene #2": {"ability": "Pure Power", "gender": "F", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 63, "moves": ["Fire Punch", "Ice Punch", "Thunder Punch", "High Jump Kick"], "nature": "Hardy"},
-        "Swimmer♀ Katelyn": {"ability": "Pure Power", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Confusion", "Brick Break", "Meditate", "Light Screen"], "nature": "Serious"}
+        "Swimmer Katelyn": {"ability": "Pure Power", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Confusion", "Brick Break", "Meditate", "Light Screen"], "nature": "Serious"}
     },
     "Meditite":
     {
@@ -1679,10 +1679,10 @@ var CUSTOMSETDEX_Pl = {
     "Octillery":
     {
         "Fisherman Miguel #2": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 51, "moves": ["Ice Beam", "Signal Beam", "Wring Out", "Bullet Seed"], "nature": "Modest"},
-        "Swimmer♂ Adrian": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 34, "moves": ["Bullet Seed", "Octazooka", "Focus Energy", "Bubble Beam"], "nature": "Lonely"},
-        "Swimmer♂ Colton": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Signal Beam", "Wring Out", "Bullet Seed", "Octazooka"], "nature": "Bashful"},
-        "Swimmer♂ Glenn": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Ice Beam", "Signal Beam", "Wring Out", "Bullet Seed"], "nature": "Brave"},
-        "Swimmer♂ Glenn #2": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Hyper Beam", "Ice Beam", "Signal Beam", "Wring Out"], "nature": "Bold"}
+        "Swimmer Adrian": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 34, "moves": ["Bullet Seed", "Octazooka", "Focus Energy", "Bubble Beam"], "nature": "Lonely"},
+        "Swimmer Colton": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Signal Beam", "Wring Out", "Bullet Seed", "Octazooka"], "nature": "Bashful"},
+        "Swimmer Glenn": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Ice Beam", "Signal Beam", "Wring Out", "Bullet Seed"], "nature": "Brave"},
+        "Swimmer Glenn #2": {"ability": "Suction Cups", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Hyper Beam", "Ice Beam", "Signal Beam", "Wring Out"], "nature": "Bold"}
     },
     "Onix":
     {
@@ -1723,11 +1723,11 @@ var CUSTOMSETDEX_Pl = {
         "Sailor Paul": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Roost", "Protect", "Payback", "Water Pulse"], "nature": "Quiet"},
         "Sailor Zachariah": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 40, "moves": ["Stockpile", "Spit Up", "Swallow", "Roost"], "nature": "Naughty"},
         "Sailor Zachariah #2": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 56, "moves": ["Tailwind", "Fling", "Stockpile", "Spit Up"], "nature": "Hardy"},
-        "Swimmer♀ Cassandra": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Stockpile", "Spit Up", "Swallow", "Roost"], "nature": "Calm"},
-        "Swimmer♀ Crystal #2": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Hydro Pump", "Tailwind", "Fling", "Stockpile"], "nature": "Sassy"},
-        "Swimmer♀ Mary": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Roost", "Protect", "Payback", "Water Pulse"], "nature": "Relaxed"},
-        "Swimmer♂ Colton": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Fling", "Stockpile", "Spit Up", "Swallow"], "nature": "Lonely"},
-        "Swimmer♂ Vincent": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Roost", "Protect", "Payback", "Water Pulse"], "nature": "Mild"}
+        "Swimmer Cassandra": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Stockpile", "Spit Up", "Swallow", "Roost"], "nature": "Calm"},
+        "Swimmer Crystal #2": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Hydro Pump", "Tailwind", "Fling", "Stockpile"], "nature": "Sassy"},
+        "Swimmer Mary": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Roost", "Protect", "Payback", "Water Pulse"], "nature": "Relaxed"},
+        "Swimmer Colton": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Fling", "Stockpile", "Spit Up", "Swallow"], "nature": "Lonely"},
+        "Swimmer Vincent": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Roost", "Protect", "Payback", "Water Pulse"], "nature": "Mild"}
     },
     "Persian":
     {
@@ -1808,11 +1808,11 @@ var CUSTOMSETDEX_Pl = {
     },
     "Politoed":
     {
-        "Swimmer♂ Glenn #2": {"ability": "Water Absorb", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 60, "moves": ["Hyper Voice", "Bounce", "Swagger", "Double Slap"], "nature": "Calm"}
+        "Swimmer Glenn #2": {"ability": "Water Absorb", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 60, "moves": ["Hyper Voice", "Bounce", "Swagger", "Double Slap"], "nature": "Calm"}
     },
     "Poliwhirl":
     {
-        "Swimmer♂ Glenn": {"ability": "Water Absorb", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Mud Bomb", "Hydro Pump", "Wake-Up Slap", "Belly Drum"], "nature": "Hasty"}
+        "Swimmer Glenn": {"ability": "Water Absorb", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Mud Bomb", "Hydro Pump", "Wake-Up Slap", "Belly Drum"], "nature": "Hasty"}
     },
     "Poliwrath":
     {
@@ -1877,7 +1877,7 @@ var CUSTOMSETDEX_Pl = {
         "Lass Madeline #2": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 22, "moves": ["Water Pulse", "Confusion", "Disable", "Water Gun"], "nature": "Modest"},
         "Picnicker Tori": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 22, "moves": ["Water Pulse", "Confusion", "Disable", "Water Gun"], "nature": "Gentle"},
         "Psychic Rachael": {"ability": "Damp", "gender": "F", "ivs": {"at": 2, "df": 2, "hp": 2, "sa": 2, "sd": 2, "sp": 2}, "level": 17, "moves": ["Confusion", "Water Gun", "Scratch"], "nature": "Mild"},
-        "Swimmer♀ Haley": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Jolly"}
+        "Swimmer Haley": {"ability": "Damp", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Screech", "Fury Swipes", "Water Pulse", "Confusion"], "nature": "Jolly"}
     },
     "Pupitar":
     {
@@ -1901,7 +1901,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Qwilfish":
     {
-        "Swimmer♂ Wesley #2": {"ability": "Poison Point", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Hydro Pump", "Destiny Bond", "Poison Jab", "Aqua Tail"], "nature": "Hardy"}
+        "Swimmer Wesley #2": {"ability": "Poison Point", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Hydro Pump", "Destiny Bond", "Poison Jab", "Aqua Tail"], "nature": "Hardy"}
     },
     "Raichu":
     {
@@ -1988,7 +1988,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Relicanth":
     {
-        "Swimmer♂ Francisco #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Dive", "Double-Edge", "Ancient Power", "Mud Sport"], "nature": "Quiet"}
+        "Swimmer Francisco #2": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 58, "moves": ["Dive", "Double-Edge", "Ancient Power", "Mud Sport"], "nature": "Quiet"}
     },
     "Remoraid":
     {
@@ -2000,9 +2000,9 @@ var CUSTOMSETDEX_Pl = {
         "Fisherman Luc (2)": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 29, "moves": ["Bullet Seed", "Focus Energy", "Bubble Beam", "Aurora Beam"], "nature": "Docile"},
         "Fisherman Luc (3)": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Bullet Seed", "Focus Energy", "Bubble Beam", "Aurora Beam"], "nature": "Quiet"},
         "Fisherman Luc (4)": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Bullet Seed", "Focus Energy", "Bubble Beam", "Aurora Beam"], "nature": "Adamant"},
-        "Swimmer♂ Adrian": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Water Pulse", "Bullet Seed", "Focus Energy", "Bubble Beam"], "nature": "Quiet"},
-        "Swimmer♂ Dillon": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Water Pulse", "Bullet Seed", "Focus Energy", "Bubble Beam"], "nature": "Brave"},
-        "Swimmer♂ Oscar": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Ice Beam", "Signal Beam", "Water Pulse", "Bullet Seed"], "nature": "Hasty"},
+        "Swimmer Adrian": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Water Pulse", "Bullet Seed", "Focus Energy", "Bubble Beam"], "nature": "Quiet"},
+        "Swimmer Dillon": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Water Pulse", "Bullet Seed", "Focus Energy", "Bubble Beam"], "nature": "Brave"},
+        "Swimmer Oscar": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Ice Beam", "Signal Beam", "Water Pulse", "Bullet Seed"], "nature": "Hasty"},
         "Tuber Conner": {"ability": "Hustle", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Ice Beam", "Signal Beam", "Water Pulse", "Bullet Seed"], "nature": "Lonely"},
         "Tuber Holly": {"ability": "Hustle", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Ice Beam", "Signal Beam", "Water Pulse", "Bullet Seed"], "nature": "Adamant"}
     },
@@ -2116,14 +2116,14 @@ var CUSTOMSETDEX_Pl = {
         "PI Carlos #3": {"ability": "Swift Swim", "gender": "M", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 64, "moves": ["Horn Drill", "Flail"], "nature": "Quiet"},
         "Parasol Lady Alexa #3": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Waterfall", "Fury Attack", "Aqua Ring", "Flail"], "nature": "Bashful"},
         "Parasol Lady Alexa #4": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 50, "moves": ["Horn Drill", "Waterfall", "Fury Attack", "Aqua Ring"], "nature": "Lax"},
-        "Swimmer♀ Crystal": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Waterfall", "Fury Attack", "Aqua Ring", "Flail"], "nature": "Serious"},
-        "Swimmer♀ Crystal #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Agility", "Horn Drill", "Waterfall", "Fury Attack"], "nature": "Timid"},
-        "Swimmer♀ Jessica": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Fury Attack", "Aqua Ring", "Flail", "Water Pulse"], "nature": "Lonely"},
-        "Swimmer♀ Katelyn": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Water Pulse", "Horn Attack", "Aqua Ring", "Captivate"], "nature": "Bold"}
+        "Swimmer Crystal": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 44, "moves": ["Waterfall", "Fury Attack", "Aqua Ring", "Flail"], "nature": "Serious"},
+        "Swimmer Crystal #2": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Agility", "Horn Drill", "Waterfall", "Fury Attack"], "nature": "Timid"},
+        "Swimmer Jessica": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 33, "moves": ["Fury Attack", "Aqua Ring", "Flail", "Water Pulse"], "nature": "Lonely"},
+        "Swimmer Katelyn": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 32, "moves": ["Water Pulse", "Horn Attack", "Aqua Ring", "Captivate"], "nature": "Bold"}
     },
     "Sealeo":
     {
-        "Swimmer♂ Sam": {"ability": "Thick Fat", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Blizzard", "Rest", "Snore", "Swagger"], "nature": "Docile"}
+        "Swimmer Sam": {"ability": "Thick Fat", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 53, "moves": ["Blizzard", "Rest", "Snore", "Swagger"], "nature": "Docile"}
     },
     "Seviper":
     {
@@ -2132,7 +2132,7 @@ var CUSTOMSETDEX_Pl = {
     "Sharpedo":
     {
         "Leader Wake #2": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 61, "moves": ["Aqua Jet", "Night Slash", "Slash", "Endure"], "nature": "Hasty"},
-        "Swimmer♂ Wade": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 56, "moves": ["Night Slash", "Skull Bash", "Agility", "Taunt"], "nature": "Naughty"}
+        "Swimmer Wade": {"ability": "Rough Skin", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 56, "moves": ["Night Slash", "Skull Bash", "Agility", "Taunt"], "nature": "Naughty"}
     },
     "Shelgon":
     {
@@ -2141,7 +2141,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Shellder":
     {
-        "Swimmer♀ Miranda #2": {"ability": "Shell Armor", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Ice Beam", "Brine", "Iron Defense", "Whirlpool"], "nature": "Hasty"}
+        "Swimmer Miranda #2": {"ability": "Shell Armor", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 59, "moves": ["Ice Beam", "Brine", "Iron Defense", "Whirlpool"], "nature": "Hasty"}
     },
     "Shellos":
     {
@@ -2297,7 +2297,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Spheal":
     {
-        "Swimmer♀ Lydia": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Sheer Cold", "Blizzard", "Rest", "Snore"], "nature": "Quirky"}
+        "Swimmer Lydia": {"ability": "Thick Fat", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Sheer Cold", "Blizzard", "Rest", "Snore"], "nature": "Quirky"}
     },
     "Spinda":
     {
@@ -2431,7 +2431,7 @@ var CUSTOMSETDEX_Pl = {
     },
     "Surskit":
     {
-        "Swimmer♀ Mallory": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Baton Pass", "Mist", "Haze", "Agility"], "nature": "Mild"}
+        "Swimmer Mallory": {"ability": "Swift Swim", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 52, "moves": ["Baton Pass", "Mist", "Haze", "Agility"], "nature": "Mild"}
     },
     "Swablu":
     {
@@ -2476,16 +2476,16 @@ var CUSTOMSETDEX_Pl = {
     "Tentacool":
     {
         "Sailor Paul": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 31, "moves": ["Water Pulse", "Barrier", "Wrap", "Bubble Beam"], "nature": "Jolly"},
-        "Swimmer♂ Adrian": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Water Pulse", "Barrier", "Wrap", "Bubble Beam"], "nature": "Rash"},
-        "Swimmer♂ Francisco": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Hydro Pump", "Screech", "Poison Jab", "Water Pulse"], "nature": "Hasty"}
+        "Swimmer Adrian": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 30, "moves": ["Water Pulse", "Barrier", "Wrap", "Bubble Beam"], "nature": "Rash"},
+        "Swimmer Francisco": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Hydro Pump", "Screech", "Poison Jab", "Water Pulse"], "nature": "Hasty"}
     },
     "Tentacruel":
     {
-        "Swimmer♂ Erik": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Water Pulse", "Barrier", "Wrap", "Bubble Beam"], "nature": "Adamant"},
-        "Swimmer♂ Francisco #2": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 60, "moves": ["Wring Out", "Hydro Pump", "Screech", "Poison Jab"], "nature": "Mild"},
-        "Swimmer♂ Ricardo": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Screech", "Poison Jab", "Water Pulse", "Barrier"], "nature": "Gentle"},
-        "Swimmer♂ Wesley": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Screech", "Poison Jab", "Water Pulse", "Barrier"], "nature": "Serious"},
-        "Swimmer♂ Wesley #2": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Wring Out", "Hydro Pump", "Screech", "Poison Jab"], "nature": "Docile"}
+        "Swimmer Erik": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 35, "moves": ["Water Pulse", "Barrier", "Wrap", "Bubble Beam"], "nature": "Adamant"},
+        "Swimmer Francisco #2": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 60, "moves": ["Wring Out", "Hydro Pump", "Screech", "Poison Jab"], "nature": "Mild"},
+        "Swimmer Ricardo": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 45, "moves": ["Screech", "Poison Jab", "Water Pulse", "Barrier"], "nature": "Gentle"},
+        "Swimmer Wesley": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 43, "moves": ["Screech", "Poison Jab", "Water Pulse", "Barrier"], "nature": "Serious"},
+        "Swimmer Wesley #2": {"ability": "Clear Body", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 57, "moves": ["Wring Out", "Hydro Pump", "Screech", "Poison Jab"], "nature": "Docile"}
     },
     "Togekiss":
     {
@@ -2585,8 +2585,8 @@ var CUSTOMSETDEX_Pl = {
     },
     "Wailmer":
     {
-        "Swimmer♀ Crystal #2": {"ability": "Water Veil", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 56, "moves": ["Hydro Pump", "Bounce", "Dive", "Amnesia"], "nature": "Bold"},
-        "Swimmer♀ Lydia": {"ability": "Water Veil", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Bounce", "Dive", "Amnesia"], "nature": "Careful"}
+        "Swimmer Crystal #2": {"ability": "Water Veil", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 56, "moves": ["Hydro Pump", "Bounce", "Dive", "Amnesia"], "nature": "Bold"},
+        "Swimmer Lydia": {"ability": "Water Veil", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 54, "moves": ["Hydro Pump", "Bounce", "Dive", "Amnesia"], "nature": "Careful"}
     },
     "Wailord":
     {
@@ -2615,9 +2615,9 @@ var CUSTOMSETDEX_Pl = {
         "Sailor Damian": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 1, "df": 1, "hp": 1, "sa": 1, "sd": 1, "sp": 1}, "level": 31, "moves": ["Water Pulse", "Wing Attack", "Quick Attack"], "nature": "Bashful"},
         "Sailor Luther": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 41, "moves": ["Agility", "Pursuit", "Roost", "Quick Attack"], "nature": "Timid"},
         "Sailor Samson": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 1, "df": 1, "hp": 1, "sa": 1, "sd": 1, "sp": 1}, "level": 29, "moves": ["Water Pulse", "Wing Attack", "Supersonic"], "nature": "Brave"},
-        "Swimmer♀ Crystal": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Aerial Ace", "Agility", "Pursuit", "Roost"], "nature": "Brave"},
-        "Swimmer♀ Paige": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Aerial Ace", "Agility", "Pursuit", "Roost"], "nature": "Careful"},
-        "Swimmer♂ Colton": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 40, "moves": ["Agility", "Pursuit", "Roost", "Quick Attack"], "nature": "Docile"}
+        "Swimmer Crystal": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Aerial Ace", "Agility", "Pursuit", "Roost"], "nature": "Brave"},
+        "Swimmer Paige": {"ability": "Keen Eye", "gender": "F", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 42, "moves": ["Aerial Ace", "Agility", "Pursuit", "Roost"], "nature": "Careful"},
+        "Swimmer Colton": {"ability": "Keen Eye", "gender": "M", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 40, "moves": ["Agility", "Pursuit", "Roost", "Quick Attack"], "nature": "Docile"}
     },
     "Wobbuffet":
     {
