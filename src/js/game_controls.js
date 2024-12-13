@@ -658,6 +658,7 @@ function predictSwitchOrderEmerald() {
 						}
 						move.bp = $(".last-move-used > .move-bp").val();
 						var score = vanillaDamageCalcEmerald(attacker, defender, move, createField().clone().swap());
+						// console.log(`${attacker.name} using ${next.species}'s ${attacker.moves[j].name} -> ${score}`);
 						if (score > highestDamage.score) {
 							score %= 256;
 							highestDamage.pokemon = next;
