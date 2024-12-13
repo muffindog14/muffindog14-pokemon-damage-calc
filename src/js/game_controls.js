@@ -616,7 +616,8 @@ function predictSwitchOrderEmerald() {
 				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
 				var attacker = new calc.Pokemon(GENERATION, dead.species, {
 					level: dead.level,
-					moves: moves
+					moves: moves,
+					nature: createPokemon(dead.setName).nature
 				});
 				for (var j in attacker.moves) {
 					if (!advanced) {
