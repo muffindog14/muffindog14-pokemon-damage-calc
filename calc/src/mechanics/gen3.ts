@@ -286,14 +286,16 @@ export function calculateAttackADV(
     desc.attackerAbility = attacker.ability;
   }
 
-  if (field.attackerSide.isStoneBadge && move.hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison', 'Steel')) {
+  if ((field.attackerSide.isStoneBadge || field.attackerSide.isBoulderBadge) && move.hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison', 'Steel')) {
     at = Math.floor(at * 1.1);
-    desc.isStoneBadge = true;
+    desc.isStoneBadge = field.attackerSide.isStoneBadge;
+    desc.isBoulderBadge = field.attackerSide.isBoulderBadge;
   }
 
-  if (field.attackerSide.isMindBadge && move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon', 'Dark')) {
+  if ((field.attackerSide.isMindBadge || field.attackerSide.isVolcanoBadge) && move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon', 'Dark')) {
     at = Math.floor(at * 1.1);
-    desc.isMindBadge = true;
+    desc.isMindBadge = field.attackerSide.isMindBadge;
+    desc.isVolcanoBadge = field.attackerSide.isVolcanoBadge;
   }
 
   if (!attacker.hasItem('Sea Incense') && move.hasType(getItemBoostType(attacker.item))) {
@@ -352,11 +354,11 @@ export function calculateDefenseADV(
 
   let df = defender.rawStats[defenseStat];
 
-  if (field.defenderSide.isBalanceBadge && isPhysical) {
+  if ((field.defenderSide.isBalanceBadge || field.defenderSide.isSoulBadge) && isPhysical) {
     df = Math.floor(df * 1.1);
   }
 
-  if (field.defenderSide.isMindBadge && !isPhysical) {
+  if ((field.defenderSide.isMindBadge || field.defenderSide.isVolcanoBadge) && !isPhysical) {
     df = Math.floor(df * 1.1);
   }
 

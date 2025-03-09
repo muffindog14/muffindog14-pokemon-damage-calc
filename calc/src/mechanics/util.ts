@@ -99,7 +99,7 @@ export function getFinalSpeed(gen: Generation, pokemon: Pokemon, field: Field, s
     speed = Math.floor(speed * 1.25);
   }
 
-  if (field.attackerSide.isDynamoBadge && gen.num == 3) {
+  if ((field.attackerSide.isDynamoBadge || field.attackerSide.isThunderBadge) && gen.num == 3) {
     speed = Math.floor(speed * 1.1);
   }
 
