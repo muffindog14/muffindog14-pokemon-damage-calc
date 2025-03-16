@@ -8691,7 +8691,7 @@ var CUSTOMSETDEX_FRLG = {
         }
     },
     "Kangaskhan": {
-        "Boss Giovanni": {
+        "Boss Giovanni @ Rocket Hideout": {
             "ability": "Early Bird",
             "ivs": {
                 "at": 30,
@@ -8709,6 +8709,25 @@ var CUSTOMSETDEX_FRLG = {
                 "Bite"
             ],
             "nature": "Quirky"
+        },
+        "Boss Giovanni @ Silph Co.": {
+            "ability": "Early Bird",
+            "ivs": {
+                "at": 30,
+                "df": 30,
+                "hp": 30,
+                "sa": 30,
+                "sd": 30,
+                "sp": 30
+            },
+            "level": 35,
+            "moves": [
+                "Rage",
+                "Mega Punch",
+                "Fake Out",
+                "Tail Whip"
+            ],
+            "nature": "Relaxed"
         },
         "Cooltrainer Leroy": {
             "ability": "Early Bird",
@@ -12710,6 +12729,25 @@ var CUSTOMSETDEX_FRLG = {
         }
     },
     "Nidoqueen": {
+        "Boss Giovanni @ Silph Co.": {
+            "ability": "Poison Point",
+            "ivs": {
+                "at": 30,
+                "df": 30,
+                "hp": 30,
+                "sa": 30,
+                "sd": 30,
+                "sp": 30
+            },
+            "level": 41,
+            "moves": [
+                "Body Slam",
+                "Poison Sting",
+                "Double Kick",
+                "Tail Whip"
+            ],
+            "nature": "Gentle"
+        },
         "Cool Couple Ray & Tyra": {
             "ability": "Poison Point",
             "ivs": {
@@ -13154,6 +13192,25 @@ var CUSTOMSETDEX_FRLG = {
         }
     },
     "Nidorino": {
+        "Boss Giovanni @ Silph Co.": {
+            "ability": "Poison Point",
+            "ivs": {
+                "at": 30,
+                "df": 30,
+                "hp": 30,
+                "sa": 30,
+                "sd": 30,
+                "sp": 30
+            },
+            "level": 37,
+            "moves": [
+                "Fury Attack",
+                "Helping Hand",
+                "Horn Attack",
+                "Poison Sting"
+            ],
+            "nature": "Lonely"
+        },
         "Camper Bryce": {
             "ability": "Poison Point",
             "ivs": {
@@ -13724,7 +13781,7 @@ var CUSTOMSETDEX_FRLG = {
         }
     },
     "Onix": {
-        "Boss Giovanni": {
+        "Boss Giovanni @ Rocket Hideout": {
             "ability": "Rock Head",
             "ivs": {
                 "at": 30,
@@ -18270,7 +18327,7 @@ var CUSTOMSETDEX_FRLG = {
         }
     },
     "Rhyhorn": {
-        "Boss Giovanni": {
+        "Boss Giovanni @ Rocket Hideout": {
             "ability": "Lightning Rod",
             "ivs": {
                 "at": 30,
@@ -18288,6 +18345,25 @@ var CUSTOMSETDEX_FRLG = {
                 "Tail Whip"
             ],
             "nature": "Bashful"
+        },
+        "Boss Giovanni @ Silph Co.": {
+            "ability": "Lightning Rod",
+            "ivs": {
+                "at": 30,
+                "df": 30,
+                "hp": 30,
+                "sa": 30,
+                "sd": 30,
+                "sp": 30
+            },
+            "level": 37,
+            "moves": [
+                "Rock Blast",
+                "Scary Face",
+                "Fury Attack",
+                "Stomp"
+            ],
+            "nature": "Naughty"
         },
         "Cooltrainer Austina": {
             "ability": "Lightning Rod",
