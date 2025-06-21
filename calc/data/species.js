@@ -3269,7 +3269,7 @@ var EK_PATCH = {
     Omastar: { expYield: 199 },
     Onix: { expYield: 108 },
     Paras: { expYield: 70 },
-    Parasect: { bs: { hp: 90, at: 100 }, expYield: 128 },
+    Parasect: { expYield: 128 },
     Persian: { expYield: 148 },
     Pidgeot: { bs: { sp: 101 }, expYield: 172 },
     Pidgeotto: { expYield: 113 },
