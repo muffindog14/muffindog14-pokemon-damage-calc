@@ -3362,7 +3362,7 @@ var EK_PATCH = {
     Kingdra: { expYield: 207 },
     Lanturn: { bs: { at: 50, df: 66 }, expYield: 156 },
     Larvitar: { expYield: 67 },
-    Ledian: { abilities: { 0: 'Huge Power' }, expYield: 134 },
+    Ledian: { abilities: { 0: 'Huge Power' }, bs: { at: 60, sa: 60 }, expYield: 153 },
     Ledyba: { expYield: 54 },
     Lugia: { expYield: 220 },
     Magby: { expYield: 117 },
