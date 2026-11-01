@@ -7218,7 +7218,7 @@ var XY = (0, util_1.extend)(true, {}, BW, XY_PATCH);
 XY['Arceus'].otherFormes.push('Arceus-Fairy');
 XY['Arceus'].otherFormes.sort();
 var SM_PATCH = {
-    'Alakazam-Mega': { bs: { sd: 105 } },
+    'Alakazam-Mega': { bs: { sd: 195 } },
     Arbok: { bs: { at: 95 } },
     Ariados: { bs: { sd: 70 } },
     Beartic: { bs: { at: 130 } },
