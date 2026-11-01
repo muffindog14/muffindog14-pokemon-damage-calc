@@ -14,7 +14,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Aerodactyl":
     {
-        "Champion Steven": {"ability": "Rock Head", "item": "Lum Berry", "level": 100, "moves": ["Sky Attack", "Earthquake", "Flamethrower", "Ancientpower"], "nature": "Bashful"},
+        "Champion Steven": {"ability": "Pressure", "item": "Lum Berry", "level": 10, "moves": ["Sky Attack", "Earthquake", "Flamethrower", "Ancientpower"], "nature": "Bashful"},
         "Expert Mitchell": {"ability": "Rock Head", "item": "Lum Berry", "level": 86, "moves": ["Earthquake", "Air Slash", "Double-Edge", "Ancientpower"], "nature": "Quirky"},
         "Leader Winona": {"ability": "Rock Head", "item": "Lum Berry", "level": 54, "moves": ["Hidden Power Flying", "Ancientpower", "Double-Edge", "Earthquake"], "nature": "Naive"},
         "Old Couple John & Jay": {"ability": "Rock Head", "item": "Lum Berry", "level": 75, "moves": ["Earth Power", "Air Slash", "Ancientpower", "Iron Tail"], "nature": "Quiet"}
