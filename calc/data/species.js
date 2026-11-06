@@ -67,13 +67,6 @@ exports.__esModule = true;
 
 var util_1 = require("../util");
 var RBY = {
-    Abra: {
-        types: ['Psychic'],
-        bs: { hp: 25, at: 20, df: 15, sp: 90, sl: 105 },
-        weightkg: 19.5,
-        nfe: true,
-        expYield: 75
-    }
 };
 var GSC_PATCH = {
 };
